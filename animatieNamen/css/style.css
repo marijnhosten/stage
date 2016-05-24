@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 1920px;
+    height: 1080px;
+    background: #00AB39;
+}
+svg {
+    height: auto;
+    width: auto;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+}
+
+#firstName {
+    width: 200px;
+    height: 50px;
+    left: 1210px;
+    transform: rotate(7deg);
+    top: 465px;
+}
+
+#secondName {
+    width: 220px;
+    height: 50px;
+    left: 1250px;
+    top: 625px;
+}
+
+#thirdName {
+    width: 200px;
+    height: 50px;
+    left: 920px;
+    top: 425px;
+}

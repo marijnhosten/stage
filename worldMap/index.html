@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Barco</title>
+    <link rel="stylesheet" href="dist/css/reset.css">
+    <link rel="stylesheet" href="dist/css/style.css">
+</head>
+<body>
+
+<header>
+    <div id="title">
+        <p id="targetName">target name: <span id="userName"></span></p>
+        <p id="locationName">location: <span id="userLocation"></span></p>
+        <p id="dateP">date: <span id="date"></span></p>
+    </div>
+    <div id="coordinates">
+        <p id="coordP">Coordinates:</p>
+        <p id="lonLat"></p>
+    </div>
+    <h1 id="localTimeH">local time</h1>
+    <div id="localTime">
+        <div id="time"><span id="clock"><span class="hour">00</span>:<span class="minute">00</span></span></div>
+    </div>
+</header>
+
+<div id="animLeft">
+    <video width="1920" height="1080" loop autoplay>
+        <source src="dist/assets/webm/elementen_test_3.webm" type="video/webm">
+    </video>
+</div>
+
+<div id="latLine"></div>
+<div id="lonLine"></div>
+
+<div id="crossVertical"></div>
+<div id="crossHorizontal"></div>
+
+
+<script src="dist/js/jquery-2.2.3.min.js"></script>
+<script src="dist/js/app.min.js"></script>
+</body>
+</html>

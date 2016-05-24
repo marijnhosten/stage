@@ -1,0 +1,227 @@
+@font-face {
+  font-family: octaRegular;
+  src: url(../assets/font/octar-017.ttf);
+}
+
+@font-face {
+  font-family: octaBold;
+  src: url(../assets/font/octab-017.ttf);
+}
+
+@font-face {
+  font-family: octaLight;
+  src: url(../assets/font/octal-017.ttf);
+}
+
+@font-face {
+  font-family: octaUltraLight;
+  src: url(../assets/font/octaul-017.ttf);
+}
+
+body {
+  margin: 0;
+  background: #000000;
+  overflow: hidden;
+  -webkit-user-select: none;
+  cursor: none;
+
+  #animLeft {
+
+    position: absolute;
+    z-index: -1;
+    max-width: 1020px;
+    margin: 0;
+    padding: 0;
+    width: 500px;
+  }
+
+  header {
+
+    font-family: octaRegular;
+    width: 100%;
+    height: 250px;
+    position: absolute;
+    z-index: 1;
+
+    #title {
+      width: 0;
+      margin: 50px 0px 10px 50px;
+      height: 75px;
+      border-top: 2px solid #ffffff;
+      border-bottom: 2px solid #ffffff;
+      letter-spacing: 1px;
+
+      p {
+        font-size: 36px;
+        color: white;
+        text-transform: uppercase;
+        display: inline-block;
+        margin: 20px auto;
+        position: absolute;
+      }
+
+      #targetName {
+        width: 0;
+        height: 40px;
+        overflow: hidden;
+        white-space: nowrap;
+
+        #userName {
+          font-family: octaBold;
+        }
+      }
+
+      #locationName {
+        margin: 20px 0 0 800px;
+        color: #ec8b6c;
+        width: 0;
+        overflow: hidden;
+        white-space: nowrap;
+
+        #userLocation {
+          font-family: octaBold;
+        }
+      }
+
+      #dateP {
+        margin: 20px 0 0 1580px;
+        width: 0;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+
+    }
+
+    #coordinates {
+
+      width: 450px;
+      height: 80px;
+      margin-left: 50px;
+
+      p {
+        color: #ffffff;
+        font-family: octaRegular;
+        font-size: 32px;
+        letter-spacing: 2px;
+      }
+
+      #coordP, #lonLat {
+        width: 0;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+    }
+
+    h1 {
+      font-size: 32px;
+      color: #fff;
+      text-transform: uppercase;
+      text-align: right;
+      letter-spacing: 1px;
+
+    }
+
+    #localTimeH {
+      width: 0;
+      overflow: hidden;
+      white-space: nowrap;
+      position: absolute;
+      left: 1735px;
+      top: 140px;
+    }
+
+    #localTime {
+
+      margin-top: -40px;
+      width: 270px;
+      margin-left: 1600px;
+
+      #time {
+        width: 245px;
+        height: 60px;
+        border: 1px solid #fff;
+        margin-left: 23px;
+        text-align: center;
+        opacity: 0;
+
+        #clock {
+          color: white;
+          font-size: 65px;
+
+          .hour {
+            margin-right: 15px;
+            letter-spacing: 5px;
+          }
+
+          .minute {
+            margin-left: 15px;
+            letter-spacing: 5px;
+          }
+        }
+      }
+
+    }
+  }
+
+  #earth, #earthBg {
+    position: absolute;
+    z-index: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0;
+    width: 100%;
+    height: 100%;
+    background-size: 77%;
+    background-repeat: no-repeat;
+    background-position: right 50px bottom;
+  }
+
+  #earth {
+    background-image: url(../assets/img/earth.png);
+  }
+
+  #earthBg {
+    background-image: url(../assets/img/earthBg.png);
+  }
+
+  #lonLine, #latLine {
+    position: absolute;
+    background: #fff;
+    z-index: 1;
+
+  }
+
+  #lonLine {
+    width: 1520px;
+    height: 1px;
+    top: 280px;
+    left: 1920px;
+  }
+
+  #latLine {
+    width: 1px;
+    height: 780px;
+    left: 390px;
+    top: 1080px;
+  }
+
+    #crossVertical, #crossHorizontal {
+      position: absolute;
+      background: #fff;
+      opacity: 0;
+    }
+
+    #crossVertical {
+      width: 1px;
+      height: 300px;
+      top: 300px;
+      left: 500px;
+    }
+
+    #crossHorizontal {
+      height: 1px;
+      width: 300px;
+      top: 400px;
+      left: 350px;
+    }
+}
