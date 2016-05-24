@@ -1,0 +1,175 @@
+<section ng-controller="progressController">
+
+
+    <div class="lockScreen" ng-click="nextStep('step1_3')"></div>
+    <div id="skipTutorial">
+        <a ng-click="changeView('step2', 'false')"><span class="skipTutorial"></span></a>
+    </div>
+    <div id="step1_2">
+        <div class="tutorial">
+            <div class="slidersTut">
+
+                <div class="sliderBlock">
+                    <div class="logo">
+                        <img id="image1" src="./dist/images/clock.png" alt="Clock">
+
+                        <div class="descAlign">
+                            <span class="description desc1"></span>
+                        </div>
+                    </div>
+
+                    <div class="slider">
+                        <div class="minValueContainer">
+                            <span class="minValue">8 h</span>
+                        </div>
+
+                        <div id="tutSlider1" class="sliderTriangle">
+                            <img id="tutBlackImg1" class="blackImg" src="./dist/images/blackSlider.png" alt="">
+                            <img src="./dist/images/coloredSlider.png" alt="" id="coloredImg1" class="coloredImg">
+
+                            <div id="tutorThumb1" class="thumb">
+                                <img src="./dist/images/thumb.png" alt="">
+                            </div>
+                            <div class="rangeValueContainer">
+                                <span class="rangeValue"><span class="strong">8</span><span> h</span></span>
+                            </div>
+
+                        </div>
+
+                        <span class="maxValue">16 h</span>
+                    </div>
+                </div>
+                <div class="sliderBlock">
+                    <div class="logo">
+                        <img src="./dist/images/rain.png" alt="Clock">
+
+                        <div class="descAlign">
+                            <span class="description desc2"></span>
+                        </div>
+                    </div>
+
+                    <div class="slider">
+                        <div class="minValueContainer">
+                            <span class="minValue">5 l/m<sup>2</sup></span>
+                        </div>
+                        <div id="tutSlider2" class="sliderTriangle">
+                            <img class="blackImg" id="tutBlackImg2" src="./dist/images/blackSlider.png" alt="">
+                            <img src="./dist/images/coloredSlider.png" alt="" id="coloredImg2" class="coloredImg">
+
+                            <div id="tutorThumb2" class="thumb">
+                                <img src="./dist/images/thumb.png" alt="">
+                            </div>
+                            <div class="rangeValueContainer">
+                                <span class="rangeValue"><span class="strong">5</span><span> l/m²</span></span>
+                            </div>
+                        </div>
+                        <span class="maxValue">10 l/m<sup>2</sup></span>
+                    </div>
+                </div>
+                <div class="sliderBlock">
+                    <div class="logo">
+                        <img src="./dist/images/temperature.png" alt="Clock">
+
+                        <div class="descAlign">
+                            <span class="description desc3"></span>
+                        </div>
+                    </div>
+
+                    <div class="slider">
+                        <div class="minValueContainer">
+                            <span class="minValue">10 °C</span>
+                        </div>
+                        <div id="tutSlider3" class="sliderTriangle">
+                            <img class="blackImg" id="tutBlackImg3" src="./dist/images/blackSlider.png" alt="">
+                            <img src="./dist/images/coloredSlider.png" alt="" id="coloredImg3" class="coloredImg">
+
+                            <div id="tutorThumb3" class="thumb">
+                                <img src="./dist/images/thumb.png" alt="">
+                            </div>
+                            <div class="rangeValueContainer">
+                                <span class="rangeValue"><span class="strong">10</span><span> °C</span></span>
+                            </div>
+                        </div>
+                        <span class="maxValue">30 °C</span>
+                    </div>
+                </div>
+                <div class="sliderBlock">
+                    <div class="logo">
+                        <img src="./dist/images/sunlight.png" alt="Clock">
+
+                        <div class="descAlign">
+                            <span class="description desc4"></span>
+                        </div>
+                    </div>
+
+                    <div class="slider">
+                        <div class="minValueContainer">
+                            <span class="minValue">2 mol</span>
+                        </div>
+                        <div id="tutSlider4" class="sliderTriangle">
+                            <img class="blackImg" id="tutBlackImg4" src="./dist/images/blackSlider.png" alt="">
+                            <img src="./dist/images/coloredSlider.png" alt="" id="coloredImg4" class="coloredImg">
+
+                            <div id="tutorThumb4" class="thumb">
+                                <img src="./dist/images/thumb.png" alt="">
+                            </div>
+                            <div class="rangeValueContainer">
+                                <span class="rangeValue"><span class="strong">2</span><span> mol</span></span>
+                            </div>
+                        </div>
+                        <span class="maxValue">15 mol</span>
+                    </div>
+                </div>
+                <div class="sliderBlock">
+                    <div class="logo">
+                        <img src="./dist/images/CO2.png" alt="Clock">
+
+                        <div class="descAlign">
+                            <span class="description desc5"></span>
+                        </div>
+                    </div>
+
+                    <div class="slider">
+                        <div class="minValueContainer">
+                            <span class="minValue" id="ppm">380 ppm</span>
+                        </div>
+                        <div id="tutSlider5" class="sliderTriangle">
+                            <img class="blackImg" id="tutBlackImg5" src="./dist/images/blackSlider.png" alt="">
+                            <img src="./dist/images/coloredSlider.png" alt="" id="coloredImg5" class="coloredImg">
+
+                            <div id="tutorThumb5" class="thumb">
+                                <img src="./dist/images/thumb.png" alt="">
+                            </div>
+                            <div class="rangeValueContainer">
+                                <span class="rangeValue"><span class="strong">380</span><span> ppm</span></span>
+                            </div>
+                        </div>
+                        <span class="maxValue">900 ppm</span>
+                    </div>
+                </div>
+
+            </div>
+            <div class="infoTut">
+                <div class="clock">
+                    <p class="message"></p>
+
+                    <div class="countdown">00:30</div>
+                    <div class="upsidedown">00:30</div>
+                </div>
+
+                <a href="" id="tmrStop"><span class="ready"></span></a>
+            </div>
+        </div>
+
+        <div class="scene">
+            <div class="dot"></div>
+        </div>
+
+    </div>
+    <div class="introBolletjes">
+        <div class="progressCircle" id="circle1"></div>
+        <div class="progressCircle green" id="circle2"></div>
+        <div class="progressCircle" id="circle3"></div>
+    </div>
+    <div ng-include="'./dist/pages/end.html'"></div>
+</section>

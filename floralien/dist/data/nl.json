@@ -1,0 +1,94 @@
+[
+  {
+    "class": ".message",
+    "text": "resterende tijd:"
+  },
+  {
+    "class": ".goal",
+    "text": "doel"
+  },
+  {
+    "class": ".warning",
+    "text": "opgelet"
+  },
+  {
+    "class": ".desc1",
+    "text": "aantal lichturen"
+  },
+  {
+    "class": ".desc2",
+    "text": "hoeveelheid water"
+  },
+  {
+    "class": ".desc3",
+    "text": "temperatuur"
+  },
+  {
+    "class": ".desc4",
+    "text": "lichtsterkte"
+  },
+  {
+    "class": ".desc5",
+    "text": "bemesting"
+  },
+  {
+    "class": ".1_1Greeting1",
+    "text": "Beste bezoeker,"
+  },
+  {
+    "class": ".1_1Greeting2",
+    "text": "In de serreteelt wordt het klimaat door een computer met input van sensoren gestuurd. Hoe kan je nu met temperatuur, licht, CO2 en water de groei en kwaliteit van sierplanten beïnvloeden? Dit kan je hierna testen met snijchrysant, een kortedagplant. Jouw teelt start begin februari wanneer de stengels 30 cm lang zijn en enkel bladeren hebben. De week voor Pasen wil je deze chrysanten op de markt brengen. Stel jouw klimaat in en kijk welke kwaliteit je bekomt."
+  },
+  {
+    "class": ".1_1Greeting3",
+    "text": "Succes!"
+  },
+  {
+    "class": ".1_3Msg",
+    "text": "Vervolgens krijg je een overzicht te zien van de door jou gekozen waarden met wat uitleg erbij."
+  },
+  {
+    "class": ".3Info1",
+    "text": "Chrysant is een korte dag plant, dus bloemen worden aangelegd bij daglengtes korter dan 12h. als de daglengte hoger is dan 12 blijft snijchrysant bladeren aanleggen en geen bloemen."
+  },
+  {
+    "class": ".3Info2",
+    "text": "Dit is de hoeveelheid water nodig tijdens de stengelgroei van 30 cm naar 80 cm. Minder water zorgt voor stress, de plant zal minder sterk groeien en minder bloemen aanleggen."
+  },
+  {
+    "class": ".3Info3",
+    "text": "Snijchrysanten groeien ideaal tussen 18 en 21°C. Lagere temperaturen zorgen ervoor dat bladeren en bloemen trager uitgroeien, de teeltduur verlengt. Hogere temperaturen zorgen voor hittestress, deze stress is hoger indien er weinig zonlicht is."
+  },
+  {
+    "class": ".3Info4",
+    "text": "Tijdens de winter en het voorjaar is er soms te weinig licht (2-3 mol/dag). Dit zorgt voor minder fotosyntese, tragere groei en minder bloemen. De teler kan dagelijks 3 tot 4 mol extra belichten om een betere kwaliteit in deze periode te krijgen."
+  },
+  {
+    "class": ".3Info5",
+    "text": "In de atmosfeer is de CO2 ongeveer 380-400 ppm. CO2 toevoegen tot 600-900 ppm verhoogt de fotosynthese en geeft een betere kwaliteit."
+  },
+  {
+    "class": ".3UwTitle",
+    "text": "Uw chrysant"
+  },
+  {
+    "class": ".3IdeaalTitle",
+    "text": "Ideaal"
+  },
+  {
+    "class": ".1_3IdeaalTitle",
+    "text": "Ideaal"
+  },
+  {
+    "class": ".1_3UwTitle",
+    "text": "Uw chrysant"
+  },
+  {
+    "class": ".skipTutorial",
+    "text": "tutorial overslaan"
+  },
+  {
+    "class": ".ready",
+    "text": "klaar!"
+  }
+]

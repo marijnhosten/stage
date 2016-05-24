@@ -1,0 +1,1580 @@
+{
+  "id": 1,
+  "exhibit_link": 39,
+  "exploratorium_seasons": [
+    {
+      "id": 1,
+      "nameNL": "Getijen en seizoenen",
+      "nameFR": "FR Getijen en seizoenen",
+      "nameEN": "EN Getijen en seizoenen",
+      "nameDE": "DE Getijen en seizoenen",
+      "video": "uploads\/project_4\/exhibit_39\/uploads\/videos\/ef3mjrscjx5r5bnmgyyhk56sn352syp74kecsmkxcnp2cppmcl.webm",
+      "exploratorium_id": 1
+    }
+  ],
+  "exploratorium_video_screensavers": [
+    {
+      "id": 1,
+      "titleNL": "Wat zeggen de experts?",
+      "titleFR": "Que disent les experts ?",
+      "titleEN": "What Do the Experts Say?",
+      "titleDE": "Was sagen die Experten?",
+      "image": "uploads\/project_4\/exhibit_39\/uploads\/img\/5qad8yz4kpq2z3gvnww6y439l9dneg3bkgteg425i22289ud2v.jpg",
+      "exploratorium_id": 1
+    }
+  ],
+  "exploratorium_videos": [
+    {
+      "id": 9,
+      "nameNL": "Opvetten en wegwezen",
+      "nameFR": "Le plein avant le d\u00e9part",
+      "nameEN": "Fatten Up and Go ",
+      "nameDE": "Fettdepots anlegen und abfliegen",
+      "image": "",
+      "textNL": "Hoe komen vogels aan brandstof voor hun lange trek? Bioloog Kris Struyf van het Zwin Natuur Park legt het uit.",
+      "textFR": "Comment les oiseaux font-ils le plein de carburant avant leur long voyage ? Explications du biologiste Kris Struyf du Zwin Parc Nature.",
+      "textEN": "How do birds fuel up for their long journeys? Kris Struyf, a biologist at Zwin Nature Park, knows the answer.",
+      "textDE": "Wie k\u00f6nnen V\u00f6gel sich mit ausreichend Brennstoff f\u00fcr den langen Zug bevorraten? Biologe Kris Struyf des Naturparks Zwin erkl\u00e4rt.",
+      "video": "uploads\/project_4\/exhibit_39\/uploads\/videos\/gxg7x2oa3curmkmiog79w8vlluyxwdm6c5vt0dnkkvqf8e8a8a.webm",
+      "language_code": "EN",
+      "exploratorium_id": 1
+    },
+    {
+      "id": 27,
+      "nameNL": "Opvetten en wegwezen",
+      "nameFR": "Le plein avant le d\u00e9part",
+      "nameEN": "test FR",
+      "nameDE": "test FR",
+      "image": "",
+      "textNL": "",
+      "textFR": "Comment les oiseaux font-ils le plein de carburant avant leur long voyage ? Explications du biologiste Kris Struyf du Zwin Parc Nature.",
+      "textEN": "",
+      "textDE": "",
+      "video": "uploads\/project_4\/exhibit_39\/uploads\/videos\/hfg5cat8v8x880rc0hoxloz8xtj025nhe685y3of9tqs6b8151.webm",
+      "language_code": "FR",
+      "exploratorium_id": 1
+    },
+    {
+      "id": 44,
+      "nameNL": "Opvetten en wegwezen",
+      "nameFR": "Le plein avant le d\u00e9part",
+      "nameEN": "Fatten Up and Go ",
+      "nameDE": "Fettdepots anlegen und abfliegen",
+      "image": null,
+      "textNL": "Hoe komen vogels aan brandstof \r\nvoor hun lange trek? \r\n\r\nBioloog Kris Struyf van \r\nhet Zwin Natuur Park legt het uit.",
+      "textFR": "Comment les oiseaux font-ils \r\nle plein de carburant avant \r\nleur long voyage ?\r\n\r\n Explications du biologiste Kris Struyf \r\ndu Zwin Parc Nature.",
+      "textEN": "How do birds fuel up \r\nfor their long journeys? \r\n\r\nKris Struyf, a biologist \r\nat Zwin Nature Park, \r\nknows the answer.",
+      "textDE": "Wie k\u00f6nnen V\u00f6gel sich mit \r\nausreichend Brennstoff f\u00fcr \r\nden langen Zug bevorraten? \r\n\r\nBiologe Kris Struyf \r\ndes Naturparks Zwin erkl\u00e4rt.",
+      "video": "uploads\/project_4\/exhibit_39\/uploads\/videos\/gsw3b5aeiop0m425t57k2t9r3w4dxdvmir0bcpkfzwz26crzwb.webm",
+      "language_code": "NL",
+      "exploratorium_id": 1
+    }
+  ],
+  "exploratorium_multithemes": [
+    {
+      "id": 1,
+      "exploratorium_id": 2,
+      "nameNL": "Leren om te reizen",
+      "nameFR": "Apprendre \u00e0 voyager",
+      "nameEN": "Learn to Travel",
+      "nameDE": "Reisen, und wie es zu lernen",
+      "image": "uploads\/project_4\/exhibit_41\/uploads\/img\/zwin1.jpg",
+      "exploratorium_multithemes_settings": [],
+      "exploratorium_multithemes_categories": [
+        {
+          "id": 1,
+          "nameNL": "Hoe werkt vliegen?",
+          "nameFR": "FR Het Zwin als gedekte tafel",
+          "nameEN": "EN Het Zwin als gedekte tafel",
+          "nameDE": "DE Het Zwin als gedekte tafel",
+          "textNL": "Hoe slagen vogels en vliegtuigen daar in godsnaam in: in de lucht blijven?En hoe komt het eigenlijk dat mensen niet op eigen kracht kunnen vliegen",
+          "textFR": "Il existe environ dix mille esp\u00e8ces d\u2019oiseaux sur terre. La moiti\u00e9 ne migre pas, elle niche et passe l\u2019hiver au m\u00eame endroit. Ce qui est parfaitement compr\u00e9hensible. La migration demande une \u00e9nergie ph\u00e9nom\u00e9nale, et est tr\u00e8s p\u00e9rilleuse. Pourquoi l\u2019autre moiti\u00e9 migre-t-elle dans ce cas ?",
+          "textEN": "There are about ten thousand different bird species. Half of these birds never migrate: they breed and winter in the same location. That makes perfect sense, since migrating requires a lot of energy and is fraught with danger. Why, then, does the other half of the species take the risk? ",
+          "textDE": "In der Welt gibt es etwa zehntausend Vogelarten. Die H\u00e4lfte davon zieht nicht: Sie br\u00fcten und \u00fcberwintern am gleichen Ort. Das ist einfach zu verstehen. Ziehen kostet enorm viel Energie und ist au\u00dferdem lebensgef\u00e4hrlich. Die Frage ist also: Warum zieht die andere H\u00e4lfte dann trotzdem?",
+          "exploratorium_multitheme_id": 1,
+          "exploratorium_multithemes_contents": [
+            {
+              "id": 1,
+              "nameNL": "Blijven of weggaan?",
+              "nameFR": "Rester ou partir ?",
+              "nameEN": "The need to feed",
+              "nameDE": "Bleiben oder gehen?",
+              "textNL": "Vogels trekken in de eerste plaats omdat ze op zoek zijn naar eten. Dat doen natuurlijk alle dieren, maar alleen vogels kunnen hun voedsel duizenden kilometers verderop gaan zoeken. Ze kunnen namelijk vliegen. \r\n\r\nEr zijn ook nog andere redenen om te trekken. Rosse grutto's gaan broeden in Siberi\u00eb, wellicht onder meer omdat daar door de kou veel minder ziektekiemen zijn. Bij blauwe reigers trekt een klein deel naar West-Afrika: zo vermijden ze strenge winters, die in extreme gevallen de helft van de thuisblijvers het leven kosten.\r\n",
+              "textFR": "C\u2019est d\u2019abord le manque de nourriture qui pousse les oiseaux \u00e0 migrer. Les oiseaux ont ceci de particulier qu\u2019ils peuvent aller chercher leur nourriture \u00e0 des milliers de kilom\u00e8tres, puisqu\u2019ils peuvent voler. \r\n\r\nMais il existe d\u2019autres raisons de migrer. Les barges rousses vont nicher en Sib\u00e9rie, probablement parce qu\u2019il y a l\u00e0-bas beaucoup moins de germes pathog\u00e8nes, vu le froid. Une petite proportion de h\u00e9rons cendr\u00e9s migrent en Afrique de l\u2019Ouest : ils \u00e9vitent ainsi les hivers rudes qui, dans des cas extr\u00eames, co\u00fbtent la vie \u00e0 la moiti\u00e9 de ceux qui sont rest\u00e9s.\r\n",
+              "textEN": "Food, and how to find it, is the main reason why birds migrate. Obviously all animals have to eat, but only birds can fly - and they sometimes fly thousands of kilometres to look for a little something to nibble on.\r\n\r\nApart from the search for food, birds have other reasons to migrate. One of the reasons why bar-tailed godwits fly to Siberia to breed is because it's probably too cold there for many pathogens. Small numbers of grey herons migrate to West Africa in autumn to avoid the harsh northern winters, which can easily kill off half of the heron population.\r\n",
+              "textDE": "An erster Stelle ziehen V\u00f6gel, weil sie auf der Suche nach Nahrung sind. Alle Tiere tun dies nat\u00fcrlich, aber nur die V\u00f6gel k\u00f6nnen ihre Nahrung in tausenden Kilometern Entfernung suchen. Denn sie k\u00f6nnen fliegen. \r\n\r\nEs gibt auch noch andere Gr\u00fcnde f\u00fcr den Vogelzug. Pfuhlschnepfen br\u00fcten in Sibirien, wahrscheinlich weil die K\u00e4lte daf\u00fcr sorgt, dass dort viel weniger Krankheitserreger sind. Ein kleiner Teil der Graureiher zieht nach Westafrika: So vermeiden sie strenge Winter, die im Extremfall der H\u00e4lfte der Daheimgebliebenen das Leben kosten k\u00f6nnen.\r\n",
+              "rank": 1,
+              "video": "",
+              "exploratorium_multithemes_id": 1,
+              "exploratorium_multithemes_category_id": 1,
+              "exploratorium_multithemes_images": [
+                {
+                  "id": 1,
+                  "name": "Trekkende vogels",
+                  "image": "uploads\/project_4\/exhibit_41\/uploads\/img\/zwin2.jpg",
+                  "exploratorium_multithemes_content_id": 1
+                },
+                {
+                  "id": 1,
+                  "name": "Trekkende vogels",
+                  "image": "uploads\/project_4\/exhibit_41\/uploads\/img\/zwin1.jpg",
+                  "exploratorium_multithemes_content_id": 1
+                },
+                {
+                  "id": 1,
+                  "name": "Trekkende vogels",
+                  "image": "uploads\/project_4\/exhibit_41\/uploads\/img\/zwin2.jpg",
+                  "exploratorium_multithemes_content_id": 1
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "nameNL": "De vier seizoenen",
+              "nameFR": "Les quatre saisons",
+              "nameEN": "Four seasons",
+              "nameDE": "Die vier Jahreszeiten",
+              "textNL": "In een gematigd klimaat, zoals hier in het Zwin, hebben vogels meestal weinig problemen om eten te vinden. Vooral in de lente is er een explosie van nieuw leven. Daarom broeden vogels in het voorjaar: er is dan genoeg eten voor henzelf en voor hun jongen. Maar na de zomer verandert dat. Planten sterven, insecten verdwijnen. De dagen worden korter, zodat er minder tijd is om te foerageren. De vogels hebben meer energie nodig om zichzelf warm te houden. En valt er sneeuw, dan wordt het weinige voedsel onbereikbaar.\r\n\r\n  De oplossing: de winter doorbrengen in het  warmere zuiden, waar er w\u00e9l nog eten is.  'Het warme zuiden' is overigens een relatief begrip. Voor kolganzen, die een groot deel van het jaar in Siberi\u00eb leven, is het zuiden zoals bijvoorbeeld een hoekje van Noordwest-Europa.",
+              "textFR": "Dans un climat temp\u00e9r\u00e9, comme ici au Zwin, les oiseaux trouvent g\u00e9n\u00e9ralement de la nourriture sans trop de probl\u00e8mes. Au printemps, la vie explose. Les oiseaux se reproduisent au printemps car ils trouvent alors un garde-manger bien rempli pour eux et leur prog\u00e9niture.   Mais apr\u00e8s l\u2019\u00e9t\u00e9, cela change. Les plantes meurent, les insectes disparaissent. Les jours raccourcissent, ils ont donc moins de temps pour fourrager. Les oiseaux doivent d\u00e9penser plus d\u2019\u00e9nergie pour maintenir leur temp\u00e9rature corporelle. Et s\u2019il neige, la nourriture d\u00e9j\u00e0 rare devient inaccessible. La solution : passer l\u2019hiver dans le sud, o\u00f9 il fait plus chaud et o\u00f9 il y a encore de la nourriture. 'La chaleur du sud' est d\u2019ailleurs un concept relatif. Pour les oies rieuses, qui vivent une bonne partie de l\u2019ann\u00e9e en Sib\u00e9rie, le sud est tout simplement un coin du nord-ouest de l\u2019Europe.",
+              "textEN": "In a moderate climate, such as here in the Zwin, birds usually have little trouble finding food. Spring sees an explosion of new life, which is why it's the breeding season: in the spring, birds can find ample food for themselves and their young. After the summer however, things change. Plants wither and insects disappear. Day-length shortens, leaving the birds less time to forage. Birds need more energy to keep warm. If it snows, whatever food is left becomes inaccessible. The obvious solution is to spend winter in the south where it's warmer and there's more food. (Incidentally, 'warmer' is a relative concept. For instance, greater white-fronted geese, which spend most of the year in Siberia, spend their winters in Northwest Europe.) ",
+              "textDE": "In einem gem\u00e4\u00dfigten Klima, wie hier im Zwin, haben V\u00f6gel meistens nur wenig Probleme, um Nahrung zu finden. Vor allen im Fr\u00fchling, wenn sich das neue Leben rasant vermehrt. Deshalb br\u00fcten V\u00f6gel im Fr\u00fchling: Dann ist gen\u00fcgend Nahrung f\u00fcr sie und ihre Jungen vorhanden. Aber nach dem Sommer \u00e4ndert sich das. Pflanzen sterben, Insekte verschwinden. Die Tage werden k\u00fcrzer, sodass f\u00fcr die Nahrungssuche weniger Zeit bleibt. Die V\u00f6gel brauchen mehr Energie, um sich warm zu halten. Und wenn es schneit, ist die wenige noch vorhandene Nahrung nicht l\u00e4nger erreichbar. Die L\u00f6sung: Im w\u00e4rmeren S\u00fcden, wo schon noch Nahrung zu finden ist, \u00fcberwintern. Der Begriff \u201eder warme S\u00fcden\u201c ist \u00fcbrigens eher relativ. F\u00fcr Bl\u00e4ssg\u00e4nse, die einen Gro\u00dfteil des Jahres in Sibirien verbringen, ist der S\u00fcden zum Beispiel eine kleine Ecke in Nordwesteuropa.",
+              "rank": 2,
+              "video": "",
+              "exploratorium_multithemes_id": 1,
+              "exploratorium_multithemes_category_id": 1,
+              "exploratorium_multithemes_images": [
+                {
+                  "id": 3,
+                  "name": "Foeragerende zwingels",
+                  "image": "uploads\/project_4\/exhibit_41\/uploads\/img\/zwin1.jpg",
+                  "exploratorium_multithemes_content_id": 2
+                }
+              ]
+            },
+            {
+              "id": 28,
+              "nameNL": "Waarom blijven ze niet ginds?",
+              "nameFR": "Pourquoi ne restent-ils pas l\u00e0 o\u00f9 ils sont ?",
+              "nameEN": "Why don't they stay in their wintering grounds?",
+              "nameDE": "Warum bleiben sie nicht dort?",
+              "textNL": "Maar waarom blijven vogels niet het hele jaar in hun overwinteringsgebied? Veel vogels brengen de winter door in Zuid-Europa en West-Afrika, maar daar vinden ze geen geschikte biotoop om te broeden. De rest van het jaar is het er erg droog, zodat er snel te weinig eten is, vooral voor de jongen. De zomerdagen zijn er ook korter dan bij ons, waardoor ze minder lang naar voedsel zouden kunnen zoeken. Er spelen ook nog andere factoren mee: de aanwezigheid van ziektekiemen bijvoorbeeld, of concurrentie van andere soorten, of de aanwezigheid van roofdieren.  ",
+              "textFR": "Mais pourquoi les oiseaux ne restent-ils pas sur leur site d\u2019hivernage toute l\u2019ann\u00e9e ? Beaucoup d\u2019oiseaux passent l\u2019hiver dans le sud de l\u2019Europe et en Afrique occidentale, mais ils n\u2019y trouvent pas de biotope adapt\u00e9 pour nicher. Il y fait tr\u00e8s sec le restant de l\u2019ann\u00e9e, si bien que la p\u00e9nurie de nourriture guette les oiseaux, et surtout les petits. L\u2019\u00e9t\u00e9, les jours sont plus courts que chez nous, si bien que les oiseaux ont moins de temps pour chercher de la nourriture. D\u2019autres facteurs jouent un r\u00f4le, comme la pr\u00e9sence de germes pathog\u00e8nes, la concurrence d\u2019autres esp\u00e8ces ou encore la pr\u00e9sence de pr\u00e9dateurs. ",
+              "textEN": "If birds find plenty to eat in their wintering grounds, why don't they stay there for the rest of the year? Actually, there are several reasons. In Southern Europe or West Africa, many birds will not find a suitable breeding biotope. Most of the year, these regions are too dry to offer enough food, especially for their young. Also, summer days in the south are shorter, which would leave the birds less time to forage. Other factors include the presence of pathogens and predators, and competition from other species. ",
+              "textDE": "Aber warum halten V\u00f6gel sich nicht das ganze Jahr in ihrem \u00dcberwinterungsgebiet auf? Viele V\u00f6gel \u00fcberwintern in S\u00fcdeuropa und Westafrika, aber dort finden sie keinen geeigneten Biotop, um zu br\u00fcten. W\u00e4hrend des Rests des Jahres ist das Klima dort sehr trocken, sodass vor allem f\u00fcr die Jungen zu wenig Nahrung zu finden ist. Die Sommertage sind dort auch k\u00fcrzer als bei uns, was bedeutet, dass sie weniger lang Nahrung suchen k\u00f6nnten. Es gibt aber auch noch andere Faktoren: die Anwesenheit von Krankheitserregern zum Beispiel, oder den Wettbewerb mit anderen Arten oder die Anwesenheit von Raubtieren.  ",
+              "rank": 3,
+              "video": "",
+              "exploratorium_multithemes_id": 1,
+              "exploratorium_multithemes_category_id": 1,
+              "exploratorium_multithemes_images": [
+                {
+                  "id": 10,
+                  "name": "Zwinvogels in West-Afrika\/Sahel",
+                  "image": "uploads\/project_4\/exhibit_41\/uploads\/img\/zwin1.jpg",
+                  "exploratorium_multithemes_content_id": 28
+                }
+              ]
+            },
+            {
+              "id": 29,
+              "nameNL": "Met of zonder ijs?",
+              "nameFR": "L'\u00e2ge de glace",
+              "nameEN": "Ice Age ",
+              "nameDE": "Mit oder ohne Eis?",
+              "textNL": "Vogels kunnen hun trekgedrag aanpassen aan schommelingen in het voedselaanbod. Er zijn aanwijzingen dat ze dat al heel lang doen. In de geschiedenis van de aarde wisselen ijstijden en warmere periodes elkaar af. Telkens als het ijs begon te smelten, konden vogels een stuk noordelijker overleven. Alleen in de winter vonden ze daar te weinig voedsel, en dus trokken ze ieder najaar terug naar het zuiden. Sommige wetenschappers vermoeden zelfs dat de vogeltrek op die manier is ontstaan.\r\n\r\nNu het klimaat opwarmt, vinden vogels bij ons in West-Europa ook in de winter makkelijker voedsel. Op lange termijn zou het kunnen dat sommige vogels het hele jaar hier blijven en niet meer naar het zuiden trekken - al blijven ze hier wel kwetsbaar voor strenge winters.\r\n",
+              "textFR": "Les oiseaux peuvent adapter leur comportement migratoire en fonction de la nourriture disponible. Certaines indications sugg\u00e8rent qu\u2019ils le font depuis tr\u00e8s longtemps. L\u2019histoire de la Terre est marqu\u00e9e par une alternance de p\u00e9riodes glaciaires et de p\u00e9riodes plus chaudes. Chaque fois que la glace commen\u00e7ait \u00e0 fondre, les oiseaux pouvaient survivre un peu plus au nord. Mais ils y trouvaient trop peu de nourriture en hiver, et retournaient donc vers le sud \u00e0 chaque automne. Selon certains scientifiques, ce serait m\u00eame l\u2019origine de la migration des oiseaux.\r\n\r\nA l\u2019heure du r\u00e9chauffement climatique, les oiseaux trouvent plus facilement de quoi se nourrir en Europe occidentale, m\u00eame en hiver. A terme, certains oiseaux pourraient ne plus migrer vers le sud et rester ici toute l\u2019ann\u00e9e, m\u00eame s\u2019ils y sont plus vuln\u00e9rables aux hivers rigoureux.\r\n",
+              "textEN": "Migratory birds are able to adapt to fluctuations in food availability - and experts think that they might have been doing this for a very long time indeed. In the history of the earth, ice ages alternate with warmer periods. In the distant past, every time the ice melted, birds extended their territory towards the north. However, since they couldn't find enough food there in winter, they migrated back to the south in autumn. According to some experts, this is how bird migration originated.\r\n\r\nDue to global warming, European winters might become milder. That would give birds more food searching opportunities. In the long term, some species might even stay in Europe permanently and stop migrating southwards - although this strategy would leave them vulnerable to harsh winters.\r\n",
+              "textDE": "V\u00f6gel k\u00f6nnen ihr Zugverhalten den Schwankungen des Nahrungsangebots anpassen. Es gibt Hinweise daf\u00fcr, dass sie das schon lange machen. In der Erdgeschichte wechseln Eiszeiten und w\u00e4rmere Perioden sich ab. Immer wenn das Eis anfing zu schmelzen, konnten die V\u00f6gel viel n\u00f6rdlicher \u00fcberleben. Nur im Winter fanden sie dort zu wenig Nahrung und deshalb zogen sie jeden Herbst zur\u00fcck in den S\u00fcden. Manche Wissenschaftler glauben, dass der Vogelzug gerade auf diese Weise entstanden ist.\r\n\r\nJetzt, wo das Klima erw\u00e4rmt, finden V\u00f6gel bei uns in Westeuropa auch im Winter einfacher Nahrung. Langfristig w\u00e4re es also m\u00f6glich, dass manche Vogelarten das ganze Jahr hier bleiben und nicht mehr in den S\u00fcden ziehen w\u00fcrden - obwohl sie hier nat\u00fcrlich strengen Wintern ausgesetzt sein k\u00f6nnten.\r\n",
+              "rank": 4,
+              "video": "",
+              "exploratorium_multithemes_id": 1,
+              "exploratorium_multithemes_category_id": 1,
+              "exploratorium_multithemes_images": [
+                {
+                  "id": 11,
+                  "name": "Vogel in sneeuw en ijs",
+                  "image": "uploads\/project_4\/exhibit_41\/uploads\/img\/zwin1.jpg",
+                  "exploratorium_multithemes_content_id": 29
+                },
+                {
+                  "id": 567,
+                  "name": "Trekkende vogels",
+                  "image": "uploads\/project_4\/exhibit_41\/uploads\/img\/zwin2.jpg",
+                  "exploratorium_multithemes_content_id": 1
+                }
+              ]
+            },
+            {
+              "id": 1993,
+              "nameNL": "Nog een nieuw item",
+              "nameFR": "Rester ou partir ?",
+              "nameEN": "The need to feed",
+              "nameDE": "Bleiben oder gehen?",
+              "textNL": "Vogels trekken in de eerste plaats omdat ze op zoek zijn naar eten. Dat doen natuurlijk alle dieren, maar alleen vogels kunnen hun voedsel duizenden kilometers verderop gaan zoeken. Ze kunnen namelijk vliegen. \r\n\r\nEr zijn ook nog andere redenen om te trekken. Rosse grutto's gaan broeden in Siberi\u00eb, wellicht onder meer omdat daar door de kou veel minder ziektekiemen zijn. Bij blauwe reigers trekt een klein deel naar West-Afrika: zo vermijden ze strenge winters, die in extreme gevallen de helft van de thuisblijvers het leven kosten.\r\n",
+              "textFR": "C\u2019est d\u2019abord le manque de nourriture qui pousse les oiseaux \u00e0 migrer. Les oiseaux ont ceci de particulier qu\u2019ils peuvent aller chercher leur nourriture \u00e0 des milliers de kilom\u00e8tres, puisqu\u2019ils peuvent voler. \r\n\r\nMais il existe d\u2019autres raisons de migrer. Les barges rousses vont nicher en Sib\u00e9rie, probablement parce qu\u2019il y a l\u00e0-bas beaucoup moins de germes pathog\u00e8nes, vu le froid. Une petite proportion de h\u00e9rons cendr\u00e9s migrent en Afrique de l\u2019Ouest : ils \u00e9vitent ainsi les hivers rudes qui, dans des cas extr\u00eames, co\u00fbtent la vie \u00e0 la moiti\u00e9 de ceux qui sont rest\u00e9s.\r\n",
+              "textEN": "Food, and how to find it, is the main reason why birds migrate. Obviously all animals have to eat, but only birds can fly - and they sometimes fly thousands of kilometres to look for a little something to nibble on.\r\n\r\nApart from the search for food, birds have other reasons to migrate. One of the reasons why bar-tailed godwits fly to Siberia to breed is because it's probably too cold there for many pathogens. Small numbers of grey herons migrate to West Africa in autumn to avoid the harsh northern winters, which can easily kill off half of the heron population.\r\n",
+              "textDE": "An erster Stelle ziehen V\u00f6gel, weil sie auf der Suche nach Nahrung sind. Alle Tiere tun dies nat\u00fcrlich, aber nur die V\u00f6gel k\u00f6nnen ihre Nahrung in tausenden Kilometern Entfernung suchen. Denn sie k\u00f6nnen fliegen. \r\n\r\nEs gibt auch noch andere Gr\u00fcnde f\u00fcr den Vogelzug. Pfuhlschnepfen br\u00fcten in Sibirien, wahrscheinlich weil die K\u00e4lte daf\u00fcr sorgt, dass dort viel weniger Krankheitserreger sind. Ein kleiner Teil der Graureiher zieht nach Westafrika: So vermeiden sie strenge Winter, die im Extremfall der H\u00e4lfte der Daheimgebliebenen das Leben kosten k\u00f6nnen.\r\n",
+              "rank": 1,
+              "video": "",
+              "exploratorium_multithemes_id": 1,
+              "exploratorium_multithemes_category_id": 1,
+              "exploratorium_multithemes_images": [
+                {
+                  "id": 1,
+                  "name": "Trekkende vogels",
+                  "image": "uploads\/project_4\/exhibit_41\/uploads\/img\/zwin1.jpg",
+                  "exploratorium_multithemes_content_id": 1
+                }
+              ]
+            },
+            {
+              "id": 1992,
+              "nameNL": "laatste nieuw item",
+              "nameFR": "Rester ou partir ?",
+              "nameEN": "The need to feed",
+              "nameDE": "Bleiben oder gehen?",
+              "textNL": "Vogels trekken in de eerste plaats omdat ze op zoek zijn naar eten. Dat doen natuurlijk alle dieren, maar alleen vogels kunnen hun voedsel duizenden kilometers verderop gaan zoeken. Ze kunnen namelijk vliegen. \r\n\r\nEr zijn ook nog andere redenen om te trekken. Rosse grutto's gaan broeden in Siberi\u00eb, wellicht onder meer omdat daar door de kou veel minder ziektekiemen zijn. Bij blauwe reigers trekt een klein deel naar West-Afrika: zo vermijden ze strenge winters, die in extreme gevallen de helft van de thuisblijvers het leven kosten.\r\n",
+              "textFR": "C\u2019est d\u2019abord le manque de nourriture qui pousse les oiseaux \u00e0 migrer. Les oiseaux ont ceci de particulier qu\u2019ils peuvent aller chercher leur nourriture \u00e0 des milliers de kilom\u00e8tres, puisqu\u2019ils peuvent voler. \r\n\r\nMais il existe d\u2019autres raisons de migrer. Les barges rousses vont nicher en Sib\u00e9rie, probablement parce qu\u2019il y a l\u00e0-bas beaucoup moins de germes pathog\u00e8nes, vu le froid. Une petite proportion de h\u00e9rons cendr\u00e9s migrent en Afrique de l\u2019Ouest : ils \u00e9vitent ainsi les hivers rudes qui, dans des cas extr\u00eames, co\u00fbtent la vie \u00e0 la moiti\u00e9 de ceux qui sont rest\u00e9s.\r\n",
+              "textEN": "Food, and how to find it, is the main reason why birds migrate. Obviously all animals have to eat, but only birds can fly - and they sometimes fly thousands of kilometres to look for a little something to nibble on.\r\n\r\nApart from the search for food, birds have other reasons to migrate. One of the reasons why bar-tailed godwits fly to Siberia to breed is because it's probably too cold there for many pathogens. Small numbers of grey herons migrate to West Africa in autumn to avoid the harsh northern winters, which can easily kill off half of the heron population.\r\n",
+              "textDE": "An erster Stelle ziehen V\u00f6gel, weil sie auf der Suche nach Nahrung sind. Alle Tiere tun dies nat\u00fcrlich, aber nur die V\u00f6gel k\u00f6nnen ihre Nahrung in tausenden Kilometern Entfernung suchen. Denn sie k\u00f6nnen fliegen. \r\n\r\nEs gibt auch noch andere Gr\u00fcnde f\u00fcr den Vogelzug. Pfuhlschnepfen br\u00fcten in Sibirien, wahrscheinlich weil die K\u00e4lte daf\u00fcr sorgt, dass dort viel weniger Krankheitserreger sind. Ein kleiner Teil der Graureiher zieht nach Westafrika: So vermeiden sie strenge Winter, die im Extremfall der H\u00e4lfte der Daheimgebliebenen das Leben kosten k\u00f6nnen.\r\n",
+              "rank": 1,
+              "video": "",
+              "exploratorium_multithemes_id": 1,
+              "exploratorium_multithemes_category_id": 1,
+              "exploratorium_multithemes_images": [
+                {
+                  "id": 1,
+                  "name": "Trekkende vogels",
+                  "image": "uploads\/project_4\/exhibit_41\/uploads\/img\/zwin1.jpg",
+                  "exploratorium_multithemes_content_id": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nameNL": "De vleugels maken de vogel",
+          "nameFR": "FR Waarom moeten vogels zoveel eten?",
+          "nameEN": "EN Waarom moeten vogels zoveel eten?",
+          "nameDE": "DE Waarom moeten vogels zoveel eten?",
+          "textNL": "Vleugels kunnen klein of groot zijn, kort of lang, stomp of hoekig. Maar welke vorm ze ook hebben, het is nooit zomaar. De vorm van een vleugel is altijd een afweging: tussen snelheid en uithoudingsvermogen, wendbaarheid en zuinigheid. Wetenschappers maken een onderscheid tussen vier types vleugels, al zijn er in de praktijk heel wat tussenvormen.",
+          "textFR": "Comment les oiseaux migrateurs savent-ils o\u00f9 aller pour rejoindre leurs sites de reproduction ou d\u2019hivernage ? La question est simple, et pourtant nous n\u2019avons pas encore tous les \u00e9l\u00e9ments de r\u00e9ponse. Nous savons qu\u2019ils naissent avec des capacit\u00e9s prodigieuses \u00e0 nos yeux, qu\u2019ils continuent de perfectionner durant leur vie.",
+          "textEN": "How do migratory birds actually know in which direction they have to fly in order to reach their breeding or wintering grounds? A simple question, but one we still don't have the complete answer to. We do know that they are born with capacities that to us are completely amazing - capacities they continue developing throughout  the course of their life.",
+          "textDE": "Wie wissen Zugv\u00f6gel eigentlich, wohin sie fliegen sollen, um ihre Brut- oder \u00dcberwinterungsgebiete zu erreichen? Eine scheinbar einfache Frage, aber die vollst\u00e4ndige Antwort kennen wir immer noch nicht. Wir wissen schon, dass sie mit F\u00e4higkeiten, die uns ganz aus der Fassung bringen, geboren sind, und dass sie diese im Laufe ihres Lebens weiterentwickeln. ",
+          "exploratorium_multitheme_id": 1,
+          "exploratorium_multithemes_contents": [
+            {
+              "id": 17,
+              "nameNL": "Geboren met een gps",
+              "nameFR": "N\u00e9s avec un GPS int\u00e9gr\u00e9 ",
+              "nameEN": "Born with a GPS",
+              "nameDE": "Mit dem GPS geboren",
+              "textNL": "Koekoeksjongen worden grootgebracht door vogels van een andere soort en krijgen hun biologische ouders nooit te zien. Ze hebben dus niemand die hen mee kan nemen naar hun overwinteringsgebieden, of hen op de een of andere manier kan tonen welke richting ze uit moeten vliegen. En toch zullen de jongen op precies het juiste moment de reis aanvatten en perfect hun weg weten te vinden naar de plek waar hun soortgenoten overwinteren, ver weg in Afrika. Een plek waar ze nooit eerder zijn geweest.\r\n\r\nDat kan alleen als ze een instinct hebben dat hun zegt wanneer ze moeten vertrekken, in welke richting ze moeten vliegen, en welke afstand ze moeten afleggen - hoe gek dat ook klinkt in onze oren.\r\n",
+              "textFR": "Les petits du coucou sont \u00e9lev\u00e9s par des oiseaux d\u2019une autre esp\u00e8ce et ne voient jamais leurs parents biologiques. Personne ne peut donc les emmener vers leurs aires d\u2019hivernage, ou leur montrer la direction. Pourtant, les jeunes savent exactement quand partir et trouvent sans probl\u00e8me l\u2019endroit o\u00f9 leurs cong\u00e9n\u00e8res passent l\u2019hiver, sur le lointain continent africain. Un endroit o\u00f9 ils n\u2019ont jamais mis les pattes !\r\n\r\nLeur instinct doit donc forc\u00e9ment leur dire quand l\u2019heure du d\u00e9part est arriv\u00e9e, quelle direction ils doivent prendre et quelle distance ils ont \u00e0 parcourir \u2013 m\u00eame si cela nous para\u00eet incroyable.\r\n",
+              "textEN": "A cuckoo's chicks are raised by birds of a different species. They never get to meet their biological parents. This means that when they have to travel to their wintering grounds, they can't rely on their mother or father to show them the way. Yet, at exactly the right time they will start to fly in exactly the right direction. Without any help, they are able to find the way to the location, far away in Africa, where their species spends the winter - a place that they have never seen or visited.\r\n\r\nThere's only one explanation for this behaviour: cuckoos have an instinct that tells them exactly when they have to leave, in which direction they have to travel and how long they have to fly - however strange that may seem to us.\r\n",
+              "textDE": "Junge Kuckucke werden durch V\u00f6gel einer anderen Vogelart erzogen und begegnen ihren biologischen Eltern nie. Es gibt also niemand, die sie zu ihren \u00dcberwinterungsgebieten mitnehmen kann, oder sie auf irgendeine andere Weise zeigen k\u00f6nnte, in welche Richtung sie fliegen sollten. Trotzdem werden die Jungv\u00f6gel genau am richtigen Zeitpunkt ihre Reise anfangen und perfekt ihren Weg zu dem Ort finden, an dem ihre Artgenossen \u00fcberwintern, im weit entfernten Afrika: einem Ort, den sie noch nie besucht haben.\r\n\r\nDas ist nur m\u00f6glich, wenn sie \u00fcber einen Instinkt verf\u00fcgen, der ihnen sagt, wann sie abfliegen sollen, in welche Richtung sie fliegen sollen und welche Strecken sie zur\u00fccklegen sollen - wie komisch das f\u00fcr uns auch immer erscheinen mag.\r\n",
+              "rank": 1,
+              "video": "",
+              "exploratorium_multithemes_id": 1,
+              "exploratorium_multithemes_category_id": 2,
+              "exploratorium_multithemes_images": [
+                {
+                  "id": 17,
+                  "name": "Koekoeksjong in nest",
+                  "image": "uploads\/project_4\/exhibit_41\/uploads\/img\/zwin1.jpg",
+                  "exploratorium_multithemes_content_id": 17
+                },
+                {
+                  "id": 17,
+                  "name": "Koekoeksjong in nest",
+                  "image": "uploads\/project_4\/exhibit_41\/uploads\/img\/zwin2.jpg",
+                  "exploratorium_multithemes_content_id": 17
+                }
+              ]
+            },
+            {
+              "id": 18,
+              "nameNL": "Ervaring telt ",
+              "nameFR": "L\u2019exp\u00e9rience fait la diff\u00e9rence ",
+              "nameEN": "Experience Counts",
+              "nameDE": "Erfahrung z\u00e4hlt ",
+              "textNL": "Wetenschappers hebben veel over de vogeltrek geleerd uit verplaatsingsexperimenten. Ze vingen bijvoorbeeld spreeuwen halverwege hun trek (punt A), brachten ze naar een plek die honderden kilometers oostelijker lag (punt B) en lieten ze daar weer los.\r\n\r\nDe spreeuwenjongen die de reis nooit eerder hadden gemaakt, vlogen in de richting die ze hadden moeten uitgaan vanaf punt A. Ze legden ook precies de afstand af die ze van daaraf hadden moeten vliegen om hun overwinteringsgebied te bereiken. Een geweldige prestatie, alleen zaten ze nu honderden kilometers ten oosten van hun eigenlijke bestemming. \r\n\r\nErvaren vogels, die de reis al minstens \u00e9\u00e9n keer hadden gemaakt, konden hun route w\u00e9l aanpassen en bereikten zonder problemen hun overwinteringsgebied. Conclusie: trekvogels worden geboren met een trekinstinct, maar ze leren in de loop van hun leven ook bij.\r\n",
+              "textFR": "Les scientifiques ont appris beaucoup de choses sur la migration des oiseaux gr\u00e2ce aux exp\u00e9riences de d\u00e9placement. Ils ont par exemple captur\u00e9 des \u00e9tourneaux \u00e0 mi-chemin de leur migration (point A) et les ont emmen\u00e9s \u00e0 des centaines de kilom\u00e8tres plus \u00e0 l\u2019est (point B), o\u00f9 ils les ont rel\u00e2ch\u00e9s.\r\n\r\nLes jeunes \u00e9tourneaux qui n\u2019avaient jamais fait le voyage auparavant ont vol\u00e9 dans la direction qu\u2019ils auraient d\u00fb prendre \u00e0 partir du point A. Ils ont aussi parcouru exactement la m\u00eame distance qu\u2019ils auraient d\u00fb parcourir \u00e0 partir de ce point pour rejoindre leur site d\u2019hivernage. Une tr\u00e8s belle performance, si ce n\u2019est qu\u2019ils \u00e9taient \u00e0 des centaines de kilom\u00e8tres \u00e0 l\u2019est de leur v\u00e9ritable destination. \r\n\r\nQuant aux oiseaux exp\u00e9riment\u00e9s, qui avaient d\u00e9j\u00e0 fait le voyage au moins une fois, ils sont parvenus \u00e0 adapter leur plan de vol et ont atteint leur site d\u2019hivernage sans encombre. Conclusion : Les oiseaux migrateurs naissent avec l\u2019instinct migratoire, mais ils apprennent aussi tout au long de leur vie.\r\n",
+              "textEN": "Scientists have learned a lot about bird migration through displacement experiments. For one of these experiments, they caught starlings in the middle of their migration (point A) and transported them to a location hundreds of kilometres to the east (point B) and then released them.\r\n\r\nYoung starlings on their first voyage travelled in the direction they should have taken if they still were located at 'point A', and they covered exactly the same distance they normally would have flown from 'A' to reach their wintering grounds. An amazing feat, although they ended up hundreds of kilometres east of their destination.\r\n\r\nHowever, experienced birds that had made at least one prior voyage were able to modify their route and reach their true wintering grounds with ease. Conclusion: migratory birds are born with an instinct for migration, but they keep on learning throughout the course of their life.\r\n",
+              "textDE": "Wissenschaftler haben anhand von Versetzungsexperimenten viel \u00fcber den Vogelzug lernen k\u00f6nnen. So haben sie zum Beispiel Stare halbwegs der Zugstrecke gefangen (Punkt A), sie hunderte Kilometer weiter \u00f6stlich versetzt (Punkt B) und sie dort wieder freigelassen.\r\n\r\nDie Jungv\u00f6gel, die die Reise noch nie unternommen hatten, flogen in die Richtung, in die sie ab Punkt A h\u00e4tten fliegen sollen. Sie legten auch genau die Strecke zur\u00fcck, die sie ab Punkt A h\u00e4tten fliegen sollen, um ihr \u00dcberwinterungsgebiet zu erreichen. Eine gro\u00dfartige Leistung, nur befanden sie sich hunderte Kilometer \u00f6stlich ihres eigentlichen Ziels. \r\n\r\nErfahrene V\u00f6gel, die die Reise wenigstens einmal unternommen hatten, konnten ihren Reiseweg schon anpassen und erreichten ihr \u00dcberwinterungsgebiet ohne Probleme. Schlussfolgerung: Zugv\u00f6gel werden zwar mit einem Zuginstinkt geboren, aber sie lernen im Laufe ihres Lebens auch Vieles dazu.\r\n",
+              "rank": 2,
+              "video": "",
+              "exploratorium_multithemes_id": 1,
+              "exploratorium_multithemes_category_id": 2,
+              "exploratorium_multithemes_images": [
+                {
+                  "id": 17,
+                  "name": "Koekoeksjong in nest",
+                  "image": "uploads\/project_4\/exhibit_41\/uploads\/img\/zwin1.jpg",
+                  "exploratorium_multithemes_content_id": 17
+                }
+              ]
+            },
+            {
+              "id": 19,
+              "nameNL": "Op de schoolbanken",
+              "nameFR": "Sur les bancs de l\u2019\u00e9cole",
+              "nameEN": "School for Migration",
+              "nameDE": "In der Schule",
+              "textNL": "Alle trekvogeljongen worden geboren met een ori\u00ebntatie-instinct, maar dat betekent nog niet dat ze niks moeten leren.\r\n\r\nJonge vogels die in een laboratorium zonder zonlicht grootgebracht worden, zijn niet in staat zich op de zon te ori\u00ebnteren. Hun soortgenoten die gewoon in de natuur opgroeien kunnen dat wel. Onderzoekers vermoeden dat de jongen al in het nest vertrouwd raken met de baan die de zon in de loop van de dag aflegt. Ze hebben dus de aangeboren capaciteit om de zon als kompas te gebruiken, maar ze hebben ook een leerperiode nodig. \r\n\r\nHet valt een beetje te vergelijken met taal bij ons: we komen allemaal ter wereld met het talent om een taal te leren, maar als niemand tegen ons spreekt, zullen we dat talent niet kunnen ontwikkelen. \r\n",
+              "textFR": "Tous les jeunes oiseaux migrateurs naissent avec le sens de l\u2019orientation, mais cela ne veut pas dire qu\u2019ils ne doivent rien apprendre.\r\n\r\nLes jeunes oiseaux \u00e9lev\u00e9s en laboratoire sans lumi\u00e8re du jour, ne sont pas capables de s\u2019orienter avec le soleil, contrairement \u00e0 leurs cong\u00e9n\u00e8res qui grandissent dans la nature. Les chercheurs pr\u00e9sument que les jeunes se familiarisent avec la trajectoire du soleil durant la journ\u00e9e, alors qu\u2019ils sont encore au nid. Ils ont donc la capacit\u00e9 inn\u00e9e d\u2019utiliser le soleil comme compas, mais ils ont aussi besoin d\u2019une p\u00e9riode d\u2019apprentissage. \r\n\r\nC\u2019est un peu comparable aux langues chez les humains : nous naissons tous avec la capacit\u00e9 d\u2019apprendre une langue, mais si personne ne nous parle, nous ne pourrons jamais d\u00e9velopper ce talent. \r\n",
+              "textEN": "All chicks of migratory birds are born with an instinct for migration, but they do have to learn certain things.\r\n\r\nContrary to their peers that grow up in the wild, young birds that are raised in a laboratory without sunlight are not able to navigate by using the position of the sun. Scientists think that the chicks need to familiarise themselves with the trajectory of the sun while they are still in their nest. They have the innate capacity to use the sun as a compass, but they do need a learning period.\r\n\r\nIt's a bit like learning how to talk: all human beings have the innate capacity to learn a language, but if a child never hears anyone talking, it won't be able to develop this skill. \r\n",
+              "textDE": "Alle Jungen von Zugv\u00f6geln werden mit einem Orientierungsinstinkt geboren, aber das hei\u00dft nicht, dass sie nichts lernen m\u00fcssen.\r\n\r\nJungv\u00f6gel, die in einem Labor ohne Sonnenlicht erzogen wurden, sind nicht im Stande, sich anhand der Sonne zu orientieren. Ihre Artgenossen, die in der Natur aufwachsen, k\u00f6nnen das schon. Forscher vermuten, dass sich die Jungen schon im Nest mit dem Sonnenstand - der Bahn, die die Sonne im Laufe des Tages zur\u00fccklegt - vertraut machen. Ihre F\u00e4higkeit, die Sonne als Kompass zu verwenden, ist also angeboren, aber sie brauchen auch eine gewisse Lernzeit. \r\n\r\nWir k\u00f6nnen das mit den Sprachkenntnissen der Menschen vergleichen: Wenn wir geboren werden, haben wir alle die F\u00e4higkeit, eine Sprache zu lernen, aber wenn keiner mit uns spricht, werden wir nicht im Stande sein, dieses Talent zu entwickeln. \r\n",
+              "rank": 3,
+              "video": "",
+              "exploratorium_multithemes_id": 1,
+              "exploratorium_multithemes_category_id": 2,
+              "exploratorium_multithemes_images": [
+                {
+                  "id": 18,
+                  "name": "Jonge ooievaars in het nest die zon observeren",
+                  "image": "uploads\/project_4\/exhibit_41\/uploads\/img\/zwin1.jpg",
+                  "exploratorium_multithemes_content_id": 19
+                }
+              ]
+            },
+            {
+              "id": 20,
+              "nameNL": "Verhalen van moeder de gans",
+              "nameFR": "Contes de ma m\u00e8re l\u2019Oye",
+              "nameEN": "Mother Goose Stories",
+              "nameDE": "Die M\u00e4rchen von Mutter Gans",
+              "textNL": "Trekken is deels aangeboren, deels aangeleerd. De verhouding tussen die twee verschilt van soort tot soort. Bij ganzen en eenden is het leerproces bijvoorbeeld erg belangrijk. Ganzen en eenden reizen in familiegroepen, die geleid worden door oudere, ervaren vogels. Zij leren hun jongen de route en de stopplaatsen onderweg kennen. \r\n\r\nDat fenomeen is gebruikt om jonge ganzen opnieuw te introduceren in gebieden waar de soort uitgestorven was. De vogels leerden een ultralicht vliegtuigje (ULM) te volgen. Dat bracht hen dan rond het juiste tijdstip naar een broedplaats of overwinteringsplaats waar al een poosje geen ganzen meer voorkwamen. \r\n\r\nNa \u00e9\u00e9n reis kenden die jonge ganzen de bestemming al, en ze bleven heen en weer trekken tussen de twee gebieden. Ze namen wel een kortere, effici\u00ebntere route - de ULM moest namelijk omwegen maken om te kunnen tanken.\r\n",
+              "textFR": "Il y a une part d\u2019inn\u00e9 et une part d\u2019acquis dans la migration. Le rapport entre les deux varie selon l\u2019esp\u00e8ce. Chez les oies et les canards, par exemple, le processus d\u2019apprentissage est fondamental. Les oies et les canards voyagent en groupes familiaux, men\u00e9s par des oiseaux exp\u00e9riment\u00e9s plus \u00e2g\u00e9s. En cours de route, ils apprennent \u00e0 leurs petits l\u2019itin\u00e9raire et les aires de repos. \r\n\r\nCe ph\u00e9nom\u00e8ne a \u00e9t\u00e9 utilis\u00e9 pour r\u00e9introduire de jeunes oies dans des r\u00e9gions o\u00f9 l\u2019esp\u00e8ce s\u2019\u00e9tait \u00e9teinte. Les oiseaux ont appris \u00e0 suivre un planeur ultra-l\u00e9ger motoris\u00e9 (ULM). Cet ULM les a guid\u00e9s au bon moment jusqu\u2019\u00e0 un site de nidification ou d\u2019hivernage o\u00f9 il n\u2019y avait plus d\u2019oies depuis un certain temps. \r\n\r\nApr\u00e8s un seul voyage, les jeunes oies connaissaient d\u00e9j\u00e0 la destination, et elles ont continu\u00e9 \u00e0 migrer entre les deux r\u00e9gions. Mais elles ont choisi un itin\u00e9raire plus court, plus efficace que l\u2019ULM qui devait en effet faire des d\u00e9tours pour prendre du carburant.\r\n",
+              "textEN": "The ability to migrate is partly innate and partly learned, but the ratio differs from species to species. For example, the learning process is very important for geese and ducks. Older, experienced birds lead the family groups and teach the young which route to take and where to stopover on the way.\r\n\r\nThis phenomenon has been used to reintroduce geese into areas where the species had become extinct. The birds where taught to follow a ULM, that led them at the appropriate time to a breeding area that had formerly been occupied by their species.  \r\n\r\nAfter one journey, the young geese had internalised their destination and they continued to migrate between their wintering and breeding areas. They did however take a shorter and more efficient route - the ULM had to make detours for refuelling.\r\n",
+              "textDE": "Ziehen ist teilweise angeboren, teilweise erlernt. Das Verh\u00e4ltnis zwischen beiden ist bei jeder Art unterschiedlich. Bei G\u00e4nsen und Enten ist der Lernprozess zum Beispiel von gro\u00dfer Bedeutung. G\u00e4nse und Enten reisen in Familiengruppen, die von \u00e4lteren, erfahrenen V\u00f6geln gef\u00fchrt werden. Sie bringen ihren Jungen den Reiseweg und die Rastpl\u00e4tze unterwegs bei. \r\n\r\nDieses Ph\u00e4nomen wurde verwendet, um junge G\u00e4nse erneut in Gebieten, in denen die Art ausgestorben war, auszusetzen. Die V\u00f6gel lernten, einem Ultraleichtflugzeug (UL) zu folgen. Das brachte sie dann um den richtigen Zeitpunkt nach einem Brutplatz oder \u00dcberwinterungsplatz, an dem schon eine Weile keine G\u00e4nse mehr vorkamen. \r\n\r\nNach einer Reise kannten die jungen G\u00e4nse das Ziel schon und blieben sie zwischen beiden Gebieten hin- und zur\u00fcckfliegen. Sie folgten jedoch einem k\u00fcrzeren, effizienteren Weg \u2013 das UL musste n\u00e4mlich Umwege machen, um tanken zu k\u00f6nnen.\r\n",
+              "rank": 4,
+              "video": "",
+              "exploratorium_multithemes_id": 1,
+              "exploratorium_multithemes_category_id": 2,
+              "exploratorium_multithemes_images": [
+                {
+                  "id": 19,
+                  "name": "ULM met ganzen",
+                  "image": "uploads\/project_4\/exhibit_41\/uploads\/img\/zwin1.jpg",
+                  "exploratorium_multithemes_content_id": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nameNL": "Hoe we weten wat we weten?",
+          "nameFR": "D\u2019o\u00f9 tenons-nous ce que nous savons ?",
+          "nameEN": "What We Know and How We Know it",
+          "nameDE": "Wie wir wissen, was wir wissen",
+          "textNL": "Het leeuwendeel van onze kennis over trekvogels is verrassend recent: veel sleutelinzichten zijn er pas de laatste paar tientallen jaren gekomen. Hoe dat is gebeurd is een fascinerend verhaal, dat nog lang niet op zijn einde loopt.  ",
+          "textFR": "La plupart de nos connaissances sur les oiseaux migrateurs sont \u00e9tonnamment r\u00e9centes : en effet, beaucoup d\u2019informations cruciales datent de ces derni\u00e8res d\u00e9cennies. C\u2019est une histoire fascinante, qui est loin d\u2019\u00eatre termin\u00e9e.  ",
+          "textEN": "Most of our knowledge of migratory birds is surprisingly recent: many key insights have been reached only in the last few decades. It's a fascinating story that will continue to unfold for years to come.",
+          "textDE": "Der Gro\u00dfteil unserer Kenntnisse \u00fcber Zugv\u00f6gel ist \u00fcberraschend neu: Viele Schl\u00fcsselerkenntnisse stammen erst aus den letzten Jahrzehnten. Wie wir zu ihnen gelangt sind, ist eine faszinierende Geschichte, die noch lange nicht zu Ende ist.  ",
+          "exploratorium_multitheme_id": 1,
+          "exploratorium_multithemes_contents": [
+            {
+              "id": 21,
+              "nameNL": "De tijd van de mythes",
+              "nameFR": "L\u2019\u00e9poque des mythes",
+              "nameEN": "The Time of Myths",
+              "nameDE": "Die Zeit der Mythen",
+              "textNL": "Dat er vogelsoorten zijn die je een deel van het jaar niet ziet, wisten de oude Grieken al. Maar waar die vogels dan heen waren, daar bestond geen duidelijkheid over. Veel mensen dachten bijvoorbeeld dat zwaluwen op het eind van de zomer in een rivier of een meertje doken en op de bodem overwinterden. Er waren zelfs ooggetuigenverslagen van mensen die vissers een net met zwaluwen hadden zien bovenhalen. ",
+              "textFR": "Les Grecs de l\u2019antiquit\u00e9 savaient d\u00e9j\u00e0 que certaines esp\u00e8ces d\u2019oiseaux disparaissaient une partie de l\u2019ann\u00e9e. Mais ils ne savaient pas o\u00f9 ces oiseaux se trouvaient. Beaucoup de gens croyaient par exemple qu\u2019\u00e0 la fin de l\u2019\u00e9t\u00e9, les hirondelles plongeaient au fond d\u2019une rivi\u00e8re ou d\u2019un lac pour y passer l\u2019hiver. Il y a avait m\u00eame des t\u00e9moignages de personnes pr\u00e9tendant avoir vu des p\u00eacheurs remonter un filet rempli d\u2019hirondelles. ",
+              "textEN": "Even in ancient times people were aware that some bird species just seemed to disappear in autumn. All kinds of theories circulated in order to explain this bizarre fact. In the Middle Ages, for example, a commonly held view was that swallows dived into rivers and lakes at the end of summer to spend the winter underwater. We even have historical accounts of people who claimed that they had seen fishermen haul in nets full of swallows.",
+              "textDE": "Dass es Vogelarten gibt, die w\u00e4hrend eines Teils des Jahres nicht zu sehen sind, wussten die alten Griechen schon. Aber wo diese V\u00f6gel waren, das war \u00fcberhaupt nicht klar. Viele Menschen glaubten zum Beispiel, dass Schwalben am Ende des Sommers in einen Fluss oder eine See tauchten und auf dem Boden \u00fcberwinterten. Es bestanden sogar Augenzeugenberichte, die besagten, Fischer sollten mit einem Netz Schwalben aufgefischt haben. ",
+              "rank": 1,
+              "video": "",
+              "exploratorium_multithemes_id": 1,
+              "exploratorium_multithemes_category_id": 3,
+              "exploratorium_multithemes_images": [
+                {
+                  "id": 12,
+                  "name": "Gravure zwaluwen in visnetten",
+                  "image": "uploads\/project_4\/exhibit_41\/uploads\/img\/zwin1.jpg",
+                  "exploratorium_multithemes_content_id": 21
+                }
+              ]
+            },
+            {
+              "id": 22,
+              "nameNL": "Winterslaap?",
+              "nameFR": "Hibernation ?",
+              "nameEN": "Hibernation?",
+              "nameDE": "Winterschlaf?",
+              "textNL": "Tot eind achttiende eeuw had de wetenschappelijke wereld twee even gerespecteerde theorie\u00ebn om het verdwijnen van vogels te verklaren: ze hielden ergens op een verborgen plekje een winterslaap, of ze waren naar het zuiden vertrokken om daar te overwinteren.",
+              "textFR": "Jusqu\u2019\u00e0 la fin du 18e si\u00e8cle, le monde scientifique avait deux th\u00e9ories \u2013 aussi respect\u00e9es l\u2019une que l\u2019autre \u2013 pour expliquer la disparition des oiseaux : ils s\u2019\u00e9taient retir\u00e9s quelque part pour hiberner, ou ils \u00e9taient partis vers le sud pour y passer l\u2019hiver.",
+              "textEN": "Until the end of the 18th century, scientists had two equally respected theories to account for the disappearance of birds at the end of the summer. One theory claimed that the birds hibernated in a secluded place, the other theory held that they flew south to spend the winter in a warmer climate. There was however no evidence to uphold either of these claims.",
+              "textDE": "Bis zum Ende des achtzehnten Jahrhunderts hatte die wissenschaftliche Welt zwei gleich geachtete Theorien, um das Verschwinden der V\u00f6gel zu erkl\u00e4ren: Entweder hielten sie an einer verborgenen Stelle einen Winterschlaf, oder sie waren in den S\u00fcden gezogen, um dort zu \u00fcberwintern.",
+              "rank": 2,
+              "video": "",
+              "exploratorium_multithemes_id": 1,
+              "exploratorium_multithemes_category_id": 3,
+              "exploratorium_multithemes_images": [
+                {
+                  "id": 13,
+                  "name": "Boerenzwaluw in winterslaap",
+                  "image": "uploads\/project_4\/exhibit_41\/uploads\/img\/pp33x4d53oqsxebyhlfcpngnixhbkxkvoyg0qk7xgorhdot2de.jpg",
+                  "exploratorium_multithemes_content_id": 22
+                }
+              ]
+            },
+            {
+              "id": 23,
+              "nameNL": "De doorbraak: ringen",
+              "nameFR": "Le baguage, une v\u00e9ritable perc\u00e9e",
+              "nameEN": "Breakthrough: Bird Ringing",
+              "nameDE": "Der Durchbruch: Vogelberingung",
+              "textNL": "In de negentiende eeuw raakten alle wetenschappers ervan overtuigd dat vogels in de winter wegtrekken naar warmere streken. Mensen reisden steeds verder en zagen bijvoorbeeld in Egypte precies dezelfde zwaluwen als thuis. Alleen wisten ze niet zeker: waren het ook dezelfde?\r\n\r\nRond het jaar 1900 kwam de grote doorbraak: de Deense onderwijzer Hans Christian Mortensen bedacht het vogelringen. Je kon nu zeker zijn dat die geringde vogel die je terugvond in Afrika wel degelijk gebroed had in Belgi\u00eb.\r\n\r\nNog altijd worden vogels geringd om hun trekroutes en levenscyclus te achterhalen, ook in het Zwin. \r\n\r\nEr is ook een modernere versie van het systeem: piepkleine dataloggers die aan de vogel bevestigd worden en regelmatig de locatie van de vogel vaststellen. Bij vogelsoorten die terugkeren naar vaste broedplaatsen kunnen die toestelletjes gerecupereerd en uitgelezen worden. Je krijgt dan een mooi overzicht van de reis die de vogel heeft afgelegd. Er zijn ook toestellen die de gegevens via satelliet doorsturen naar de onderzoekers, maar die zijn wat zwaarder, en kunnen alleen gebruikt worden voor grotere vogelsoorten. \r\n",
+              "textFR": "Au 19e si\u00e8cle, tous les scientifiques \u00e9taient persuad\u00e9s que les oiseaux partaient l\u2019hiver vers des contr\u00e9es plus cl\u00e9mentes. Les gens voyageaient de plus en plus loin et observaient en Egypte exactement les m\u00eames hirondelles que chez eux. Mais s\u2019agissait-il vraiment des m\u00eames oiseaux ?\r\n\r\nVers 1900, il y eut une perc\u00e9e majeure : l\u2019instituteur danois Hans Christian Mortensen inventa le baguage des oiseaux. A pr\u00e9sent, on pouvait \u00eatre certain que l\u2019oiseau bagu\u00e9 retrouv\u00e9 en Afrique avait nich\u00e9 en Belgique.\r\n\r\nLe baguage est toujours pratiqu\u00e9 pour \u00e9tudier les routes migratoires et le cycle de vie des oiseaux, par exemple ici au Zwin. \r\n\r\nCe syst\u00e8me existe aussi dans une variante plus moderne : de minuscules dataloggers (enregistreurs de donn\u00e9es) qui sont fix\u00e9s sur l\u2019oiseau et qui permettent de le localiser. Avec des esp\u00e8ces qui retournent sur les m\u00eames sites de nidification, ces appareils peuvent \u00eatre r\u00e9cup\u00e9r\u00e9s et leurs donn\u00e9es analys\u00e9es. On peut ainsi retracer les d\u00e9placements de l\u2019oiseau. Il existe aussi des appareils qui envoient les donn\u00e9es par satellite aux chercheurs, mais ils sont plus lourds et conviennent seulement aux plus grandes esp\u00e8ces. \r\n",
+              "textEN": "Travelling became more widespread during the 19th century and people frequently reported that they had seen swallows in Egypt that looked exactly like those at home. Gradually most scientists became convinced that birds did indeed migrate to warmer regions in autumn. However, nobody knew for sure if the swallows that wintered in Egypt and the swallows that spent the summer in Europe were one and the same.\r\n\r\n\r\nAround the year 1900 there was a major breakthrough: the Hans Christian Mortensen, a Danish schoolteacher, invented bird ringing. Bird enthusiasts could now be sure that the ringed birds that they found in Africa had travelled there from Europe.\r\n\r\nTo this day, birds are still being ringed, but there are also more technologically advanced alternatives: small data loggers that are attached to the bird and record its exact position at regular intervals. The devices have to be recuperated, so this technique can only be used with birds that return to the same nesting sites. Scientists catch the bird when it arrives and retrieve the device. The stored data allow them to build a very detailed picture of the bird's travels.\r\nSome devices can transmit data via satellite, but these are heavier and so can only be used on large birds.\r\n",
+              "textDE": "Im neunzehnten Jahrhundert waren alle Wissenschaftler mehr oder weniger davon \u00fcberzeugt, dass V\u00f6gel im Winter nach w\u00e4rmeren Gegenden zogen. Die Menschen reisten auch immer weiter und sahen zum Beispiel in \u00c4gypten genau die gleichen Schwalben wie zu Hause. Nur wussten sie nicht ganz: Waren es tats\u00e4chlich die gleichen?\r\n\r\nUm das Jahr 1900 herum gab es dann den gro\u00dfen Durchbruch: Der d\u00e4nische Unterrichter Hans Christian Mortensen erfand die Vogelberingung. Jetzt konnte man sicher sein, dass der beringte Vogel, den man in Afrika sah, tats\u00e4chlich in Nordwesteuropa gebr\u00fctet hatte.\r\n\r\nV\u00f6gel werden noch immer beringt, um ihre Zugrouten und ihren Lebenszyklus herauszufinden, auch im Zwin. \r\n\r\nHeutzutage besteht auch eine moderne Version des Systems: winzige Datenlogger, die an einem Vogel befestigt werden und regelm\u00e4\u00dfig den Aufenthaltsort des Vogels registrieren. Bei Vogelarten, die immer nach dem gleichen Brutplatz ziehen, k\u00f6nnen diese Ger\u00e4te wieder entfernt und deren Daten ausgelesen werden. Auf diese Weise erh\u00e4lt man einen sch\u00f6nen \u00dcberblick \u00fcber die vom Vogel zur\u00fcckgelegte Strecke. Es gibt auch Ger\u00e4te, die die Daten \u00fcber Satellit an die Forscher senden, aber diese wiegen etwas mehr und k\u00f6nnen deshalb nur bei gr\u00f6\u00dferen Vogelarten verwendet werden.  ",
+              "rank": 3,
+              "video": "",
+              "exploratorium_multithemes_id": 1,
+              "exploratorium_multithemes_category_id": 3,
+              "exploratorium_multithemes_images": [
+                {
+                  "id": 14,
+                  "name": "Ringen + zender",
+                  "image": "uploads\/project_4\/exhibit_41\/uploads\/img\/t05b49tuv487isixdawtvx88hk6if5z1nen2w0nv5ictreym4e.jpg",
+                  "exploratorium_multithemes_content_id": 23
+                },
+                {
+                  "id": 35,
+                  "name": "zender",
+                  "image": "uploads\/project_4\/exhibit_41\/uploads\/img\/xu5rioccqz4jr3ut5ikw58vepvzqs6s3pob95h169c9cy3txoy.jpg",
+                  "exploratorium_multithemes_content_id": 23
+                }
+              ]
+            },
+            {
+              "id": 24,
+              "nameNL": "Inktpatronen",
+              "nameFR": "Traces d\u2019encre",
+              "nameEN": "Written in Ink",
+              "nameDE": "Tintenspuren",
+              "textNL": "Vogelliefhebbers wisten al eeuwenlang dat trekvogels in gevangenschap rond migratietijd onrustig worden en opvliegen. Het duurde echter tot de jaren 1940 voor onderzoekers beseften dat ze ook in de richting van de migratie opvliegen. Meteen hadden ze een goeie manier gevonden om het ori\u00ebntatie-instinct te bestuderen: ze konden de vogel bijvoorbeeld oogkleppen opzetten, en kijken of hij toch nog in de juiste richting opvloog. De bewegingen van vogels in hun kooi observeren en tellen bleef wel erg ingewikkeld en tijdrovend. \r\n\r\nDe Amerikaanse doctoraatsstudent Steve Emlen vond de oplossing: hij zette zijn vogels in een soort trechter die bovenaan was afgedekt met doorzichtig gaas. De zijkanten waren gemaakt van papier, de bodem bestond uit een stempelkussen. Aan de inktpatronen die de vogels op de trechterwanden maakten, kon je zo perfect zien in welke richting de vogel opvloog en hoe vaak. Met minder mankracht kon je dus meer vogels observeren, wat betrouwbaarder resultaten opleverde.\r\n",
+              "textFR": "Les amateurs d\u2019oiseaux savaient depuis des si\u00e8cles qu\u2019\u00e0 l\u2019approche de la saison de migration, les oiseaux migrateurs en captivit\u00e9 deviennent agit\u00e9s et cherchent \u00e0 s\u2019envoler. Mais ce n\u2019est que dans les ann\u00e9es 1940 que les chercheurs ont r\u00e9alis\u00e9 qu\u2019ils s\u2019envolaient dans le sens de la migration. D\u2019embl\u00e9e, ils ont trouv\u00e9 une bonne m\u00e9thode pour \u00e9tudier le sens de l\u2019orientation : ils mettaient par exemple des \u0153ill\u00e8res \u00e0 l\u2019oiseau, et v\u00e9rifiaient s\u2019il s\u2019envolait malgr\u00e9 tout dans la bonne direction. Mais l\u2019observation et la comptabilisation des mouvements des oiseaux dans leur cage restaient difficiles et demandaient beaucoup de temps. \r\n\r\nL\u2019\u00e9tudiant en doctorat am\u00e9ricain Steve Emlen trouva la solution : il mit ses oiseaux dans une cage en forme d\u2019entonnoir couverte d\u2019un treillis transparent. Les parois \u00e9taient tapiss\u00e9es de papier et le fond \u00e9tait un tampon encreur. Les traces d\u2019encre laiss\u00e9es par les oiseaux sur les parois de l\u2019entonnoir permettaient de voir clairement le sens et la fr\u00e9quence d\u2019envol. Ceci permettait, avec moins d\u2019effectifs, d\u2019observer plus d\u2019oiseaux, ce qui garantissait des r\u00e9sultats plus fiables.\r\n",
+              "textEN": "Bird enthusiasts had known for centuries that migratory birds grow restless at the end of summer and frequently fly up, but it was only in the 1940's that scientists realised that birds always flew up in the direction of their wintering grounds. This gave them an opportunity to study the orientation instinct: they could for example blindfold a bird and watch if it still flew up in the correct direction. If it did, this proved that it did not rely on visual clues to find its bearings. \r\n\r\nObserving and counting the movements of birds however still remained a complicated and time-consuming task. Steve Emlen, an American PhD student, came up with a solution: he put birds in a funnel that was covered with a transparent mesh. The sides were made out of paper and the bottom consisted of an inkpad. When the bird flew up it made ink marks on the paper, so that at the end of the experiment, Emlen could see how often and in which direction the bird had flown up. Thanks to the Emlen funnel a lot more birds could be observed at the same time, which led to more reliable results.\r\n",
+              "textDE": "Vogelliebhaber wussten schon seit Jahrhunderten, dass Zugv\u00f6gel in Gefangenschaft um den Zeitpunkt der Migrationszeit herum unruhig werden und hochfliegen. Es dauerte jedoch bis in den 1940er Jahren, bevor Forscher erkannten, dass die V\u00f6gel auch in die Zugrichtung hochfliegen. Sie hatten sofort eine gute Weise gefunden, um den Orientierungsinstinkt der V\u00f6gel zu erforschen: Sie konnten den Vogel zum Beispiel Augenklappen aufsetzen und pr\u00fcfen, ob er trotzdem noch in die richtige Richtung hochflog. Die Beobachtung und Z\u00e4hlung der Bewegungen der V\u00f6gel in ihrem K\u00e4fig blieben aber sehr kompliziert und zeitaufwendig.  \r\n\r\nDer amerikanische Doktorand Steve Emlen fand die perfekte L\u00f6sung: Er setzte seine V\u00f6gel in eine Art Trichter, der oben mit einem durchsichtigen Netz abgedeckt wurde. Die Seiten des Trichters waren aus Papier hergestellt, der Boden bestand aus einem Stempelkissen. Anhand der von den V\u00f6geln auf den Trichterw\u00e4nden hinterlassenen Tintenspuren konnte man perfekt sehen, in welche Richtung der Vogel hochflog und wie oft er das tat. Man brauchte also weniger Menschen, um mehr V\u00f6gel beobachten zu k\u00f6nnen, was zuverl\u00e4ssigere Ergebnisse gew\u00e4hrleistete. ",
+              "rank": 4,
+              "video": "",
+              "exploratorium_multithemes_id": 1,
+              "exploratorium_multithemes_category_id": 3,
+              "exploratorium_multithemes_images": [
+                {
+                  "id": 15,
+                  "name": "Emlen funnel",
+                  "image": "uploads\/project_4\/exhibit_41\/uploads\/img\/c9ce2tmnva2196tnzeva5pt7ncpq57jpseiy301xiot669zc7h.jpg",
+                  "exploratorium_multithemes_content_id": 24
+                }
+              ]
+            },
+            {
+              "id": 25,
+              "nameNL": "Een nacht in het planetarium ",
+              "nameFR": "Une nuit au plan\u00e9tarium ",
+              "nameEN": "A Night in the Planetarium",
+              "nameDE": "Eine Nacht im Planetarium ",
+              "textNL": "In de jaren 1960 zette Steve Emlen een baanbrekend experiment op: jongen van nachttrekkers stelde hij bloot aan een gemanipuleerde sterrenhemel in een planetarium. Normaal is er \u00e9\u00e9n statisch punt in de hemel: de poolster, die vlak boven het noorden staat. Emlen liet de nachthemel echter rond een andere ster roteren. Resultaat: de vogels beschouwden die ster als het noorden, en stemden hun ori\u00ebntatie erop af.\r\n\r\nEmlen concludeerde twee dingen: trekvogels kunnen wel degelijk de sterrenhemel gebruiken om zich te ori\u00ebnteren \u00e9n ze beschouwen het stilstaande punt waaromheen de sterren roteren als het noorden.    \r\n\r\nMet vergelijkbare technieken bewezen andere onderzoekers dat dagtrekkers gebruikmaken van een zonnekompas.\r\n",
+              "textFR": "Dans les ann\u00e9es 1960, Steve Emlen a r\u00e9alis\u00e9 une exp\u00e9rience pionni\u00e8re : il a expos\u00e9 des oisillons de migrateurs nocturnes au ciel \u00ab trafiqu\u00e9 \u00bb d\u2019un plan\u00e9tarium. Normalement, il n\u2019existe qu\u2019un seul point fixe dans le ciel : l\u2019\u00e9toile polaire, situ\u00e9e juste au-dessus du Nord. Mais pour les besoins de l\u2019exp\u00e9rience, Emlen fit tourner la vo\u00fbte nocturne autour d\u2019une autre \u00e9toile. R\u00e9sultat : les oiseaux se sont orient\u00e9s en consid\u00e9rant que cette \u00e9toile indiquait le Nord.\r\n\r\nEmlen en a tir\u00e9 deux conclusions : les oiseaux migrateurs peuvent bel et bien s\u2019orienter par rapport au ciel et ils consid\u00e8rent que le point fixe autour duquel tournent les \u00e9toiles est le Nord.    \r\n\r\nEn utilisant des techniques comparables, d\u2019autres chercheurs ont d\u00e9montr\u00e9 que les migrateurs diurnes utilisent un compas solaire.",
+              "textEN": "In the 1960's the American biologist Steve Emlen set up a series of groundbreaking experiments: he exposed young birds that migrate at night to a manipulated artificial night sky in a planetarium. Normally the night sky revolves around one fixed point, which in the northern hemisphere is located exactly above the North Pole - by pure coincidence, there is a star located at this position: Polaris or the North Star. \r\nEmlen did a very clever thing: he made the artificial night sky in the planetarium rotate around a different star. The young birds now regarded this star as the north and orientated themselves accordingly. This allowed Emlen to conclude that migratory birds use the revolving night sky to get their bearings .\r\n\r\nOther scientists used similar techniques to prove that birds that travel during the day rely on the sun to get their bearings.\r\n",
+              "textDE": "In den 1960er Jahren organisierte Steve Emlen ein bahnbrechendes Experiment: Die Jungen einiger Nachtzieher konfrontierte er mit einem manipulierten Sternhimmel in einem Planetarium. Normalerweise gibt es am Himmel nur einen unbeweglichen Punkt: den Polarstern, der sich gerade \u00fcber dem Norden befindet. Emlen lie\u00df den Nachthimmel jedoch um einen anderen Stern drehen. Das Ergebnis: Die V\u00f6gel betrachteten diesen Stern als den Norden, und orientierten sich dementsprechend.\r\n\r\nEmlen hat daraus zwei Sachen geschlossen: Zugv\u00f6gel k\u00f6nnen sich tats\u00e4chlich anhand des Sternhimmels orientieren und sie betrachten den unbeweglichen Punkt, um den die Sterne sich drehen, als den Norden.    \r\n\r\nAndere Forscher konnten mit \u00e4hnlichen Techniken beweisen, dass Tagzieher einen Sonnenkompass verwenden.",
+              "rank": 5,
+              "video": "",
+              "exploratorium_multithemes_id": 1,
+              "exploratorium_multithemes_category_id": 3,
+              "exploratorium_multithemes_images": []
+            },
+            {
+              "id": 26,
+              "nameNL": "Een kwestie van aantrekking",
+              "nameFR": "Une question d\u2019attraction",
+              "nameEN": "Animal Magnetism",
+              "nameDE": "Eine Frage der Anziehungskraft",
+              "textNL": "Duitse onderzoekers hadden in de jaren 1950 gemerkt dat roodborstjes zich 's nachts ori\u00ebnteren op de sterrenhemel. Maar: als ze de diertjes in een donkere kamer zonder uitzicht op de sterren onderbrachten, ori\u00ebnteerden ze zich ook in de juiste richting. De enige verklaring die de onderzoekers konden verzinnen, was dat roodborstjes een soort magnetisch kompas aan boord hebben. Dat idee was voor het eerst geopperd in de negentiende eeuw, maar nooit bewezen.\r\n\r\nOm hun vermoeden te testen verschoven de onderzoekers het magnetische veld met behulp van sterke elektromagneten. Het roodborstje verschoof zijn ori\u00ebntatie mee in de overeenkomstige richting. Steeds meer experimenten bevestigden die resultaten bij andere vogelsoorten, tot magnetische ori\u00ebntatie in de jaren 1980 een algemeen aanvaard principe werd.\r\n",
+              "textFR": "Des chercheurs allemands avaient observ\u00e9 dans les ann\u00e9es 1950 que les rouges-gorges utilisent la position des \u00e9toiles pour s\u2019orienter la nuit. Toutefois, quand ils mettaient les oiseaux dans une pi\u00e8ce noire sans vue sur les \u00e9toiles, ils s\u2019orientaient \u00e9galement dans la bonne direction. La seule explication plausible pour les chercheurs \u00e9tait que les rouges-gorges sont \u00e9quip\u00e9s d\u2019un \u00ab compas magn\u00e9tique \u00bb. Cette id\u00e9e a \u00e9t\u00e9 sugg\u00e9r\u00e9e pour la premi\u00e8re fois au dix-neuvi\u00e8me si\u00e8cle, mais n\u2019a jamais \u00e9t\u00e9 d\u00e9montr\u00e9e.\r\n\r\nPour tester leur hypoth\u00e8se, les chercheurs ont d\u00e9plac\u00e9 le champ magn\u00e9tique \u00e0 l\u2019aide d\u2019\u00e9lectroaimants puissants. Les rouges-gorges d\u00e9calaient d\u2019un m\u00eame angle leur direction de migration. De plus en plus d\u2019exp\u00e9riences ont confirm\u00e9 ces r\u00e9sultats chez d\u2019autres esp\u00e8ces d\u2019oiseaux, jusqu\u2019aux ann\u00e9es 1980 o\u00f9 le principe de l\u2019orientation magn\u00e9tique a \u00e9t\u00e9 commun\u00e9ment admis.\r\n",
+              "textEN": "In the 1950's German scientists noticed that robins use the night sky to get their bearings. However, when they placed the birds in a darkened room without windows, the little animals were still able to orientate themselves correctly. The only explanation that the scientists could come up with was that robins have an inbuilt magnetic compass - an idea that was first suggested in the 19th century but that had never been proven.\r\n\r\nTo test their hypothesis the scientists used strong electromagnets to shift the magnetic field. They found that the robins adapted their orientation to the shifting magnetic field. A range of experiments with other bird species confirmed the results, so by the 1980's magnetic orientation in birds had become an established theory.\r\n",
+              "textDE": "Deutsche Forscher hatten in den 1950 Jahren bemerkt, dass Rotkehlchen sich nachts anhand des Sternhimmels orientierten. Aber: Wenn sie diese V\u00f6gel in einem dunklen Raum ohne Sicht auf die Sterne unterbrachten, orientierten sie sich trotzdem in die richtige Richtung. Die einzige Erkl\u00e4rung, die sich die Forscher ausdenken konnten, war, dass Rotkehlchen \u00fcber eine Art Magnetkompass verf\u00fcgen. Diese Idee wurde erstmals im neunzehnten Jahrhundert ge\u00e4u\u00dfert, aber konnte nie bewiesen werden.\r\n\r\nUm ihre Annahme zu \u00fcberpr\u00fcfen, verschoben die Forscher das Magnetfeld mit Hilfe starker Elektromagneten. Das Rotkehlchen passte seine Orientierung in die entsprechende Richtung an. Eine ansteigende Anzahl Experimente best\u00e4tigte diese Ergebnisse auch bei anderen Vogelarten, bis Orientierung anhand des Magnetfeldes in den 1980er Jahren ein allgemein akzeptiertes Prinzip wurde.",
+              "rank": 5,
+              "video": "",
+              "exploratorium_multithemes_id": 1,
+              "exploratorium_multithemes_category_id": 3,
+              "exploratorium_multithemes_images": []
+            },
+            {
+              "id": 27,
+              "nameNL": "Gevederden voor gevorderden",
+              "nameFR": "La gent ail\u00e9e et l\u2019envol de la recherche",
+              "nameEN": "Whatever's Next?",
+              "nameDE": "Unsere gefiederten Freunde f\u00fcr Fortgeschrittene",
+              "textNL": "In het moderne trekvogelonderzoek worden nieuwe methodes  uit de medische wereld almaar belangrijker. Dankzij DNA-onderzoek weten we bijvoorbeeld dat er van de bonte strandloper vijf genetische lijnen bestaan, die terug te voeren zijn op vijf verschillende, ge\u00efsoleerde plekken waar de vogel tijdens de ijstijden beschutting vond.\r\n\r\nTot een paar jaar geleden dachten wetenschappers dat vogels zich ori\u00ebnteerden met behulp van de magnetietkristallen in hun bek - magnetiet is namelijk, zoals de naam al zegt, een magnetisch materiaal. Een groep onderzoekers kwam in 2012 echter tot de bevinding dat het niet gaat om magnetiet, maar om een andere, veel minder magnetische stof. Het lijkt er dus op dat die hypothese ontkracht is.\r\n\r\nOngetwijfeld zullen we dankzij die beproefde \u00e9n nieuwe onderzoeksmethodes de komende jaren nog heel veel verrassende dingen te weten komen over trekvogels. \r\n",
+              "textFR": "La recherche moderne sur les oiseaux migrateurs a de plus en plus recours \u00e0 de nouvelles m\u00e9thodes issues du monde m\u00e9dical. Des analyses ADN ont par exemple r\u00e9v\u00e9l\u00e9 que le b\u00e9casseau variable poss\u00e8de cinq lign\u00e9es g\u00e9n\u00e9tiques, qui nous ram\u00e8nent \u00e0 cinq endroits recul\u00e9s o\u00f9 l\u2019esp\u00e8ce s\u2019\u00e9tait r\u00e9fugi\u00e9e pendant les p\u00e9riodes glaciaires.\r\n\r\nIl y a encore quelques ann\u00e9es, les scientifiques pensaient que les oiseaux s\u2019orientaient gr\u00e2ce aux cristaux de magn\u00e9tite dans leur bec \u2013 la magn\u00e9tite \u00e9tant, comme son nom l\u2019indique, un mat\u00e9riau magn\u00e9tique. En 2012, toutefois, un groupe de chercheurs a d\u00e9couvert qu\u2019il s\u2019agit d\u2019une autre substance nettement moins magn\u00e9tique. Cette hypoth\u00e8se semble donc infirm\u00e9e.\r\n\r\nNul doute que, dans les ann\u00e9es \u00e0 venir, ces m\u00e9thodes de recherche \u00e9prouv\u00e9es et nouvelles nous r\u00e9v\u00e9leront encore un tas de choses \u00e9tonnantes sur les oiseaux migrateurs. \r\n",
+              "textEN": "New scientific methods are becoming increasingly important in current ornithological research. Thanks to DNA-analysis, for example, we now know that there are five distinct genetic lineages of the dunlin species, each of which corresponds to a specific, isolated location where a part of the species found shelter during the ice ages.\r\n\r\nUntil a few years ago, scientists thought that birds were able to find their bearings thanks to the magnetite crystals in their beaks - magnetite, as the name indicates, has magnetic properties. However, in 2012 researchers discovered that the crystals did not consist of magnetite but of a different substance, which is far less magnetic. So it looks like this hypothesis has been invalidated. \r\n\r\nWe can be sure that over the next few years, thanks to tried and tested methods and to new cutting-edge techniques, we will learn a lot more about migratory birds. \r\n",
+              "textDE": "Bei der modernen Zugvogelforschung werden neue Methoden aus der Medizin immer wichtiger. Dank der DNA-Forschung wissen wir zum Beispiel, dass beim Alpenstrandl\u00e4ufer f\u00fcnf genetische Linien vorhanden sind, die auf f\u00fcnf unterschiedliche, isolierte Aufenthaltsorte, an denen sich die V\u00f6gel w\u00e4hrend der Eiszeiten zum Schutz aufhielten, zur\u00fcckzuf\u00fchren sind.\r\n\r\nVor einigen Jahren glaubten Wissenschaftler noch, dass V\u00f6gel sich anhand der Magnetitkristalle in ihrem Schnabel orientierten \u2013 Magnetit ist, wie der Name schon sagt, ein magnetisches Material. Eine Forschergruppe fand im Jahre 2012 jedoch heraus, dass es sich nicht um Magnetit, sondern um eine andere, weniger magnetische Substanz handelt. Diese Hypothese scheint also entkr\u00e4ftet zu sein.\r\n\r\nDank dieser bew\u00e4hrten und neuen Forschungsmethoden werden wir in den kommenden Jahren zweifellos noch etliche \u00fcberraschende Tatsachen \u00fcber Zugv\u00f6gel herausfinden. ",
+              "rank": 7,
+              "video": "",
+              "exploratorium_multithemes_id": 1,
+              "exploratorium_multithemes_category_id": 3,
+              "exploratorium_multithemes_images": [
+                {
+                  "id": 16,
+                  "name": "Wetenschapper die vogel onderzoekt",
+                  "image": "uploads\/project_4\/exhibit_41\/uploads\/img\/7kcgjs59gt003woc7h37n32jtet1uxbggmym6orw0aq0hemtdj.jpg",
+                  "exploratorium_multithemes_content_id": 27
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "exploratorium_birthplaces": [],
+  "exploratorium_hotspots": [],
+  "exploratorium_choices": [
+    {
+      "id": 1,
+      "exploratorium_id": 1,
+      "name": "1.4.2 Panoramafotos met hotspots",
+      "image": "uploads\/project_4\/exhibit_39\/uploads\/img\/we01z3ln7wn8gnwe4b8ogaw9n1x89cbxcy7c22emqe79d68f5d.jpg",
+      "titleNL": "Altijd op zoek naar eten",
+      "titleFR": "Manger comme un oiseau",
+      "titleEN": "Eat Like a Bird",
+      "titleDE": "Essen wie ein Vogel",
+      "exploratorium_eats": [
+        {
+          "id": 1,
+          "exploratorium_choice_id": 1,
+          "titleNL": "Waarom moeten vogels zoveel eten?",
+          "titleFR": "Pourquoi les oiseaux doivent-ils manger autant ?",
+          "intro": "Hoe komt het dat wij rondkomen met drie maaltijden per dag, terwijl de meeste vogels bijna constant aan het foerageren zijn?",
+          "introFR": "Comment se fait-il que trois repas par jour nous suffisent, alors que la plupart des oiseaux fourragent pratiquement sans arr\u00eat ?",
+          "titleEN": "Why Do Birds Have to Eat all the Time?",
+          "titleDE": "Warum m\u00fcssen V\u00f6gel so viel essen?",
+          "introEN": "Human beings only need to eat a few meals a day, while birds have to forage almost constantly. Why is that?",
+          "introDE": "Wieso brauchen wir nur drei Mahlzeiten am Tag, w\u00e4hrend die meisten V\u00f6gel fast st\u00e4ndig mit der Nahrungssuche besch\u00e4ftigt sind?",
+          "exploratorium_eat_subjects": [
+            {
+              "id": 1,
+              "titleNL": "Heft zichzelf op",
+              "titleFR": " Auto-\u00e9l\u00e9vation",
+              "titleEN": " Flying in the Face of Frugality",
+              "titleDE": " Hebt sich selbst auf",
+              "textNL": " De meeste vogels vliegen, en dat is een manier van voortbewegen die heel veel energie vergt. Je moet je namelijk niet alleen van het ene punt naar het andere verplaatsen, je moet ook nog eens je hele lichaamsgewicht opheffen - tientallen, soms wel duizenden meters hoog. ",
+              "textFR": " La plupart des oiseaux volent, ce qui demande \u00e9norm\u00e9ment d\u2019\u00e9nergie. Car il ne suffit pas de se d\u00e9placer d\u2019un point \u00e0 l\u2019autre, ils doivent aussi soulever tout le poids de leur corps \u2013 \u00e0 des dizaines, et parfois des milliers de m\u00e8tres de hauteur. ",
+              "textEN": "Most birds fly, and flying consumes lots of energy. It means lifting your own body weight - and anyone who has ever climbed five flights of stairs knows how hard that can be. Birds do it all the time, sometimes up to a height of several thousands of meters. ",
+              "textDE": " Die meisten V\u00f6gel fliegen, aber diese Fortbewegungsart erfordert riesige Mengen Energie. V\u00f6gel m\u00fcssen sich n\u00e4mlich nicht nur vom einen Punkt zum anderen Punkt bewegen, sie m\u00fcssen auch nochmal ihr ganzes K\u00f6rpergewicht aufheben \u2013 dutzende, manchmal tausende Meter hoch. ",
+              "image": "uploads\/project_4\/exhibit_39\/uploads\/img\/qve11ftj0nf3uk3201lg8ym5gn15fx0jqr8140yl9p4aaocwgz.jpg",
+              "exploratorium_eat_id": 1
+            },
+            {
+              "id": 2,
+              "titleNL": "Een warm nest",
+              "titleFR": "Un nid douillet",
+              "titleEN": "A Warm Nest",
+              "titleDE": "Ein warmes Nest",
+              "textNL": "De lichaamstemperatuur van vogels ligt bovendien rond de 42 graden Celsius, aanzienlijk hoger dan onze 36 \u00e0 37 graden. En wie hard moet stoken, verbruikt meer energie - al hebben vogels natuurlijk ook een goed isolerend verenpak.  Bovendien zijn de meeste vogels klein, en we weten allemaal intu\u00eftief dat kleine dingen sneller warmte verliezen dan grote - daarom verdelen we te warm eten bijvoorbeeld in kleine hapjes: zo koelt het vlugger af. Vogels \r\nverbruiken dus niet alleen meer omdat hun lichaamstemperatuur hoger is; omdat ze zo klein zijn, verliezen ze ook nog eens sneller hun warmte.",
+              "textFR": "La temp\u00e9rature du corps des oiseaux avoisine 42 degr\u00e9s Celsius, nettement plus que nos 36 \u00e0 37 degr\u00e9s. Et bien chauffer demande plus d\u2019\u00e9nergie \u2013 m\u00eame si les oiseaux ont \u00e9videmment un plumage bien isolant. \r\nDe plus, la plupart des oiseaux sont petits, et nous savons tous intuitivement que les petites choses perdent plus vite leur chaleur \u2013 quand nos aliments sont trop chauds, nous les divisons en petites portions, qui refroidissent plus vite. \r\nLes oiseaux br\u00fblent donc plus d\u2019\u00e9nergie parce que leur temp\u00e9rature corporelle est plus \u00e9lev\u00e9e, mais aussi parce qu\u2019ils ont une d\u00e9perdition de chaleur plus importante vu leur petite taille.",
+              "textEN": "The body temperature of birds is about 42 degrees Celsius, considerably higher than the 36 or 37 degrees of us humans. Although feathers are very efficient insulators, maintaining this temperature still requires a lot of energy.\r\n\r\nMoreover, most birds are small - and we all know intuitively that small things lose heat more rapidly than big things. That's why we naturally divide up hot food in small morsels: it cools down faster that way.\r\n\r\nConclusion: birds not only consume more energy because their body temperature is higher, they also cool down faster.\r\n",
+              "textDE": "Die K\u00f6rpertemperatur von V\u00f6geln liegt bei etwa 42\u00b0C, erheblich h\u00f6her als unsere 36 bis 37 Grad. Und wer viel heizen soll, verbraucht mehr Energie \u2013 obwohl V\u00f6gel nat\u00fcrlich auch ein gut isolierendes Federkleid haben. \r\nAu\u00dferdem sind die meisten V\u00f6gel klein, und wir wissen alle intuitiv, dass kleine Sachen schneller ihre W\u00e4rme verlieren als gro\u00dfe - das ist auch der Grund, wieso wir hei\u00dfes Essen in kleinen H\u00e4ppchen verteilen: So k\u00fchlt es schneller ab. \r\nV\u00f6gel verbrauchen also nicht nur mehr Energie, weil ihre K\u00f6rpertemperatur h\u00f6her ist, sondern auch weil sie wegen ihrer kleineren Gestalt schneller ihre W\u00e4rme verlieren.\r\n",
+              "image": "uploads\/project_4\/exhibit_39\/uploads\/img\/5gn9t9sbgrg69ponisqjjpmvlhnaxcq6pb1n9xtyo6m68gxjxs.jpg",
+              "exploratorium_eat_id": 1
+            },
+            {
+              "id": 3,
+              "titleNL": "Grote honger ",
+              "titleFR": "Faim de loup",
+              "titleEN": "The Hunger Game",
+              "titleDE": "Gro\u00dfer Hunger",
+              "textNL": "Heel kleine vogels met een heel intensieve vliegstijl gebruiken ontstellende hoeveelheden energie. Een kolibrie van drie gram heeft in verhouding tot zijn gewicht zowat 400 keer meer eten nodig dan een volwassen man.",
+              "textFR": "Les oiseaux minuscules ayant une technique de vol tr\u00e8s \u00e9nergivore d\u00e9pensent une \u00e9nergie ph\u00e9nom\u00e9nale. Un colibri de trois grammes a \u2013 proportionnellement \u00e0 son poids \u2013 besoin de 400 fois plus de nourriture qu\u2019un homme adulte.",
+              "textEN": "Very small birds with an extremely intensive style of flying consume exceptional amounts of energy. A humming bird weighing 3 grams has to eat about 400 times more in proportion to its weight than an adult man.",
+              "textDE": "Winzige V\u00f6gel mit einer sehr intensiven Flugart verbrauchen riesige Mengen Energie. Ein Kolibri mit einem K\u00f6rpergewicht von drei Gramm braucht im Verh\u00e4ltnis zu seinem Gewicht etwa 400 Mal mehr Nahrung als ein erwachsener Mann.",
+              "image": "uploads\/project_4\/exhibit_39\/uploads\/img\/o7fnrzjmj8gggf6q30qstxjmxmy0br7b01igru47e26pem29w8.jpg",
+              "exploratorium_eat_id": 1
+            },
+            {
+              "id": 4,
+              "titleNL": "Het vogeldieet",
+              "titleFR": "Le r\u00e9gime des oiseaux",
+              "titleEN": "Eat Like a Bird",
+              "titleDE": "Die Vogeldi\u00e4t",
+              "textNL": "Als vogels de kans hebben, zullen ze dus kiezen voor eten dat zoveel mogelijk energie bevat: vlees, vis en zaden. En alweer: hoe kleiner ze zijn, hoe calorierijker hun dieet.  Geen enkele vogel die kleiner is dan een bergeend zou kunnen overleven van alleen maar gras, kool of ander bladgroen. ",
+              "textFR": "S\u2019ils ont le choix, tous les oiseaux choisiront donc les aliments les plus \u00e9nerg\u00e9tiques, c\u2019est-\u00e0-dire de la viande, du poisson et des graines. Et une fois de plus : plus ils sont petits, plus leur r\u00e9gime sera riche en calories. \r\nAucun oiseau plus petit qu\u2019une tadorne de Belon ne pourrait survivre en se nourrissant exclusivement d\u2019herbe, de chou ou d\u2019autres plantes.",
+              "textEN": "If they have the chance, birds will choose food that contains the largest amount of energy: animal food sources and seeds. As we have seen, small things cool down faster, so the smaller a bird species is, the richer in calories its diet will be. No bird that is smaller than a shelduck would be able to survive on only grass, cabbage or other green vegetation.",
+              "textDE": "Wenn V\u00f6gel die Wahl haben, entscheiden sie sich also f\u00fcr die Nahrung, die am meisten Energie enth\u00e4lt: Fleisch, Fisch und Samen. Und auch hier gilt: je kleiner, je mehr Kalorien in der Di\u00e4t. \r\nKein einziger Vogel, der kleiner als eine Brandgans ist, k\u00f6nnte nur mit Gras, Kohl oder anderen Pflanzen \u00fcberleben.",
+              "image": "uploads\/project_4\/exhibit_39\/uploads\/img\/hn5phioenelpsjobfg7f3ax1bfc7evzg464khbk85qeyc4itcr.jpg",
+              "exploratorium_eat_id": 1
+            },
+            {
+              "id": 5,
+              "titleNL": "En onze vogels?",
+              "titleFR": "Et nos oiseaux ?",
+              "titleEN": "How about our Birds?",
+              "titleDE": "Und unsere V\u00f6gel?",
+              "textNL": "Hier zie je de tien vogels waarrond deze tentoonstelling is opgebouwd, gerangschikt volgens grootte. De vogels met een rood balkje eten uitsluitend of voornamelijk dierlijk voedsel, de vogels met een groen balkje eten uitsluitend of voornamelijk plantaardig voedsel. ",
+              "textFR": "Vous voyez ici, class\u00e9s par taille, les dix oiseaux autour desquels cette exposition est construite. Les oiseaux avec le trait rouge se nourrissent exclusivement ou principalement d\u2019animaux, les oiseaux avec le trait vert se nourrissent exclusivement ou principalement de v\u00e9g\u00e9taux.",
+              "textEN": "These are the ten bird species that you will get to know more about in this exposition, arranged according to size. The birds indicated in red exclusively or predominantly eat animal food sources. Birds indicated in green exclusively or predominantly eat plant material.",
+              "textDE": "Hier sehen Sie die zehn V\u00f6gel, auf denen diese Ausstellung basiert, nach Gr\u00f6\u00dfe geordnet. Die V\u00f6gel mit einem roten Balken essen ausschlie\u00dflich oder haupts\u00e4chlich tierische Nahrung, die V\u00f6gel mit einem gr\u00fcnen Balken essen ausschlie\u00dflich oder haupts\u00e4chlich pflanzliche Nahrung.",
+              "image": "uploads\/project_4\/exhibit_39\/uploads\/img\/fbolo6fvik5jzuhg96qg0pywcl1134kka4xfpv3nrmgacv6dce.jpg",
+              "exploratorium_eat_id": 1
+            }
+          ]
+        }
+      ],
+      "exploratorium_panoramas": [
+        {
+          "id": 1,
+          "exploratorium_choice_id": 1,
+          "exploratorium_panorama_zones": [
+            {
+              "id": 1,
+              "name": "Zwingeul",
+              "image": "uploads\/project_4\/exhibit_39\/uploads\/img\/bftl5r0ndokgilqv2afw4a7sjpr2atk3is5edjhp1q8zsodamu.png",
+              "textNL": "De Zwingeul is de levensader van het Zwin. Twee keer per dag, bij iedere vloed, dringt de zee langs de geul de Zwinvlakte binnen. Het zeewater zit vol mineralen en organisch materiaal. Een deel daarvan blijft achter wanneer het water bij eb weer wegtrekt, en vormt zo de basis van de voedselketen in het Zwin. ",
+              "textFR": "Le chenal du Zwin est l\u2019art\u00e8re vitale du Zwin. Deux fois par jour, \u00e0 chaque mar\u00e9e, la mer s\u2019y engouffre pour inonder la plaine du Zwin. L\u2019eau de mer regorge de min\u00e9raux et de substances organiques. Lorsque la mer se retire \u00e0 mar\u00e9e basse, elle abandonne une partie de ces substances, qui constituent la base de la cha\u00eene alimentaire du Zwin. ",
+              "textEN": "The Zwin channel is the Zwin's lifeline. Twice a day, with every high tide, seawater flows through the channel and into the Zwin plain. The water is full of minerals and organic matter. Some of this is left behind when the water withdraws at low tide and constitutes the basis of the Zwin's food chain. ",
+              "textDE": "Der Zwinpriel ist die Lebensader des Zwin. Zweimal am Tag, bei der Flut, dringt das Meer \u00fcber den Priel in das Flachland des Zwin ein. Das Meereswasser enth\u00e4lt organisches Material und viele Mineralien. Wenn das Wasser bei Ebbe wegstr\u00f6mt, wird ein Teil zur\u00fcckgelassen, und bildet so die Basis der Nahrungskette im Zwin. ",
+              "exploratorium_panorama_id": 1,
+              "titleNL": "Zwingeul",
+              "titleFR": "Le chenal du Zwin",
+              "titleEN": "The Zwin channel",
+              "titleDE": "Zwinpriel",
+              "exploratorium_wiedoetwat": [],
+              "exploratorium_panorama_points": [
+                {
+                  "id": 1,
+                  "nameNL": "Duinen",
+                  "nameFR": "Les dunes",
+                  "nameEN": "The dunes",
+                  "nameDE": "D\u00fcnen",
+                  "textNL": "De duinen zijn erg belangrijk voor vogels, maar vooral als broed- en schuilplek. Toch vinden ze er ook eten. Zo zijn lijsters, spreeuwen en andere insecteneters verzot op de besjes van de vlier en de duindoorn. In de winter kunnen duindoornbessen gaan gisten: dan kunnen de vogels er zelfs dronken van worden.",
+                  "textFR": "Les dunes sont cruciales pour les oiseaux, surtout pour y nicher et s\u2019y abriter. Mais ils y trouvent aussi de la nourriture. Les grives, \u00e9tourneaux et autres insectivores raffolent par exemple des baies de sureau et d\u2019argousier. En hiver, il arrive que les baies d\u2019argousier fermentent et que les oiseaux soient ivres.",
+                  "textEN": "In the dunes, many birds find a place to breed and hide, as well as lots of food. Thrushes, starlings and other insect-eating birds love the elderberries and sea buckthorn berries that grow in the dunes. In winter, as these berries start fermenting, birds may even get drunk on them.",
+                  "textDE": "Die D\u00fcnen sind f\u00fcr V\u00f6gel von gro\u00dfer Bedeutung, vor allem als Brutplatz und Versteck. Sie finden dort aber auch Nahrung. So sind Drosseln, Stare und andere Insektenfresser auf die Beeren des Holunders und des Sanddorns versessen. Im Winter k\u00f6nnen die Sanddornbeeren g\u00e4ren: Dann k\u00f6nnen sie die V\u00f6gel sogar betrunken machen.",
+                  "x": 791,
+                  "y": 281,
+                  "exploratorium_panorama_zone_id": 1,
+                  "exploratorium_panorama_images": [
+                    {
+                      "id": 1,
+                      "image": "uploads\/project_4\/exhibit_39\/uploads\/img\/barv9zh8si9h9r162hnr5asr1m9en9y7762pexjhewdynnvpkq.jpg",
+                      "exploratorium_panorama_point_id": 1
+                    }
+                  ]
+                },
+                {
+                  "id": 2,
+                  "nameNL": "Tandpastahoopjes",
+                  "nameFR": "Dentifrice",
+                  "nameEN": "Piled-up drops of toothpaste",
+                  "nameDE": "Haufen Zahnpasta ",
+                  "textNL": "De zee- of wadpier eet zich een weg door het slijk: het organisch materiaal neemt hij op, de rest poept hij weer uit. Die uitwerpselen lijken op hoopjes tandpasta of spaghetti. Je vindt ze overal op de slikken en het strand. Zeepieren staan bij heel wat vogels op het menu.",
+                  "textFR": "L\u2019ar\u00e9nicole ou \u2018ver de vase\u2019 mange la vase, assimilant les mati\u00e8res organiques et \u00e9vacuant le reste dans ses f\u00e8ces. Ces tortillons ressemblent \u00e0 du dentifrice ou des spaghetti. Ils sont partout dans les vasi\u00e8res et sur la plage. Les ar\u00e9nicoles sont au menu de nombreuses esp\u00e8ces d\u2019oiseaux.",
+                  "textEN": "Lugworms or sandworms eat their way through the mud, consuming organic matter and defecating the rest. Their faeces look like piled-up drops of toothpaste or tiny strings of spaghetti. They can be seen all over the mudflats and the beaches. Lugworms are a staple food for a wide range of birds.",
+                  "textDE": "Der Wattwurm oder Pierwurm isst sich einen Weg durch den Schlamm: Die organischen Stoffe filtert er heraus, den Rest st\u00f6\u00dft er wieder aus. Diese Ausscheidungen \u00e4hneln Haufen Zahnpasta oder Spaghetti. Man findet sie \u00fcberall in den Schlickgebieten und auf dem Strand. Wattw\u00fcrmer geh\u00f6ren zur Nahrung etlicher Vogelarten.",
+                  "x": 724,
+                  "y": 850,
+                  "exploratorium_panorama_zone_id": 1,
+                  "exploratorium_panorama_images": [
+                    {
+                      "id": 12,
+                      "image": "uploads\/project_4\/exhibit_39\/uploads\/img\/r9jtu5gjpbklewmn3zygm6y7na3es5bh0fs5bc6qhrih4oft6w.jpg",
+                      "exploratorium_panorama_point_id": 2
+                    }
+                  ]
+                },
+                {
+                  "id": 3,
+                  "nameNL": "Scholekster",
+                  "nameFR": "L\u2019hu\u00eetrier pie",
+                  "nameEN": "Oystercatchers",
+                  "nameDE": "Austernfischer",
+                  "textNL": "De lichaamsbouw van iedere vogel is aangepast aan de prooien die hij vangt. De scholekster heeft bijvoorbeeld een lange, krachtige snavel waarmee hij diep in het slijk naar schelpjes zoekt. Die slaat hij stuk of knipt hij met zijn snavel open. ",
+                  "textFR": "La morphologie de chaque esp\u00e8ce est adapt\u00e9e \u00e0 ses proies. Par exemple, l\u2019hu\u00eetrier pie poss\u00e8de un long bec puissant pour fouiller la vase en profondeur \u00e0 la recherche de coquillages. Il les casse ou les ouvre avec son bec. ",
+                  "textEN": "The anatomy of each bird species is specially designed to catch a certain kind of prey. For example, oystercatchers have long and powerful beaks to probe deep into the mud to search for molluscs: when they find them, they smash them or prise them open. ",
+                  "textDE": "Der K\u00f6rperbau eines jeden Vogels ist der von ihm gefangenen Beute angepasst. Der Austernfischer hat zum Beispiel einen langen, kr\u00e4ftigen Schnabel, mit dem er tief im Schlamm nach Muscheln sucht. Er zerschl\u00e4gt diese oder schneidet sie mit seinem Schnabel auf. ",
+                  "x": 1320,
+                  "y": 479,
+                  "exploratorium_panorama_zone_id": 1,
+                  "exploratorium_panorama_images": [
+                    {
+                      "id": 13,
+                      "image": "uploads\/project_4\/exhibit_39\/uploads\/img\/t64orrbvgn0fb1mce01h5j5nbbmg2bg400r2jb93vhloegjcky.jpg",
+                      "exploratorium_panorama_point_id": 3
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "name": "Slikken",
+              "image": "uploads\/project_4\/exhibit_39\/uploads\/img\/taa4cx78qppyf1q6a4hjf4662h47bbvvwfe98awg8ptyt21571.png",
+              "textNL": "Slikken zijn slijkplaten die bij iedere vloed worden overspoeld door de zee. Wanneer het water bij eb weer wegtrekt, gaan steltlopers in het slijk op zoek naar schelpjes, wormpjes en kreeftjes. Die leven op hun beurt van de ontelbare kiezelwiertjes waarmee de slikken bedekt zijn.",
+              "textFR": "Les slikkes sont des vasi\u00e8res inond\u00e9es par la mer \u00e0 mar\u00e9e haute. Lorsque la mer se retire \u00e0 mar\u00e9e basse, les \u00e9chassiers fouillent la vase \u00e0 la recherche de petits coquillages, vers et crustac\u00e9s. Ceux-ci se nourrissent des innombrables diatom\u00e9es dont sont couverts les slikkes.",
+              "textEN": "Mudflats are inundated with every high tide. When the water withdraws at low tide, waders start searching the mud for molluscs, worms and crustaceans. These little animals feed off the innumerable diatoms - minuscule algae that cover the mudflats.",
+              "textDE": "Schlickgebiete werden bei jeder Flut vom Meer \u00fcberflutet. Wenn das Wasser sich bei Ebbe zur\u00fcckzieht, suchen Stelzv\u00f6gel im Schlamm nach Muscheln, W\u00fcrmern und kleinen Krebsen. Diese ern\u00e4hren sich von den zahllosen winzigen Kieselalgen, die die Schlickgebiete bedecken.",
+              "exploratorium_panorama_id": 1,
+              "titleNL": "Slikken",
+              "titleFR": "Les slikkes ",
+              "titleEN": "Mudflats",
+              "titleDE": "Schlickgebiete",
+              "exploratorium_wiedoetwat": [],
+              "exploratorium_panorama_points": [
+                {
+                  "id": 5,
+                  "nameNL": "Kiezelwieren",
+                  "nameFR": "Les diatom\u00e9es",
+                  "nameEN": "The mudflats ",
+                  "nameDE": "Die Kieselalgen",
+                  "textNL": "Op de slikken zit een glanzende, bruingrijze film. Dat zijn kiezelwieren of diatomee\u00ebn: eencellige algen die te klein zijn om met het blote oog te zien. E\u00e9n vierkante centimeter slik kan wel een miljoen van zulke wiertjes bevatten. \r\nDat er zoveel kiezelwieren zijn, heeft te maken met de getijden. Bij iedere vloed zet de zee enorme hoeveelheden organisch materiaal af: wieren, plankton, dode planten... Dat wordt door bacteri\u00ebn afgebroken en omgezet in mineralen. Samen met de mineralen die de zee rechtstreeks aanvoert, dienen zij als bouwstenen voor de kiezelwieren. En die vormen op hun beurt de basis van de voedselpiramide in het Zwin. Ze dienen als voedsel voor schelpjes en weekdiertjes, die dan weer gegeten worden door vogels.\r\n",
+                  "textFR": "La pellicule brillante brun-gris qui recouvre les slikkes est due \u00e0 ces diatom\u00e9es, qui sont de petites algues unicellulaires invisibles \u00e0 l\u2019\u0153il nu. On peut trouver un million de ces algues sur un centim\u00e8tre carr\u00e9 de slikke. \r\nLeur pr\u00e9sence en grand nombre s\u2019explique par les mar\u00e9es. A chaque mar\u00e9e haute, la mer d\u00e9pose une quantit\u00e9 impressionnante de mati\u00e8res organiques : algues, plancton, plantes mortes... Des bact\u00e9ries d\u00e9composent ces mati\u00e8res organiques et les transforment en min\u00e9raux. Avec les min\u00e9raux charri\u00e9s directement par la mer, ils forment les \u00e9l\u00e9ments constitutifs des diatom\u00e9es. Celles-ci, \u00e0 leur tour, sont \u00e0 la base de la pyramide alimentaire du Zwin. Elles sont mang\u00e9es par les coquillages et petits mollusques, qui sont au menu des oiseaux.\r\n",
+                  "textEN": "The mudflats are covered in what looks like a shiny greyish brown slick. This is actually millions of diatoms: unicellular algae, too small to be seen with the naked eye. One square centimetre of mud may contain up to one million of these algae. \r\nThe abundance of diatoms is due to the tides. With every high tide the sea deposits huge amounts of organic matter, like seaweed, plankton or dead and decaying plants. These are then decomposed by bacteria and converted into minerals. Together with the minerals contained in seawater, these are the building blocks for diatoms. The diatoms form the basis of the Zwin's food pyramid: they serve as food for molluscs and invertebrates, which are in turn eaten by birds. \r\n",
+                  "textDE": "Die Schlickgebiete sind mit einer gl\u00e4nzenden, braungrauen Schicht \u00fcberzogen. Diese wird von den Kieselalgen oder Diatomeen gebildet: einzellige Algen, die zu klein sind, um mit blo\u00dfem Auge wahrgenommen zu werden. Ein Quadratzentimeter Schlickgebiet kann von einer Million solcher Algen bev\u00f6lkert sein. \r\nDass die Kieselalgen so zahlreich sind, h\u00e4ngt mit dem Gezeitenwechsel zusammen. Bei jedem Flut setzt das Meer Riesenmengen organisches Material ab: Algen, Plankton, tote Pflanzen\u2026 Das wird alles von Bakterien zersetzt und in Mineralien umgewandelt. Zusammen mit den Mineralien, die unmittelbar vom Meer angef\u00fchrt werden, dienen sie den Kieselalgen als Bausteinen. Diese Algen stellen die Basis der Nahrungspyramide im Zwin dar. Sie werden von Muscheln und kleinen Weichtieren gegessen, die ihrerseits von den V\u00f6geln gegessen werden.\r\n",
+                  "x": 1569,
+                  "y": 975,
+                  "exploratorium_panorama_zone_id": 2,
+                  "exploratorium_panorama_images": [
+                    {
+                      "id": 14,
+                      "image": "uploads\/project_4\/exhibit_39\/uploads\/img\/l1tqzjrdgijhea771wtiqy50socozq5w3ron62mh9q0rtv1bdj.jpg",
+                      "exploratorium_panorama_point_id": 5
+                    }
+                  ]
+                },
+                {
+                  "id": 6,
+                  "nameNL": "Onder het slijk ",
+                  "nameFR": "Dans et sur les slikkes",
+                  "nameEN": "On and in the mudflats",
+                  "nameDE": "Auf und in den Schlickgebieten",
+                  "textNL": "Op en in de slikken leven miljoenen schelpen, wormen en kreeftjes. Ze hebben vaak prachtige namen: wadslakjes, slijkgapers, nonnetjes, kokkels, slikgarnalen, zeepieren, zeeduizendpoten en andere. Ze voeden zich met kiezelwieren die ze van de bodem schrapen, en met plankton dat ze uit het zeewater filteren.",
+                  "textFR": "Des millions de petits coquillages, vers et crustac\u00e9s vivent dans et sur les slikkes. Ils ont souvent de tr\u00e8s jolis noms : hydrobies, palourdes, moines, coques, corophies tourneurs, ar\u00e9nicoles, n\u00e9r\u00e9ides etc. Ils se nourrissent de diatom\u00e9es qu\u2019ils ramassent en raclant le sol, et de plancton qu\u2019ils filtrent dans l\u2019eau de mer.",
+                  "textEN": "Millions of molluscs, worms and small crustaceans live on and in the mudflats. They have wonderful names: mud snails, peppery furrow shells, Baltic clams, common cockles, lugworms, sandworms, to mention but a few. They all feed on diatoms (minuscule algae) that they scrape off the mudflat bed, and on plankton that they filter out like a sieve from the seawater. ",
+                  "textDE": "Auf und in den Schlickgebieten leben Millionen Muscheln, W\u00fcrmer und kleine Krebse. Sie haben oft wundersch\u00f6ne Namen: Gemeine Wattschnecken, gro\u00dfe Pfeffermuscheln, Baltische Plattmuscheln, Gemeine Herzmuscheln, Schlickkrebse, Wattw\u00fcrmer, Gr\u00fcne Meerringelw\u00fcrmer und vieles mehr. Sie ern\u00e4hren sich von den Kieselalgen, die sie vom Boden schaben, und von Plankton, das sie aus dem Meereswasser filtern.",
+                  "x": 600,
+                  "y": 565,
+                  "exploratorium_panorama_zone_id": 2,
+                  "exploratorium_panorama_images": []
+                },
+                {
+                  "id": 7,
+                  "nameNL": "Bergeend",
+                  "nameFR": "Les tadornes de Belon ",
+                  "nameEN": "Common shelducks ",
+                  "nameDE": "Brandg\u00e4nse",
+                  "textNL": "De meeste Zwinvogels hebben een snavel die speciaal is aangepast om bepaalde soorten schelpdiertje te verschalken. Bergeenden eten graag wadslakjes, die ze met hun bek uit het natte zand filteren. De laatste jaren zijn er in het Zwin echter nog maar weinig wadslakjes te vinden.",
+                  "textFR": "La plupart des oiseaux du Zwin ont un bec adapt\u00e9 pour attraper certains coquillages. Les tadornes de Belon sont friands d\u2019hydrobies, qu\u2019ils filtrent avec leur bec dans le sable mouill\u00e9. Or, ces derni\u00e8res ann\u00e9es, les hydrobies se font rares au Zwin.",
+                  "textEN": "Most birds that live in the Zwin have beaks that are specially designed to catch certain species of shellfish. Common shelducks for instance use their beak like a sieve to filter out mud snails from the wet mud. Recently however, mud snails have all but disappeared from the Zwin.",
+                  "textDE": "Der Schnabel der meisten V\u00f6gel im Zwin ist dem Fangen bestimmter Arten Muscheln angepasst. Brandg\u00e4nse essen gerne Gemeine Wattschnecken, die sie mit ihrem Schnabel aus dem nassen Sand filtern. In den letzten Jahren k\u00f6nnen im Zwin jedoch nur wenige Gemeine Wattschnecken gefunden werden.",
+                  "x": 1123,
+                  "y": 505,
+                  "exploratorium_panorama_zone_id": 2,
+                  "exploratorium_panorama_images": [
+                    {
+                      "id": 17,
+                      "image": "uploads\/project_4\/exhibit_39\/uploads\/img\/u31smxphve8zeyod14fq1n039cim33g47cx1714avdyb4namm3.jpg",
+                      "exploratorium_panorama_point_id": 7
+                    }
+                  ]
+                },
+                {
+                  "id": 31,
+                  "nameNL": "Gaatjes in het slijk ",
+                  "nameFR": "Les trous dans la vase",
+                  "nameEN": "Holes in the mud",
+                  "nameDE": "Die Doppell\u00f6cher im Schlick",
+                  "textNL": "De dubbele gaatjes in het slik zijn gemaakt door strandlopers - een soort waadvogel. Aan de binnenkant van hun snavel hebben die speciale zenuwen, waarmee ze hun prooi kunnen voelen. Ze jagen door met hun lichtjes geopende snavel in het slijk te prikken. Je ziet dus telkens twee gaatjes samen, eentje van de boven- en eentje van ondersnavel. Zijn de twee gaatjes met elkaar verbonden, dan heeft de vogel op die plek een prooi gevonden.",
+                  "textFR": "Les doubles trous dans la vase sont l\u2019oeuvre de b\u00e9casseaux \u2013 une esp\u00e8ce d\u2019\u00e9chassier. Ils ont \u00e0 l\u2019int\u00e9rieur du bec des r\u00e9cepteurs sensoriels qui leur permettent de sentir leur proie. Pour chasser, ils piquent dans la vase avec leur bec entrouvert. Vous voyez donc chaque fois deux trous, un de la partie sup\u00e9rieure du bec et l\u2019autre de la partie inf\u00e9rieure du bec. Si les deux trous sont reli\u00e9s entre eux, c\u2019est que l\u2019oiseau a trouv\u00e9 une proie \u00e0 cet endroit.",
+                  "textEN": "These holes in the mud were made by stints, a species of wader. Stints hunt by pecking with a slightly open beak. On the inside of their beak are specialised nerves with which they feel their prey. That's why there are always two holes next to each other: one made by the upper half of the beak, the other by the lower half. Sometimes the two holes connect; these are the spots where the bird caught a prey.",
+                  "textDE": "Die Doppell\u00f6cher im Schlick sind von Strandl\u00e4ufern \u2013 einer Art Watvogel \u2013 gemacht. Auf der Innenseite ihres Schnabels verf\u00fcgen sie \u00fcber spezielle Nerven, mit denen sie ihre Beute versp\u00fcren k\u00f6nnen. Sie jagen indem sie mit ihrem leicht ge\u00f6ffneten Schnabel in den Schlamm stechen. Man sieht also immer zwei L\u00f6cher nebeneinander, die jeweils vom Ober- und Unterschnabel gemacht wurden. Sind die zwei L\u00f6cher miteinander verbunden, dann hat der Vogel an dieser Stelle eine Beute gefunden.",
+                  "x": 1810,
+                  "y": 591,
+                  "exploratorium_panorama_zone_id": 2,
+                  "exploratorium_panorama_images": [
+                    {
+                      "id": 38,
+                      "image": "uploads\/project_4\/exhibit_39\/uploads\/img\/yn2dwciifvyatfv8r6p55yhfs9v3p5z2s6ss5fi34hp0ws9dlm.jpg",
+                      "exploratorium_panorama_point_id": 31
+                    },
+                    {
+                      "id": 39,
+                      "image": "uploads\/project_4\/exhibit_39\/uploads\/img\/wokqaighor23ztj7dh87emamyirpdqqi0qruglnxqc016aoomv.png",
+                      "exploratorium_panorama_point_id": 31
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": "Schorren",
+              "image": "uploads\/project_4\/exhibit_39\/uploads\/img\/inxqtms5dvih6zs4p8n2ivln1iid6ybjqxfhy0b4wstqnz51ln.png",
+              "textNL": "Schorren komen alleen onder water te staan bij springtij of bij zware noordwesterstormen. Er kunnen planten groeien, maar alleen soorten die bestand zijn tegen zout water. Ze moeten ook goed tegen droogte kunnen, want door de zoute omgeving en het gebrek aan beschutting tegen zon en wind verdampt het water in het Zwin snel. ",
+              "textFR": "Les schorres sont seulement inond\u00e9s lors de grandes mar\u00e9es ou de violentes temp\u00eates de nord-ouest. La v\u00e9g\u00e9tation peut donc y pousser, mais uniquement des esp\u00e8ces adapt\u00e9es \u00e0 l\u2019eau sal\u00e9e. Elles doivent aussi r\u00e9sister \u00e0 la s\u00e9cheresse car, vu l\u2019environnement salin et l\u2019exposition au soleil et au vent, l\u2019eau s\u2019\u00e9vapore tr\u00e8s vite au Zwin. ",
+              "textEN": "Salt marshes are only inundated at spring tide or during strong northwestern storms. Plants can only grow there if they are salt-tolerant. They also have to be drought-resistant because water evaporates quickly in the Zwin, with its salty environment and lack of cover.",
+              "textDE": "Groden \u00fcberfluten nur bei Springflut oder bei schweren Nordweststurmen. Es k\u00f6nnen dort Pflanzen wachsen, aber nur Arten, die an salzreiche Standorte angepasst sind. Sie m\u00fcssen auch D\u00fcrren vertragen k\u00f6nnen, denn wegen der salzigen Umgebung und des fehlenden Schutzes vor Sonne und Wind verdampft das Wasser im Zwin schnell. ",
+              "exploratorium_panorama_id": 1,
+              "titleNL": "Schorren",
+              "titleFR": "Les schorres",
+              "titleEN": "Salt marshes",
+              "titleDE": "Groden",
+              "exploratorium_wiedoetwat": [],
+              "exploratorium_panorama_points": [
+                {
+                  "id": 8,
+                  "nameNL": "Zeekraal",
+                  "nameFR": "La salicorne",
+                  "nameEN": "The salicornia ",
+                  "nameDE": "Der Europ\u00e4ische Queller",
+                  "textNL": "Alle planten in het Zwin kunnen goed tegen droogte, maar de kampioen is zeekraal. De sappige, vlezige stengels zijn zo gemaakt dat ze zoveel mogelijk water vasthouden, een beetje zoals een cactus in de woestijn. Dat maakt van zeekraal een heuse pionier. Bij iedere vloed blijft er een laagje slib achter op de slikken, die daardoor steeds hoger worden. Op de hoogste stukken is zeekraal een van de eerste planten die kunnen gedijen. Wanneer de slikken verder ophogen en zich ontwikkelen tot schorren, wordt zeekraal langzaam verdrongen door andere planten.",
+                  "textFR": "Toutes les plantes du Zwin sont r\u00e9sistantes \u00e0 la s\u00e9cheresse, mais la championne est la salicorne. Ses tiges tendres et charnues sont con\u00e7ues pour retenir un maximum d\u2019eau, un peu comme un cactus dans le d\u00e9sert. Ceci fait de la salicorne une v\u00e9ritable pionni\u00e8re. A chaque mar\u00e9e, une couche de vase subsiste sur les slikkes, qui deviennent d\u00e8s lors de plus en plus hautes. La salicorne est l\u2019une des premi\u00e8res plantes qui prosp\u00e8rent dans les zones les plus \u00e9lev\u00e9es. Quand les slikkes deviennent des schorres, la salicorne est peu \u00e0 peu d\u00e9tr\u00f4n\u00e9e par d\u2019autres plantes.",
+                  "textEN": "All plants that grow in the Zwin are drought-resistant, but none more so than the salicornia or glasswort. In its thick and succulent stem it can store large amounts of water, like a cactus does in the desert. This makes it a true pioneer of the mudflats. With every high tide a layer of sediment is left behind, so that the mudflats grow higher and higher. In the most elevated areas salicornia is one of the first plant species to thrive. As the mudflats slowly develop into salt marshes, salicornia is gradually replaced by other plant species.",
+                  "textDE": "Alle Pflanzen im Zwin k\u00f6nnen D\u00fcrre gut vertragen, aber der Meister ist der Europ\u00e4ische Queller. Die saftigen, fleischigen St\u00e4ngel sind so aufgebaut, dass sie m\u00f6glichst viel Wasser festhalten k\u00f6nnen, wie ein Kaktus in der W\u00fcste. Das macht Queller zu einem wahrhaften Pionier. Bei jeder Flut wird eine d\u00fcnne Schicht Schlick auf den Schlickgebieten hinterlassen, die dadurch immer h\u00f6her werden. An den h\u00f6chsten Stellen ist der Queller eine der ersten Pflanzen, die dort gedeihen k\u00f6nnen. Wenn sich die Schlickgebiete weiter erh\u00f6hen und sich in Groden umwandeln, wird der Queller langsam von anderen Pflanzen verdr\u00e4ngt.",
+                  "x": 1013,
+                  "y": 310,
+                  "exploratorium_panorama_zone_id": 3,
+                  "exploratorium_panorama_images": [
+                    {
+                      "id": 9,
+                      "image": "uploads\/project_4\/exhibit_39\/uploads\/img\/8o5b6rpmr1vtpw0d12bsr2xh1be5zkeh9fjfhlrn4ok8ddqc9o.jpg",
+                      "exploratorium_panorama_point_id": 8
+                    },
+                    {
+                      "id": 43,
+                      "image": "uploads\/project_4\/exhibit_39\/uploads\/img\/atbhgmixhnoklmx8gvd3ly7yxrwo7gl526enfnksolrmbk61l6.jpg",
+                      "exploratorium_panorama_point_id": 8
+                    }
+                  ]
+                },
+                {
+                  "id": 9,
+                  "nameNL": "Kweldergras",
+                  "nameFR": "La puccinellie maritime",
+                  "nameEN": "Common saltmarsh grass",
+                  "nameDE": "Die Bl\u00e4tter des Andels",
+                  "textNL": "Kweldergras heeft opgerolde blaadjes, waaruit maar heel weinig water verdampt. Konijnen en hazen, maar ook ganzen en bergeenden zijn dol op kweldergras. Kwelder is overigens gewoon een ander woord voor schor.",
+                  "textFR": "La puccinellie maritime a de petites feuilles enroul\u00e9es, l\u2019\u00e9vaporation d\u2019eau est donc minime. La puccinellie maritime est tr\u00e8s appr\u00e9ci\u00e9e des lapins et des li\u00e8vres, mais aussi des oies et des tadornes de Belon. ",
+                  "textEN": "Common saltmarsh grass has leaves that are rolled-up. This ensures that very little water is lost through evaporation. Rabbits, hares, geese and common shelducks all feed on common saltmarsh grass.",
+                  "textDE": "Die Bl\u00e4tter des Andels sind aufgerollt, sodass sie nur wenig Wasser durch Verdampfung verlieren. Kaninchen und Hasen, aber auch G\u00e4nse und Brandg\u00e4nse sind auf Andel versessen.",
+                  "x": 1687,
+                  "y": 319,
+                  "exploratorium_panorama_zone_id": 3,
+                  "exploratorium_panorama_images": [
+                    {
+                      "id": 42,
+                      "image": "uploads\/project_4\/exhibit_39\/uploads\/img\/ektk628n0ncxnwt274v1nk4hzdtw7hjxpcvswd0wcijcr2mhwb.jpg",
+                      "exploratorium_panorama_point_id": 9
+                    }
+                  ]
+                },
+                {
+                  "id": 12,
+                  "nameNL": "Lamsoor",
+                  "nameFR": "Le statice",
+                  "nameEN": "Common sea-lavender",
+                  "nameDE": "Der Gew\u00f6hnliche Strandflieder",
+                  "textNL": "Zoals alle schorrenplanten kan lamsoor goed tegen zout water. Als hij te veel zout opneemt, zweet hij dat gewoon weer uit. Onderaan de blaadjes zie je dan zoutkristalletjes zitten. Lamsoor trekt veel insecten aan.",
+                  "textFR": "Comme toutes les plantes des schorres, le statice est halophile. S\u2019il absorbe trop de sel, il l\u2019\u00e9vacue en \u00ab transpirant \u00bb. De petits cristaux de sel apparaissent alors sous les feuilles. Le statice attire beaucoup d\u2019insectes.",
+                  "textEN": "Just like every other plant that thrives on the salt marshes, common sea-lavender is salt-tolerant. If it absorbs too much salt, it simply sweats it out again. Small salt crystals then form on the underside of its leaves. Common sea-lavender attracts a wide range of insects.",
+                  "textDE": "Genau wie alle Grodenpflanzen ist der Gew\u00f6hnliche Strandflieder salzwasserbest\u00e4ndig. Wenn er zu viel Salz aufnimmt, schwitzt er es einfach wieder aus. Auf der Unterseite der Bl\u00e4tter kann man dann Salzkristalle sehen. Der Gew\u00f6hnliche Strandflieder zieht zahlreiche Insekten an.",
+                  "x": 1720,
+                  "y": 685,
+                  "exploratorium_panorama_zone_id": 3,
+                  "exploratorium_panorama_images": [
+                    {
+                      "id": 20,
+                      "image": "uploads\/project_4\/exhibit_39\/uploads\/img\/5lq8zsqaf3hlp1hqkp03vm8xlg03arttkcnsj2ponessrnt6i0.jpg",
+                      "exploratorium_panorama_point_id": 12
+                    },
+                    {
+                      "id": 40,
+                      "image": "uploads\/project_4\/exhibit_39\/uploads\/img\/momvv7u6y10qd6sezgaeo74rlkwfhkvnmkioql8aqk3cimcnl5.jpg",
+                      "exploratorium_panorama_point_id": 12
+                    },
+                    {
+                      "id": 41,
+                      "image": "uploads\/project_4\/exhibit_39\/uploads\/img\/22znfhfm0e7rfohn3p1rlbok31v9135h2jatvsxlwlyc6yr6z6.jpg",
+                      "exploratorium_panorama_point_id": 12
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "name": "Kreken, geulen en lagunes",
+              "image": "uploads\/project_4\/exhibit_39\/uploads\/img\/eitjzs3wgzerj4rqvye7atp23zj6toya1xspn05aqctb7tkako.png",
+              "textNL": "Het zeewater dat via de grote Zwingeul naar binnen stroomt, vindt via kreken en geulen zijn weg naar de rest van het gebied. In de zoutwaterlagunes staat altijd water, ook bij eb.",
+              "textFR": "L\u2019eau de mer qui s\u2019engouffre par le chenal du Zwin envahit le reste du territoire via des ruisseaux et des canaux. Il y a toujours de l\u2019eau dans les lagunes sal\u00e9es, m\u00eame \u00e0 mar\u00e9e basse.",
+              "textEN": "Seawater that comes in through the Zwin channel finds it way into the numerous small creeks and gullies. The larger salt-water lagoons are always filled with water, even at low tide. ",
+              "textDE": "Das Meereswasser, das \u00fcber den gro\u00dfen Zwinpriel in das Zwin str\u00f6mt, findet \u00fcber Rinnen und kleine Buchten einen Weg in das restliche Gebiet. In den Salzwasserlagunen ist auch bei Ebbe immer Wasser vorhanden.",
+              "exploratorium_panorama_id": 1,
+              "titleNL": "Kreken, geulen en lagunes",
+              "titleFR": "Des ruisseaux, des canaux et des lagunes",
+              "titleEN": "Small creeks and gullies",
+              "titleDE": "Rinnen, Buchten und Lagunen",
+              "exploratorium_wiedoetwat": [],
+              "exploratorium_panorama_points": [
+                {
+                  "id": 10,
+                  "nameNL": "Kreken en geulen",
+                  "nameFR": "Des ruisseaux et canaux",
+                  "nameEN": "The creeks and gullies",
+                  "nameDE": "Buchten und Rinnen",
+                  "textNL": "Wanneer de vloed het Zwin overspoelt, komen er heel wat visjes mee. Een makkelijke prooi voor vogels die ze staan op te wachten bij de kreken en geulen. In het Zwin leven tientallen soorten zeevis. \r\nEen van de meest voorkomende visjes is de brakwatergrondel. Met zijn grijsbruine schutkleur valt hij weinig op, zelfs in ondiepe geulen. In de nazomer zie je vogels als de tureluur, de groenpootruiter en de zwarte ruiter vaak zigzaggend door het water rennen, de grondeltjes achterna.\r\n",
+                  "textFR": "Quand la mar\u00e9e haute inonde le Zwin, elle charrie une grande quantit\u00e9 de petits poissons. Ils constituent une proie facile pour les oiseaux, qui les guettent au bord des ruisseaux et canaux. Le Zwin abrite des dizaines d\u2019esp\u00e8ces de poissons marins. \r\nParmi les plus courants, citons le gobie tachet\u00e9. Avec sa couleur de camouflage gris-brun, il est tr\u00e8s discret, m\u00eame dans les canaux peu profonds. A la fin de l\u2019\u00e9t\u00e9, vous apercevrez souvent des chevaliers gambettes, chevaliers aboyeurs ou chevaliers arlequins courir en zigzaguant dans l\u2019eau, \u00e0 la poursuite des gobies.\r\nA frequent guest is the common goby. With its greyish brown colour it is difficult to see, even in shallow creeks. In late summer, common redshanks, spotted redshanks, common greenshanks and other waders can be seen zigzagging through the water, chasing the gobies.",
+                  "textEN": "At high tide, when seawater enters through the Zwin channel, many fish are swept along with it. They are easy prey for the birds that wait on the shores of the creeks and gullies. About thirty different species of fish can be found in the Zwin. ",
+                  "textDE": "Wenn das Zwin bei Flut \u00fcberflutet wird, werden viele kleine Fische vom Meer mitgef\u00fchrt. Sie sind f\u00fcr die V\u00f6gel, die bei den Buchten und Rinnen auf sie warten, eine einfache Beute. Im Zwin leben dutzende Seefischarten. \r\nEine der am h\u00e4ufigsten vorkommenden Fischarten ist die Strandgrundel. Dank ihrer graubraunen Tarnfarbe ist sie wenig auff\u00e4llig, auch in untiefen Rinnen. Im Sp\u00e4tsommer kann man Vogelarten wie den Rotschenkel, den Gr\u00fcnschenkel und den Dunklen Wasserl\u00e4ufer oft beobachten, w\u00e4hrend sie im Zickzack durch das Wasser laufen, den Strandgrundeln hinterher.\r\n",
+                  "x": 1330,
+                  "y": 586,
+                  "exploratorium_panorama_zone_id": 4,
+                  "exploratorium_panorama_images": [
+                    {
+                      "id": 23,
+                      "image": "uploads\/project_4\/exhibit_39\/uploads\/img\/mzxfi8dz5dj741o2xl6pzrbv76xi0544iljktuhqclvl1j84yv.jpg",
+                      "exploratorium_panorama_point_id": 10
+                    },
+                    {
+                      "id": 24,
+                      "image": "uploads\/project_4\/exhibit_39\/uploads\/img\/c6rkre9oktw3yh4ig014k2hxeoqdo3o7i5wpjc9mzf6oj38z4v.jpg",
+                      "exploratorium_panorama_point_id": 10
+                    }
+                  ]
+                },
+                {
+                  "id": 11,
+                  "nameNL": "Zoutwaterlagunes",
+                  "nameFR": "Lagunes",
+                  "nameEN": "Salt-water lagoons",
+                  "nameDE": "Lagunen",
+                  "textNL": "Het Zwin telt een paar diepe lagunes waarin altijd water staat, ook als het eb is. Een prima foerageerplek voor vogels als de aalscholver en de fuut, die er duiken naar vis.",
+                  "textFR": "Le Zwin poss\u00e8de quelques lagunes profondes toujours remplies d\u2019eau, m\u00eame \u00e0 mar\u00e9e basse. Il s\u2019agit d\u2019endroits r\u00eav\u00e9s pour fourrager pour le cormoran ou le gr\u00e8be hupp\u00e9, qui y plongent pour p\u00eacher.",
+                  "textEN": "The Zwin has a few deep salt-water lagoons that never run dry, not even at low tide. They are excellent fishing areas for divers such as the great cormorant and the crested grebe. ",
+                  "textDE": "Im Zwin gibt es einige tiefe Lagunen, in denen immer, auch bei Ebbe, Wasser anwesend ist. Der perfekte Ort f\u00fcr Vogelarten, wie den Kormoran und den Haubentaucher, die w\u00e4hrend der Nahrungssuche dort nach Fisch tauchen.",
+                  "x": 1648,
+                  "y": 469,
+                  "exploratorium_panorama_zone_id": 4,
+                  "exploratorium_panorama_images": [
+                    {
+                      "id": 25,
+                      "image": "uploads\/project_4\/exhibit_39\/uploads\/img\/6dkoyuz8eijiwtf8aeco3vgwzid5yxsu9kgyg2dvcldqizdesh.jpg",
+                      "exploratorium_panorama_point_id": 11
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "exploratorium_panorama_translations": [],
+          "exploratorium_panorama_settings": []
+        }
+      ]
+    }
+  ],
+  "project_id": 4,
+  "exhibit_id": 39,
+  "birds": [
+    {
+      "id": 1,
+      "nameNL": "Bergeend",
+      "nameFR": "Tadorne de Belon",
+      "nameEN": "Common shelduck",
+      "nameDE": "Brandgans",
+      "textNL": "Bergeenden zijn halfganzen: ze houden het midden tussen een eend en een gans. Je ziet ze meestal in paartjes.",
+      "textFR": "",
+      "textEN": "",
+      "textDE": "",
+      "video": "uploads\/project_4\/exhibit_42\/uploads\/videos\/nbsyto6czprc8yje0c0a82q02j8q2r22g0y5xxp3oj8l6b521i.webm",
+      "image": "uploads\/project_4\/exhibit_42\/uploads\/img\/053ppgyuydet079rssi04gtp75il300ftj9crfad061w0wizfv.jpg",
+      "name_science": "Tadorna tadorna",
+      "weight_maleNL": "830-1500 gram",
+      "weight_maleEN": "830-1500 g",
+      "weight_maleFR": "830-1500 grammes",
+      "weight_maleDE": "830-1500 Gramm ",
+      "weight_femaleNL": "560-1250 gramm",
+      "weight_femaleEN": "560-1250 g ",
+      "weight_femaleFR": "560-1250 grammes",
+      "weight_femaleDE": "560-1250 Gramm",
+      "lengthNL": "58-67 centimeter",
+      "lengthFR": "58-67 centim\u00e8tres",
+      "lengthEN": "58-67 cm",
+      "lengthDE": "58-67 Zentimeter",
+      "spanNL": "100-120 centimeter",
+      "spanFR": "100-120 centim\u00e8tres",
+      "spanEN": "100-120 cm",
+      "spanDE": "100-120 Zentimeter",
+      "location": "",
+      "xStart": 1362,
+      "xEnd": 1451,
+      "yStart": 945,
+      "yEnd": 903,
+      "world_image": "uploads\/project_4\/exhibit_42\/uploads\/img\/ynsh8o30ii8763238x2d3wjvzzpysao5yqyuswbpbtlkkplwnf.png",
+      "status": "jagen, bezitten, vervoeren en verhandelen van wilde bergeenden in Belgi\u00eb verboden",
+      "text_aanwezigNL": "De bergeend is in het Zwin. Ontdek hoe je hem herkent en welke andere vogels je momenteel kan zien. ",
+      "text_aanwezigFR": "FR Hoera, de zomertortel is in het Zwin! Ontdek hem samen met de andere aanwezige vogels.",
+      "text_aanwezigEN": "EN Hoera, de zomertortel is in het Zwin! Ontdek hem samen met de andere aanwezige vogels.",
+      "text_aanwezigDE": "DE Hoera, de zomertortel is in het Zwin! Ontdek hem samen met de andere aanwezige vogels.",
+      "text_afwezigNL": "De bergeend is momenteel niet in het Zwin. Ontdek welke vogels er w\u00e9l zijn en hoe je ze herkent. ",
+      "text_afwezigFR": "FR De zomertortel is niet in het Zwin. Ontdek welke vogels er wel zijn.",
+      "text_afwezigEN": "EN De zomertortel is niet in het Zwin. Ontdek welke vogels er wel zijn.",
+      "text_afwezigDE": "DE De zomertortel is niet in het Zwin. Ontdek welke vogels er wel zijn.",
+      "bird_category": 1
+    },
+    {
+      "id": 2,
+      "nameNL": "Lepelaar",
+      "nameFR": "Spatule blanche",
+      "nameEN": "Eurasian spoonbill",
+      "nameDE": "L\u00f6ffler",
+      "textNL": "Heen en weer, heen en weer. De lepelaar lepelt zijn kostje bijeen door zijn snavel van links naar rechts door het water te bewegen.",
+      "textFR": "",
+      "textEN": "",
+      "textDE": "",
+      "video": "uploads\/project_4\/exhibit_42\/uploads\/videos\/ytpf0ewf44gbzg9akgrxwcn5xzdd9cxrszwrx9qx8tj95w5cxh.webm",
+      "image": "uploads\/project_4\/exhibit_42\/uploads\/videos\/m9hg8bxo0tfqfm9n53pf0o87lienbyghr7r1haaigm1doljr1c.png",
+      "name_science": "Platalea leucorodia",
+      "weight_maleNL": "1130-1960 gram",
+      "weight_maleEN": "1130-1960 g ",
+      "weight_maleFR": "1130-1960 grammes ",
+      "weight_maleDE": "1130-1960 Gramm ",
+      "weight_femaleNL": "",
+      "weight_femaleEN": "",
+      "weight_femaleFR": "",
+      "weight_femaleDE": "",
+      "lengthNL": "70-95 centimeterr",
+      "lengthFR": "70-95 centim\u00e8tres",
+      "lengthEN": "70-95 cm",
+      "lengthDE": "70-95 Zentimeter",
+      "spanNL": "120-135 centimeter",
+      "spanFR": "120-135 centim\u00e8tres",
+      "spanEN": "120-135 cm",
+      "spanDE": "120-135 Zentimeter",
+      "location": "",
+      "xStart": 1362,
+      "xEnd": 844,
+      "yStart": 945,
+      "yEnd": 1696,
+      "world_image": "uploads\/project_4\/exhibit_42\/uploads\/img\/ynsh8o30ii8763238x2d3wjvzzpysao5yqyuswbpbtlkkplwnf.png",
+      "status": "jagen, bezitten, vervoeren en verhandelen in Belgi\u00eb verboden",
+      "text_aanwezigNL": "De lepelaar is in het Zwin. Ontdek hoe je hem herkent en welke andere vogels je momenteel kan zien. ",
+      "text_aanwezigFR": null,
+      "text_aanwezigEN": null,
+      "text_aanwezigDE": null,
+      "text_afwezigNL": "De lepelaar is momenteel niet in het Zwin. Ontdek welke vogels er w\u00e9l zijn en hoe je ze herkent. ",
+      "text_afwezigFR": null,
+      "text_afwezigEN": null,
+      "text_afwezigDE": null,
+      "bird_category": 1
+    },
+    {
+      "id": 3,
+      "nameNL": "Kolgans",
+      "nameFR": "Oie rieuse",
+      "nameEN": "Greater white-fronted goose",
+      "nameDE": "Bl\u00e4ssgans",
+      "textNL": "Kolganzen eten vooral gras en foerageren in groepen. Vaak in het gezelschap van andere ganzen, zoals de grauwe gans.",
+      "textFR": "",
+      "textEN": "",
+      "textDE": "",
+      "video": "uploads\/project_4\/exhibit_42\/uploads\/videos\/xidi1n3282n1f92ozjhmqcaad7qrkajkgkvsk7slig94lhm7n7.webm",
+      "image": "uploads\/project_4\/exhibit_42\/uploads\/img\/pgxjbvfw77hv2owuy8azkt00axkr2ifc4etetp9t01jqtvnnev.png",
+      "name_science": "Anser albifrons",
+      "weight_maleNL": "2050-3600 gram",
+      "weight_maleEN": "2050-3600 g",
+      "weight_maleFR": "2050-3600 grammes",
+      "weight_maleDE": "2050-3600 Gramm ",
+      "weight_femaleNL": "1800-2900 gram ",
+      "weight_femaleEN": "1800-2900 g ",
+      "weight_femaleFR": "1800-2900 grammes ",
+      "weight_femaleDE": "1800-2900 Gramm ",
+      "lengthNL": "65-86 centimeter",
+      "lengthFR": "65-86 centim\u00e8tres",
+      "lengthEN": "65-86 cm",
+      "lengthDE": "65-86 Zentimeter",
+      "spanNL": "130-160 cm",
+      "spanFR": "130-160 centim\u00e8tres",
+      "spanEN": "130-160 cm",
+      "spanDE": "130-160 Zentimeter",
+      "location": "",
+      "xStart": 1396,
+      "xEnd": 1784,
+      "yStart": 983,
+      "yEnd": 574,
+      "world_image": "uploads\/project_4\/exhibit_42\/uploads\/img\/znsh8o30ii8763238x2d3wjvzzpysao5yqyuswbpbtlkkplwnf.png",
+      "status": "bezit, vervoer en handel in Belgi\u00eb toegestaan onder voorwaarden.",
+      "text_aanwezigNL": "De kolgans is in het Zwin. Ontdek hoe je hem herkent en welke andere vogels je momenteel kan zien. ",
+      "text_aanwezigFR": null,
+      "text_aanwezigEN": null,
+      "text_aanwezigDE": null,
+      "text_afwezigNL": "De kolgans is momenteel niet in het Zwin. Ontdek welke vogels er w\u00e9l zijn en hoe je ze herkent. ",
+      "text_afwezigFR": null,
+      "text_afwezigEN": null,
+      "text_afwezigDE": null,
+      "bird_category": 1
+    },
+    {
+      "id": 4,
+      "nameNL": "Roodborstje",
+      "nameFR": "Rouge-gorge familier",
+      "nameEN": "European robin",
+      "nameDE": "Rotkehlchen",
+      "textNL": "test",
+      "textFR": "",
+      "textEN": "",
+      "textDE": "",
+      "video": "uploads\/project_4\/exhibit_42\/uploads\/videos\/556rctoln17zjfc6mjes577sxed415st5hqvz2s05r2gmk5prr.webm",
+      "image": "uploads\/project_4\/exhibit_42\/uploads\/img\/v9qy8skaihldab29mebrq9k16afnvh5zgq1vtnayai6sdvm6md.jpg",
+      "name_science": "Erithacus rubecula",
+      "weight_maleNL": "14-25 gram ",
+      "weight_maleEN": "14-25 g ",
+      "weight_maleFR": "14-25 grammes ",
+      "weight_maleDE": "14-25 Gramm ",
+      "weight_femaleNL": "",
+      "weight_femaleEN": "",
+      "weight_femaleFR": "",
+      "weight_femaleDE": "",
+      "lengthNL": "14 centimeter",
+      "lengthFR": "14 centim\u00e8tres",
+      "lengthEN": "14 cm",
+      "lengthDE": "14 Zentimeter",
+      "spanNL": "21 centimeter",
+      "spanFR": "21 centim\u00e8tres",
+      "spanEN": "21 cm",
+      "spanDE": "21 Zentimeter",
+      "location": "",
+      "xStart": 1358,
+      "xEnd": 1253,
+      "yStart": 945,
+      "yEnd": 1253,
+      "world_image": "uploads\/project_4\/exhibit_42\/uploads\/img\/ynsh8o30ii8763238x2d3wjvzzpysao5yqyuswbpbtlkkplwnf.png",
+      "status": "jagen, bezitten, vervoeren en verhandelen in Belgi\u00eb verboden",
+      "text_aanwezigNL": "Het roodborstje is in het Zwin. Ontdek hoe je hem herkent en welke andere vogels je momenteel kan zien. ",
+      "text_aanwezigFR": null,
+      "text_aanwezigEN": null,
+      "text_aanwezigDE": null,
+      "text_afwezigNL": "Het roodborstje is momenteel niet in het Zwin. Ontdek welke vogels er w\u00e9l zijn en hoe je ze herkent. ",
+      "text_afwezigFR": null,
+      "text_afwezigEN": null,
+      "text_afwezigDE": null,
+      "bird_category": 1
+    },
+    {
+      "id": 5,
+      "nameNL": "Rosse grutto",
+      "nameFR": "Barge rousse",
+      "nameEN": "Bar-tailed godwit",
+      "nameDE": "Pfuhlschnepfe",
+      "textNL": "test",
+      "textFR": "",
+      "textEN": "",
+      "textDE": "",
+      "video": "uploads\/project_4\/exhibit_42\/uploads\/videos\/k5cgvymqmmy8y2vc4c2x8eeqj6mc850v2fzfdgruzm1bzdehk6.webm",
+      "image": "uploads\/project_4\/exhibit_42\/uploads\/img\/pqh4l9szj9z220a7f1yu05kero66f2clcj2eiyr5y54541e24z.jpg",
+      "name_science": "Limosa lapponica",
+      "weight_maleNL": "190-400 gram ",
+      "weight_maleEN": "190-400 g",
+      "weight_maleFR": "190-400 grammes ",
+      "weight_maleDE": "190-400 Gramm ",
+      "weight_femaleNL": "260-630 gram ",
+      "weight_femaleEN": "260-630 g ",
+      "weight_femaleFR": "260-630 grammes ",
+      "weight_femaleDE": "260-630 Gramm",
+      "lengthNL": "37-41 centimeter",
+      "lengthFR": "37-41 centim\u00e8tres",
+      "lengthEN": "37-41 cm",
+      "lengthDE": "37-41 Zentimeter",
+      "spanNL": "62-72 centimeter",
+      "spanFR": "62-72 centim\u00e8tres",
+      "spanEN": "62-72 cm",
+      "spanDE": "62-72 Zentimeter",
+      "location": "",
+      "xStart": 0,
+      "xEnd": 0,
+      "yStart": 0,
+      "yEnd": 0,
+      "world_image": "uploads\/project_4\/exhibit_42\/uploads\/img\/znsh8o30ii8763238x2d3wjvzzpysao5yqyuswbpbtlkkplwnf.png",
+      "status": "jagen, bezitten, vervoeren en verhandelen in Belgi\u00eb verboden",
+      "text_aanwezigNL": "De rosse grutto is in het Zwin. Ontdek hoe je hem herkent en welke andere vogels je momenteel kan zien. ",
+      "text_aanwezigFR": null,
+      "text_aanwezigEN": null,
+      "text_aanwezigDE": null,
+      "text_afwezigNL": "De rosse grutto is momenteel niet in het Zwin. Ontdek welke vogels er w\u00e9l zijn en hoe je ze herkent. ",
+      "text_afwezigFR": null,
+      "text_afwezigEN": null,
+      "text_afwezigDE": null,
+      "bird_category": 1
+    },
+    {
+      "id": 6,
+      "nameNL": "Ooievaar",
+      "nameFR": "Cigogne blanche",
+      "nameEN": "White stork",
+      "nameDE": "Wei\u00dfstorch",
+      "textNL": "ooievaar tejst",
+      "textFR": "",
+      "textEN": "",
+      "textDE": "",
+      "video": "uploads\/project_4\/exhibit_42\/uploads\/videos\/4ivh0xji0cp5yk6br29sqmpnu8k59nbjscsz8r1ytapdxq9p0p.webm",
+      "image": "uploads\/project_4\/exhibit_42\/uploads\/img\/aq1fc661v4z0gh89gese7dmqvwty7j70nnf03mnpoq4elme5h3.png",
+      "name_science": "Ciconia ciconia",
+      "weight_maleNL": "2,5 tot 4,5 kilogram",
+      "weight_maleEN": "2,5-4,5 kg",
+      "weight_maleFR": "2,5 \u00e0 4,5 kilogrammes",
+      "weight_maleDE": "2,5 bis 4,5 Kilogramm",
+      "weight_femaleNL": "",
+      "weight_femaleEN": "",
+      "weight_femaleFR": "",
+      "weight_femaleDE": "",
+      "lengthNL": "100-102 centimeter",
+      "lengthFR": "100-102 centim\u00e8tres",
+      "lengthEN": "100-102 cm",
+      "lengthDE": "100-102 Zentimeter",
+      "spanNL": "180-218 centimeter",
+      "spanFR": "180-218 centim\u00e8tres",
+      "spanEN": "180-218 cm",
+      "spanDE": "180-218 Zentimeter",
+      "location": "",
+      "xStart": 1358,
+      "xEnd": 1168,
+      "yStart": 945,
+      "yEnd": 1869,
+      "world_image": "uploads\/project_4\/exhibit_42\/uploads\/img\/ynsh8o30ii8763238x2d3wjvzzpysao5yqyuswbpbtlkkplwnf.png",
+      "status": "jagen, bezitten, vervoeren en verhandelen in Belgi\u00eb verboden",
+      "text_aanwezigNL": "De ooievaar is in het Zwin. Ontdek hoe je hem herkent en welke andere vogels je momenteel kan zien. ",
+      "text_aanwezigFR": null,
+      "text_aanwezigEN": null,
+      "text_aanwezigDE": null,
+      "text_afwezigNL": "De ooievaar is momenteel niet in het Zwin. Ontdek welke vogels er w\u00e9l zijn en hoe je ze herkent. ",
+      "text_afwezigFR": null,
+      "text_afwezigEN": null,
+      "text_afwezigDE": null,
+      "bird_category": 1
+    },
+    {
+      "id": 7,
+      "nameNL": "Boerenzwaluw",
+      "nameFR": "Hirondelle rustique",
+      "nameEN": "Barn swallow",
+      "nameDE": "Rauchschwalbe",
+      "textNL": "test",
+      "textFR": "",
+      "textEN": "",
+      "textDE": "",
+      "video": "uploads\/project_4\/exhibit_42\/uploads\/videos\/fdr398yzpx1ff1mv9r2dew2fosmbmg10ywis535v7hdecw0qlz.webm",
+      "image": "uploads\/project_4\/exhibit_29\/uploads\/img\/7n4i13itrw3ytey4lt610mvotygcx2ilek9hnxqst1myke7gnl.jpg",
+      "name_science": "Hirundo rustica",
+      "weight_maleNL": "16-24 gram",
+      "weight_maleEN": "16-24 g",
+      "weight_maleFR": "16-24 grammes ",
+      "weight_maleDE": "16-24 Gramm ",
+      "weight_femaleNL": "",
+      "weight_femaleEN": "",
+      "weight_femaleFR": "",
+      "weight_femaleDE": "",
+      "lengthNL": "17-21 centimeter",
+      "lengthFR": "17-21 centim\u00e8tres",
+      "lengthEN": "17-21 cm",
+      "lengthDE": "17-21 Zentimeter",
+      "spanNL": "34 centimeter",
+      "spanFR": "34 centim\u00e8tres",
+      "spanEN": "34 cm",
+      "spanDE": "34 Zentimeter",
+      "location": "",
+      "xStart": 1392,
+      "xEnd": 1611,
+      "yStart": 987,
+      "yEnd": 2105,
+      "world_image": "uploads\/project_4\/exhibit_42\/uploads\/img\/znsh8o30ii8763238x2d3wjvzzpysao5yqyuswbpbtlkkplwnf.png",
+      "status": "jagen, bezitten, vervoeren en verhandelen in Belgi\u00eb verboden",
+      "text_aanwezigNL": "De boerenzwaluw is in het Zwin. Ontdek hoe je hem herkent en welke andere vogels je momenteel kan zien. \r\n",
+      "text_aanwezigFR": "",
+      "text_aanwezigEN": null,
+      "text_aanwezigDE": null,
+      "text_afwezigNL": "De boerenzwaluw is momenteel niet in het Zwin. Ontdek welke vogels er w\u00e9l zijn en hoe je ze herkent. ",
+      "text_afwezigFR": "",
+      "text_afwezigEN": null,
+      "text_afwezigDE": null,
+      "bird_category": 1
+    },
+    {
+      "id": 8,
+      "nameNL": "Zomertortel",
+      "nameFR": "Tourterelle des bois",
+      "nameEN": "European turtle dove",
+      "nameDE": "Turteltaube",
+      "textNL": "test",
+      "textFR": "",
+      "textEN": "",
+      "textDE": "",
+      "video": "uploads\/project_4\/exhibit_42\/uploads\/videos\/2r25ejll66rqb9srb1z3ctmacwy4jjep1vbfnmsv5lsemtzn6f.webm",
+      "image": "uploads\/project_4\/exhibit_29\/uploads\/img\/whdy94gg8pome8wx2tnyjw2imxq5vifvtq5sylzrxlh3amjhju.tiff",
+      "name_science": "Streptopelia turtur",
+      "weight_maleNL": "99-1700 gram ",
+      "weight_maleEN": "99-170 g ",
+      "weight_maleFR": "99-170 grammes ",
+      "weight_maleDE": "99-170 Gramm ",
+      "weight_femaleNL": "",
+      "weight_femaleEN": "",
+      "weight_femaleFR": "",
+      "weight_femaleDE": "",
+      "lengthNL": "27-29 centimeter (iets kleiner dan andere duivensoorten)",
+      "lengthFR": "27-29 centim\u00e8tres",
+      "lengthEN": "27-29 cm",
+      "lengthDE": "27-29 Zentimeter",
+      "spanNL": "49-55 centimeter",
+      "spanFR": "49-55 centim\u00e8tres",
+      "spanEN": "49-55 cm",
+      "spanDE": "49-55 Zentimeter",
+      "location": "",
+      "xStart": 1362,
+      "xEnd": 1118,
+      "yStart": 941,
+      "yEnd": 1730,
+      "world_image": "uploads\/project_4\/exhibit_42\/uploads\/img\/ynsh8o30ii8763238x2d3wjvzzpysao5yqyuswbpbtlkkplwnf.png",
+      "status": "jagen, bezitten, vervoeren en verhandelen in Belgi\u00eb verboden",
+      "text_aanwezigNL": "De zomertortel is in het Zwin. Ontdek hoe je hem herkent en welke andere vogels je momenteel kan zien. ",
+      "text_aanwezigFR": null,
+      "text_aanwezigEN": null,
+      "text_aanwezigDE": null,
+      "text_afwezigNL": "De zomertortel is momenteel niet in het Zwin. Ontdek welke vogels er w\u00e9l zijn en hoe je ze herkent. ",
+      "text_afwezigFR": null,
+      "text_afwezigEN": null,
+      "text_afwezigDE": null,
+      "bird_category": 1
+    },
+    {
+      "id": 9,
+      "nameNL": "Kluut",
+      "nameFR": "Avocette \u00e9l\u00e9gante",
+      "nameEN": "Pied avocet",
+      "nameDE": "S\u00e4belschn\u00e4bler",
+      "textNL": "test",
+      "textFR": "",
+      "textEN": "",
+      "textDE": "",
+      "video": "uploads\/project_4\/exhibit_42\/uploads\/videos\/zk7wbo5h77aa9ghnrdstqvrjd5pj1e8rcddzignjdzrhpwm1oq.webm",
+      "image": "uploads\/project_4\/exhibit_29\/uploads\/img\/u7elto8hlbzu9c0cpwonragnh6botknyailez7617navq53r20.jpg",
+      "name_science": "Recurvirostra avocetta",
+      "weight_maleNL": "225-400 gram ",
+      "weight_maleEN": "225-400 g ",
+      "weight_maleFR": "225-400 grammes ",
+      "weight_maleDE": "225-400 Gramm ",
+      "weight_femaleNL": "",
+      "weight_femaleEN": "",
+      "weight_femaleFR": "",
+      "weight_femaleDE": "",
+      "lengthNL": "42-45 centimeter",
+      "lengthFR": "42-45 centim\u00e8tres",
+      "lengthEN": "42-45 cm",
+      "lengthDE": "42-45 Zentimeter",
+      "spanNL": "67-77 centimeter",
+      "spanFR": "67-77 centim\u00e8tres",
+      "spanEN": "67-77 cm",
+      "spanDE": "67-77 Zentimeter",
+      "location": "",
+      "xStart": 1358,
+      "xEnd": 839,
+      "yStart": 937,
+      "yEnd": 1696,
+      "world_image": "uploads\/project_4\/exhibit_42\/uploads\/img\/ynsh8o30ii8763238x2d3wjvzzpysao5yqyuswbpbtlkkplwnf.png",
+      "status": "jagen, bezitten, vervoeren en verhandelen in Belgi\u00eb verboden",
+      "text_aanwezigNL": "De kluut is in het Zwin. Ontdek hoe je hem herkent en welke andere vogels je momenteel kan zien. ",
+      "text_aanwezigFR": null,
+      "text_aanwezigEN": null,
+      "text_aanwezigDE": null,
+      "text_afwezigNL": "De kluut is momenteel niet in het Zwin. Ontdek welke vogels er w\u00e9l zijn en hoe je ze herkent. ",
+      "text_afwezigFR": null,
+      "text_afwezigEN": null,
+      "text_afwezigDE": null,
+      "bird_category": 1
+    },
+    {
+      "id": 10,
+      "nameNL": "Visdief",
+      "nameFR": "Sterne pierregarin",
+      "nameEN": "Common tern",
+      "nameDE": "Fluss-Seeschwalbe",
+      "textNL": "test",
+      "textFR": "",
+      "textEN": "",
+      "textDE": "",
+      "video": "uploads\/project_4\/exhibit_42\/uploads\/videos\/oi1klplapqnte0ik0q7shq7ek9i6rselnx8lh6ov3pfe6hayim.webm",
+      "image": "uploads\/project_4\/exhibit_29\/uploads\/img\/x3jqinpwlcod6h6ylwgt1s1nyw2mf7an7jq9b9jh9ydyfhcfla.png",
+      "name_science": "Sterna hirundo ",
+      "weight_maleNL": "97-146 gram ",
+      "weight_maleEN": "97-146 g",
+      "weight_maleFR": "97-146 grammes ",
+      "weight_maleDE": "97-146 Gramm ",
+      "weight_femaleNL": "",
+      "weight_femaleEN": "",
+      "weight_femaleFR": "",
+      "weight_femaleDE": "",
+      "lengthNL": "32-39 centimeter",
+      "lengthFR": "32-39 centim\u00e8tres",
+      "lengthEN": "32-39 cm",
+      "lengthDE": "32-39 Zentimeter",
+      "spanNL": "70-80 centimeter",
+      "spanFR": "70-80 centim\u00e8tres",
+      "spanEN": "70-80 cm",
+      "spanDE": "70-80 Zentimeter",
+      "location": "",
+      "xStart": 1362,
+      "xEnd": 1299,
+      "yStart": 941,
+      "yEnd": 1949,
+      "world_image": "uploads\/project_4\/exhibit_42\/uploads\/img\/ynsh8o30ii8763238x2d3wjvzzpysao5yqyuswbpbtlkkplwnf.png",
+      "status": "jagen, bezitten, vervoeren en verhandelen in Belgi\u00eb verboden",
+      "text_aanwezigNL": "De visdief is in het Zwin. Ontdek hoe je hem herkent en welke andere vogels je momenteel kan zien. \r\n",
+      "text_aanwezigFR": null,
+      "text_aanwezigEN": null,
+      "text_aanwezigDE": null,
+      "text_afwezigNL": "De visdief is momenteel niet in het Zwin. Ontdek welke vogels er w\u00e9l zijn en hoe je ze herkent. ",
+      "text_afwezigFR": null,
+      "text_afwezigEN": null,
+      "text_afwezigDE": null,
+      "bird_category": 1
+    }
+  ],
+  "apptranslations": [
+    {
+      "identifier": "frappant",
+      "valueNL": "Fenomenaal!",
+      "valueFR": "Incroyable!",
+      "valueEN": "Amazing!",
+      "valueDE": "Fabelhaft!"
+    },
+    {
+      "identifier": "general_benjedaarnog",
+      "valueNL": "H\u00e9, [NAME] ben je daar nog?",
+      "valueFR": "[NAME], toujours l\u00e0 ?",
+      "valueEN": "[NAME] are you still there?",
+      "valueDE": "Hallo [NAME] sind Sie noch da?  "
+    },
+    {
+      "identifier": "general_close",
+      "valueNL": "Sluiten",
+      "valueFR": "FR Sluiten",
+      "valueEN": "EN Close",
+      "valueDE": "DE Close"
+    },
+    {
+      "identifier": "general_congrats",
+      "valueNL": "Super\r\n!",
+      "valueFR": "Excellent \r\n!",
+      "valueEN": "Fantastic\r\n!",
+      "valueDE": "Super\r\n!"
+    },
+    {
+      "identifier": "general_invalid_ticket",
+      "valueNL": "Sorry, er is iets mis met je paspoort.\r\nGa even terug naar de balie.",
+      "valueFR": "D\u00e9sol\u00e9, il y a un probl\u00e8me \r\navec votre passeport. \r\nRetournez au guichet.",
+      "valueEN": "Sorry, there seems to be \r\nsomething wrong with your passport. \r\nPlease return to the ticket desk.",
+      "valueDE": "Entschuldigung, aber es gibt \r\neinen Problem mit Ihrem Pass. \r\nBitte kehren Sie kurz zum Empfang zur\u00fcck."
+    },
+    {
+      "identifier": "general_no",
+      "valueNL": "Nee",
+      "valueFR": "Non",
+      "valueEN": "No",
+      "valueDE": "nein"
+    },
+    {
+      "identifier": "general_scan_again",
+      "valueNL": "Scan je paspoort opnieuw \r\nom door te gaan.",
+      "valueFR": "Scannez de nouveau votre passeport \r\npour revoir le film.",
+      "valueEN": "Scan your passport once more \r\nto restart the film. ",
+      "valueDE": "Scannen Sie Ihren Pass erneut, \r\num den Film nochmals zu sehen."
+    },
+    {
+      "identifier": "general_too_late",
+      "valueNL": "Oeps, te laat!\r\nWil je het opnieuw proberen?",
+      "valueFR": "Oups, trop tard ! \r\nSouhaitez-vous r\u00e9essayer ?",
+      "valueEN": "Oops, too late! \r\nTry again? ",
+      "valueDE": "Schade, zu sp\u00e4t! \r\nM\u00f6chten Sie es nochmals versuchen?"
+    },
+    {
+      "identifier": "general_wait_turn",
+      "valueNL": "Sorry, het is druk.\r\nWe kunnen elke bezoeker maar \r\n\u00e9\u00e9n keer aan de beurt laten.",
+      "valueFR": "D\u00e9sol\u00e9,  il y a beaucoup de visiteurs. \r\nIl ne peut y avoir qu\u2019un seul visiteur \u00e0 la fois.",
+      "valueEN": "Sorry, it's very busy at the moment. \r\nEach visitor is allowed one turn only.",
+      "valueDE": "Entschuldigung, es gibt viele Besucher. \r\nDeshalb kann jeder Besucher leider \r\nnur einmal an der Reihe kommen."
+    },
+    {
+      "identifier": "general_yes",
+      "valueNL": "Ja",
+      "valueFR": "Oui",
+      "valueEN": "Yes",
+      "valueDE": "Ja"
+    },
+    {
+      "identifier": "general_zekerstoppen",
+      "valueNL": "Weet je zeker dat\r\nje wil stoppen?",
+      "valueFR": "\u00cates-vous certain(e) \r\nde vouloir arr\u00eater ?",
+      "valueEN": "Are you sure \r\nyou want to stop?",
+      "valueDE": "Sind Sie sicher, \r\ndass Sie aufh\u00f6ren m\u00f6chten?"
+    },
+    {
+      "identifier": "id_kaart",
+      "valueNL": "ID",
+      "valueFR": "Carte ID",
+      "valueEN": "ID",
+      "valueDE": "ID-Karte"
+    },
+    {
+      "identifier": "label_start",
+      "valueNL": "Start",
+      "valueFR": "Start",
+      "valueEN": "EN Start",
+      "valueDE": "Anfangen"
+    },
+    {
+      "identifier": "label_stop",
+      "valueNL": "Stop",
+      "valueFR": "Stop",
+      "valueEN": "EN Stop",
+      "valueDE": "Aufh\u00f6ren"
+    },
+    {
+      "identifier": "menu_welcome",
+      "valueNL": "Welkom",
+      "valueFR": "Bienvenue",
+      "valueEN": "Welcome",
+      "valueDE": "Willkommen"
+    },
+    {
+      "identifier": "screensaver_scan",
+      "valueNL": "scan je paspoort",
+      "valueFR": "balayez votre passeport",
+      "valueEN": "scan your passport",
+      "valueDE": "scannen sie ihren pass"
+    },
+    {
+      "identifier": "teen_score_one",
+      "valueNL": "Duidelijk een kenner!",
+      "valueFR": "Tu es un expert !",
+      "valueEN": "Obviously an expert!",
+      "valueDE": "Ein gro\u00dfer Kenner!"
+    },
+    {
+      "identifier": "teen_score_three",
+      "valueNL": "Volgende keer beter!",
+      "valueFR": "Tu feras mieux la prochaine fois. ",
+      "valueEN": "Better luck next time.",
+      "valueDE": "Mehr Gl\u00fcck das n\u00e4chste Mal."
+    },
+    {
+      "identifier": "teen_score_two",
+      "valueNL": "Dikke pluim!",
+      "valueFR": "Bravo !",
+      "valueEN": "Well done!",
+      "valueDE": "Super gemacht!"
+    }
+  ],
+  "modified": "2016-05-18T11:39:32+0000"
+}

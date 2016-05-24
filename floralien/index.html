@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="app">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" href="dist/css/style.css">
+</head>
+<body>
+
+<div class="animation {{ page }}" ng-view></div>
+
+<script src="./dist/js/jquery-2.2.0.min.js"></script>
+<script src="./dist/js/interact.js"></script>
+<script src="./dist/js/angular.min.js"></script>
+<script src="./dist/js/angular-route.js"></script>
+<script src="./dist/js/angular-animate.min.js"></script>
+<script src="./dist/js/app.min.js"></script>
+
+<script type="text/javascript">
+    <!--//--><![CDATA[//><!--
+    var images = new Array();
+    function preload() {
+        for (i = 0; i < preload.arguments.length; i++) {
+            images[i] = new Image();
+            images[i].src = preload.arguments[i]
+        }
+    }
+    preload(
+            "./dist/images/clock.png",
+            "./dist/images/blackSlider.png",
+            "./dist/images/coloredSlider.png",
+            "./dist/images/thumb.png",
+            "./dist/images/rain.png",
+            "./dist/images/temperature.png",
+            "./dist/images/sunlight.png",
+            "./dist/images/CO2.png",
+            "./dist/images/blackSlider.png",
+            "./dist/images/coloredSlider.png",
+            "./dist/images/clockDark.png",
+            "./dist/images/blurry1.png",
+            "./dist/images/rainDark.png",
+            "./dist/images/blurry2.png",
+            "./dist/images/tempDark.png",
+            "./dist/images/blurry3.png",
+            "./dist/images/CO2Dark.png",
+            "./dist/images/blurry5.png",
+            "./dist/images/plant_02.jpg",
+            "./dist/images/ondergrond.png",
+            "./dist/images/blurry6.png",
+            "./dist/images/blurry7.png",
+            "./dist/images/blurry8.png",
+            "./dist/images/blurry9.png",
+            "./dist/images/blurry10.png",
+            "./dist/images/blurry11.png",
+            "./dist/images/blurry12.png",
+            "./dist/images/blurry13.png",
+            "./dist/images/blurry14.png",
+            "./dist/images/blurry15.png",
+            "./dist/images/loadingFg.png",
+            "./dist/images/plant_05.jpg",
+            "./dist/images/plant_00.jpg",
+            "./dist/images/plant_01.jpg",
+            "./dist/images/plant_03.jpg",
+            "./dist/images/plant_04.jpg"
+    );
+    //--><!]]>
+</script>
+
+</body>
+</html>

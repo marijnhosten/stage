@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OCULAR - ZWIN</title>
+    <!-- links -->
+    <link rel="stylesheet" type="text/css" href="css/reset.css"/>
+    <link rel="stylesheet" type="text/css" href="css/theme.css"/>
+    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="assets/fonts/stylesheet.css"/>
+    <!-- end links -->
+</head>
+<body>
+
+<!-- GENERAL -->
+<div class="screensaver page">
+    <div class="svCircle">
+        <div class="svTitle"><span></span></div>
+        <div class="svScan">
+            <p></p>
+            <img src="./assets/img/badge.png" alt="Scan je badge">
+        </div>
+
+        <div class="svNewTitle right"><span></span></div>
+        <div class="svNewScan">
+            <p class="right"></p>
+        </div>
+    </div>
+</div>
+
+<div class="menu hidden">
+    <div class="userName"><span>WELKOM</span> NAAM</div>
+    <div class="title"></div>
+    <div class="stopButtonWrapper pressable stop">
+        <div class="button"></div>
+        <div class="text">STOP</div>
+    </div>
+    <div class="backButtonWrapper hidden pressable stop">
+        <div class="button"></div>
+        <div class="text">STOP</div>
+    </div>
+</div>
+
+<div class="alertScreen page hidden"> <!-- bvb TimeOut - inactiviteit / Laat iemand tussen / ander -->
+    <div class="text">
+        <div class="alertTextContainer">
+            <span class="callOut"></span>
+            <span class="name"></span>
+            <span class="msg"></span>
+        </div>
+
+    </div>
+    <div class="buttonWrapper">
+        <div class="button pressable"><p>JA</p></div>
+    </div>
+
+    <div class="alertTimer">
+        <div></div>
+    </div>
+    <div class="time hidden">
+        <p class="num"></p>
+        <p class="unit"></p>
+    </div>
+</div>
+
+<div class="stopScreen page hidden">
+    <div class="text"></div>
+    <div class="buttonWrapper">
+        <div id="confirm" class="button pressable"><p></p></div>
+        <div id="cancel" class="button buttonTwo pressable"><p></p></div>
+    </div>
+</div>
+<!-- END GENERAL -->
+<div class="subjectScreen page hidden">
+
+    <div class="menuWrapper">
+        <div class="menuOption" id="subject0">
+            <div class="image"></div>
+            <div class="content">
+                <div class="title"></div>
+                <div class="text"></div>
+            </div>
+            <div class="arrow" id="0"></div>
+        </div>
+        <div class="menuOption" id="subject1">
+            <div class="image"></div>
+            <div class="content">
+
+                <div class="title"></div>
+                <div class="text"></div>
+            </div>
+
+            <div class="arrow" id="1"></div>
+        </div>
+    </div>
+</div>
+
+<div class="accordionScreen page hidden">
+    <div class="header">
+        <div class="accordionTitle"></div>
+    </div>
+
+    <div class="accordeon hidden">
+        <div class="wrapper">
+            <div class="reason" data-id="1">
+                <div class="container">
+                    <div class="title">Reden 1</div>
+                    <div class="text"> Om hun grote honger te stillen!</div>
+                </div>
+            </div>
+            <div class="reason collapsed" data-id="2">
+                <div class="container">
+                    <div class="title">Reden 2</div>
+                    <div class="text">Om ver te kunnen vliegen.</div>
+                </div>
+            </div>
+            <div class="reason collapsed" data-id="3">
+                <div class="container">
+                    <div class="title">Reden 3</div>
+                    <div class="text">Het broeden van een ei kost veel moeite.</div>
+                </div>
+            </div>
+            <div class="reason collapsed" data-id="4">
+                <div class="container">
+                    <div class="title">Reden 4</div>
+                    <div class="text">Vogels zijn druk in de weer met het bouwen van hun nest. hierdoor hebben ze veel
+                        voedsel nodig.
+                    </div>
+                </div>
+            </div>
+            <div class="reason collapsed" data-id="4">
+                <div class="container">
+                    <div class="title">Reden 4</div>
+                    <div class="text">Vogels zijn druk in de weer met het bouwen van hun nest. hierdoor hebben ze veel
+                        voedsel nodig.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- scripts -->
+<script type="text/javascript" src="js/libraries/jquery.min.js"></script>
+<script type="text/javascript">$(document).bind("mobileinit", function () {
+    $.extend($.mobile, {autoInitializePage: false})
+});</script>
+<!--<script src="../issuecollector/intern.js"></script>-->
+<script type="text/javascript" src="js/libraries/jquery-mobile.js"></script>
+<script src="http://localhost:8081/socket.io/socket.io.js"></script>
+<script type="text/javascript" src="js/libraries/Timeout.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+<script type="text/javascript" src="js/app.js"></script>
+
+
+<!-- end scripts -->
+</body>
+</html>

@@ -1,0 +1,166 @@
+<section ng-controller="progressController">
+
+    <div class="lockScreen" ng-click="nextStep('step1_2')"></div>
+    <div id="skipTutorial">
+        <a ng-click="changeView('step2', 'false')"><span class="skipTutorial"></span></a>
+    </div>
+    <div class="container">
+        <div class="sliders">
+
+            <div class="sliderBlock">
+                <div class="logo">
+                    <img id="image1" src="./dist/images/clock.png" alt="Clock">
+                    <div class="descAlign">
+                        <span class="description desc1"></span>
+                    </div>
+                </div>
+
+                <div class="slider">
+                    <div class="minValueContainer">
+                        <span class="minValue">8 u</span>
+                    </div>
+
+                    <div id="slider1" class="sliderTriangle">
+                        <img id="blackImg1" class="blackImg" src="./dist/images/blackSlider.png" alt="">
+                        <img src="./dist/images/coloredSlider.png" alt="" id="coloredImg1" class="coloredImg">
+                        <div id="thumb1" class="thumb">
+                            <img src="./dist/images/thumb.png" alt="">
+                        </div>
+                        <div class="rangeValueContainer">
+                            <span class="rangeValue">8 u</span>
+                        </div>
+
+                    </div>
+
+                    <span class="maxValue">16 u</span>
+                </div>
+            </div>
+            <div class="sliderBlock">
+                <div class="logo">
+                    <img src="./dist/images/rain.png" alt="Clock">
+                    <div class="descAlign">
+                        <span class="description desc2"></span>
+                    </div>
+                </div>
+
+                <div class="slider">
+                    <div class="minValueContainer">
+                        <span class="minValue">5 l/m<sup>2</sup></span>
+                    </div>
+                    <div id="slider2" class="sliderTriangle">
+                        <img class="blackImg" id="blackImg2" src="./dist/images/blackSlider.png" alt="">
+                        <img src="./dist/images/coloredSlider.png" alt="" id="coloredImg2" class="coloredImg">
+                        <div id="thumb2" class="thumb">
+                            <img src="./dist/images/thumb.png" alt="">
+                        </div>
+                        <div class="rangeValueContainer">
+                            <span class="rangeValue">5 l/m²</span>
+                        </div>
+                    </div>
+                    <span class="maxValue">10 l/m<sup>2</sup></span>
+                </div>
+            </div>
+            <div class="sliderBlock">
+                <div class="logo">
+                    <img src="./dist/images/temperature.png" alt="Clock">
+                    <div class="descAlign">
+                        <span class="description desc3"></span>
+                    </div>
+                </div>
+
+                <div class="slider">
+                    <div class="minValueContainer">
+                        <span class="minValue">10 °C</span>
+                    </div>
+                    <div id="slider3" class="sliderTriangle">
+                        <img class="blackImg" id="blackImg3" src="./dist/images/blackSlider.png" alt="">
+                        <img src="./dist/images/coloredSlider.png" alt="" id="coloredImg3" class="coloredImg">
+                        <div id="thumb3" class="thumb">
+                            <img src="./dist/images/thumb.png" alt="">
+                        </div>
+                        <div class="rangeValueContainer">
+                            <span class="rangeValue">10 °C</span>
+                        </div>
+                    </div>
+                    <span class="maxValue">30 °C</span>
+                </div>
+            </div>
+            <div class="sliderBlock">
+                <div class="logo">
+                    <img src="./dist/images/sunlight.png" alt="Clock">
+                    <div class="descAlign">
+                        <span class="description desc4"></span>
+                    </div>
+                </div>
+
+                <div class="slider">
+                    <div class="minValueContainer">
+                        <span class="minValue">2 mol</span>
+                    </div>
+                    <div id="slider4" class="sliderTriangle">
+                        <img class="blackImg" id="blackImg4" src="./dist/images/blackSlider.png" alt="">
+                        <img src="./dist/images/coloredSlider.png" alt="" id="coloredImg4" class="coloredImg">
+                        <div id="thumb4" class="thumb">
+                            <img src="./dist/images/thumb.png" alt="">
+                        </div>
+                        <div class="rangeValueContainer">
+                            <span class="rangeValue">2 mol</span>
+                        </div>
+                    </div>
+                    <span class="maxValue">15 mol</span>
+                </div>
+            </div>
+            <div class="sliderBlock">
+                <div class="logo">
+                    <img src="./dist/images/CO2.png" alt="Clock">
+                    <div class="descAlign">
+                        <span class="description desc5"></span>
+                    </div>
+                </div>
+
+                <div class="slider">
+                    <div class="minValueContainer">
+                        <span class="minValue" id="ppm">380 ppm</span>
+                    </div>
+                    <div id="slider5" class="sliderTriangle">
+                        <img class="blackImg" id="blackImg5" src="./dist/images/blackSlider.png" alt="">
+                        <img src="./dist/images/coloredSlider.png" alt="" id="coloredImg5" class="coloredImg">
+                        <div id="thumb5" class="thumb">
+                            <img src="./dist/images/thumb.png" alt="">
+                        </div>
+                        <div class="rangeValueContainer">
+                            <span class="rangeValue">380 ppm</span>
+                        </div>
+                    </div>
+                    <span class="maxValue">900 ppm</span>
+                </div>
+            </div>
+
+        </div>
+        <div class="info">
+            <div class="clock">
+                <p class="message"></p>
+                <div class="countdown">00:30</div>
+                <div class="upsidedown">00:30</div>
+            </div>
+
+            <a href="#step3?lang=nl"><span class="ready"></span></a>
+        </div>
+    </div>
+
+    <div class="opacity">
+        <div class="greeting">
+            <p class="1_1Greeting1"></p>
+            <p class="1_1Greeting2"></p>
+            <p class="1_1Greeting3"></p>
+        </div>
+
+
+    </div>
+    <div class="introBolletjes">
+        <div class="progressCircle green" id="circle1"></div>
+        <div class="progressCircle" id="circle2"></div>
+        <div class="progressCircle" id="circle3"></div>
+    </div>
+    <div ng-include="'./dist/pages/end.html'"></div>
+</section>

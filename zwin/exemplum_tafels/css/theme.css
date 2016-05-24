@@ -1,0 +1,755 @@
+/* COLORS */
+* {
+  margin: 0;
+  padding: 0;
+}
+@keyframes moveProgress {
+  0% {
+    left: 0;
+  }
+  100% {
+    left: 100%;
+  }
+}
+@keyframes twinkle2 {
+  0% {
+    opacity: 1;
+    transform: scale(0.5);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(0.5);
+  }
+}
+@keyframes shrinkFeather {
+  0% {
+    transform: scale(2);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+/* CSS */
+body {
+  color: #0a080a;
+  background-color: #f2f2f3;
+  font-family: "Helvetica LT Std";
+  font-weight: 500;
+  font-style: normal;
+  overflow: hidden;
+  user-select: none;
+  -webkit-user-select: none;
+  cursor: none;
+  /* /// */
+  /* /// */
+  /* /// */
+  /* /// */
+}
+body .page {
+  width: 1920px;
+  height: 1080px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #f2f2f3;
+}
+body .page.hidden {
+  visibility: hidden;
+}
+body .nouppercase {
+  text-transform: lowercase !important;
+}
+body .fullWidth {
+  width: 1920px;
+}
+body .pressable:active {
+  transform: scale(0.95);
+}
+body .screensaver {
+  transition: opacity 300ms;
+  font-weight: 900;
+  background-size: 180%;
+  margin-top: 0;
+  background-position: -1160px -310px;
+  text-transform: uppercase;
+}
+body .screensaver.hidden {
+  opacity: 0;
+  transition: opacity 300ms;
+}
+body .screensaver .svCircle {
+  border-radius: 50%;
+  background: #cbd2b2;
+  margin: 95px auto 0 auto;
+  width: 900px;
+  height: 900px;
+  overflow: hidden;
+  text-align: center;
+}
+body .screensaver .svCircle .svTitle {
+  margin: 0 auto 0 auto;
+  margin-left: 110px;
+  font-size: 56px;
+  font-family: 'Helvetica LT Std';
+  width: 650px;
+  text-align: center;
+  line-height: 70px;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  height: 400px;
+}
+body .screensaver .svCircle .svTitle span {
+  vertical-align: middle;
+  position: relative;
+  top: 35%;
+  transform: translateY(-50%);
+}
+body .screensaver .svCircle .svScan {
+  margin: 330px auto 0 110px;
+  width: 680px;
+  max-height: 16px;
+}
+body .screensaver .svCircle .svScan p {
+  letter-spacing: 1px;
+  font-size: 16px;
+  margin: 10px 0 0 0;
+  white-space: nowrap;
+}
+body .screensaver .svCircle .svScan img {
+  width: 60px;
+  margin-left: 15px;
+  position: absolute;
+  top: 850px;
+  left: 925px;
+}
+body .screensaver .svCircle .svNewTitle {
+  margin-top: -296px;
+  margin-left: -900px;
+  font-size: 56px;
+  font-family: 'Helvetica LT Std';
+  width: 650px;
+  text-align: center;
+  line-height: 70px;
+  top: 50%;
+  transform: translateY(-50%);
+  height: 400px;
+}
+body .screensaver .svCircle .svNewTitle span {
+  vertical-align: middle;
+  position: relative;
+  top: 35%;
+  transform: translateY(-50%);
+}
+body .screensaver .svCircle .svNewScan {
+  margin-left: 110px;
+  width: 680px;
+  max-height: 16px;
+}
+body .screensaver .svCircle .svNewScan p {
+  letter-spacing: 1px;
+  font-size: 16px;
+  margin-left: -900px;
+  margin-top: -121px;
+  white-space: nowrap;
+}
+body .screensaver .svCircle .svNewScan img {
+  width: 60px;
+  margin-left: 15px;
+  position: absolute;
+  top: 850px;
+  left: 925px;
+}
+body .menu {
+  height: 100px;
+  width: 1860px;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  transition: top 300ms 0ms;
+  background-color: #f2f2f3;
+  float: left;
+  border-bottom: 1px solid black;
+  font-weight: 900;
+  text-transform: uppercase;
+  z-index: 3;
+}
+body .menu.hidden {
+  top: -110px;
+  transition: top 300ms;
+}
+body .menu .idKaartTitle .text {
+  font-size: 34px;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 40%;
+  font-family: 'ZwinHelvetivaBLK';
+}
+body .menu .idKaartTitle .latin {
+  font-family: Helvetica, sans-serif;
+  font-weight: lighter;
+  font-style: italic;
+  margin-top: -37px;
+  font-size: 31px;
+  text-transform: none;
+}
+body .menu .idKaartTitle.hidden {
+  visibility: hidden;
+}
+body .menu .userName {
+  font-family: "ZwinHelvetivaBLK";
+  width: 700px;
+  color: #0a080a;
+  font-size: 22px;
+  padding: 40px 0 0 30px;
+  float: left;
+  vertical-align: middle;
+}
+body .menu .userName span {
+  color: #cbd2b2;
+}
+body .menu .stopButtonWrapper {
+  font-family: "ZwinHelvetivaBLK";
+  width: 150px;
+  height: 44px;
+  border: 3px solid #0a080a;
+  background-color: white;
+  border-radius: 50px;
+  float: right;
+  margin: 25px 30px 0 0;
+}
+body .menu .stopButtonWrapper:active {
+  background-color: #cbd2b2;
+}
+body .menu .stopButtonWrapper .text {
+  text-align: center;
+  font-size: 22px;
+  font-weight: bold;
+  color: #0a080a;
+  line-height: 50px;
+}
+body .menu .infoButtonWrapper {
+  font-family: "ZwinHelvetivaBLK";
+  width: 410px;
+  height: 44px;
+  border: 3px solid #ffffff;
+  background-color: #ffffff;
+  border-radius: 50px;
+  float: right;
+  margin: 25px 30px 0 0;
+}
+body .menu .infoButtonWrapper:active {
+  background-color: #cbd2b2;
+}
+body .menu .infoButtonWrapper .text {
+  text-align: center;
+  font-size: 22px;
+  font-weight: bold;
+  color: #0a080a;
+  line-height: 50px;
+}
+body .menu .infoButtonWrapper.hidden {
+  margin-top: -120px;
+}
+body .menu .idKaartButtonWrapper {
+  font-family: "ZwinHelvetivaBLK";
+  width: 150px;
+  height: 44px;
+  border: 3px solid #0a080a;
+  background-color: #0a080a;
+  border-radius: 50px;
+  float: right;
+  margin: 25px 30px 0 0;
+}
+body .menu .idKaartButtonWrapper:active {
+  background-color: #cbd2b2;
+}
+body .menu .idKaartButtonWrapper .text {
+  text-align: center;
+  font-size: 22px;
+  font-weight: bold;
+  color: #ffffff;
+  line-height: 50px;
+}
+body .menu .idKaartButtonWrapper.hidden {
+  margin-top: -120px;
+}
+body .alertScreen {
+  left: 0;
+  transition: left 500ms;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #f2f2f3;
+  z-index: 4;
+}
+body .alertScreen.hidden {
+  left: -1920px;
+  transition: 500ms;
+}
+body .alertScreen .text {
+  font-size: 60px;
+  margin: 80px auto 0 auto;
+  background: #cbd2b2;
+  width: 920px;
+  height: 520px;
+  border-radius: 50%;
+  padding-top: 400px;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 2px;
+}
+body .alertScreen .text .alertTextContainer {
+  width: 550px;
+  margin: 0 auto;
+  line-height: 78px;
+}
+body .alertScreen .text .alertTextContainer .callOut {
+  margin-top: 200px;
+}
+body .alertScreen .buttonWrapper {
+  width: 100%;
+  margin: 85px auto;
+  position: absolute;
+  left: -120px;
+  top: 650px;
+}
+body .alertScreen .buttonWrapper .button {
+  margin: 0 auto;
+  width: 120px;
+  height: 120px;
+  border-radius: 100%;
+  background-color: white;
+  border: 2px solid #000;
+}
+body .alertScreen .buttonWrapper .button > p {
+  text-align: center;
+  font-size: 36px;
+  font-weight: bold;
+  padding-top: 40px;
+  letter-spacing: 2px;
+  border-radius: 50%;
+  width: 105px;
+  background: #f2f2f3;
+  margin: 7.5px;
+  height: 65px;
+}
+body .alertScreen .buttonWrapper .button > p:active {
+  background: #cbd2b2;
+}
+body .alertScreen .alertTimer {
+  position: absolute;
+  top: 735px;
+  left: 1000px;
+  background: white;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border: 2px solid black;
+}
+body .alertScreen .alertTimer .timer2 {
+  background-color: transparent;
+  width: 105px;
+  height: 105px;
+  position: absolute;
+  margin: 7.5px;
+  border-radius: 50%;
+}
+body .alertScreen .alertTimer .timer2.fill {
+  background: #cbd2b2;
+}
+body .alertScreen .alertTimer .timer2 #ct-circle-container {
+  width: 100%;
+  height: 100%;
+}
+body .alertScreen .alertTimer .timer2 #ct-circle-container svg {
+  height: 100%;
+  -webkit-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+  width: 100%;
+}
+body .alertScreen .alertTimer .timer2 #ct-circle-container svg circle {
+  fill: none;
+  stroke: #cbd2b2;
+  stroke-dashoffset: 0;
+  stroke-width: 50%;
+}
+body .alertScreen .time {
+  position: absolute;
+  font-family: 'ZwinHelvetivaBLK';
+  text-align: center;
+  left: 935px;
+  top: 890px;
+  width: 50px;
+}
+body .alertScreen .time.hidden {
+  visibility: hidden;
+}
+body .alertScreen .time .num {
+  font-size: 40px;
+}
+body .alertScreen .time .unit {
+  font-size: 21px;
+  text-transform: uppercase;
+}
+body .stopScreen {
+  left: 0;
+  transition: left 500ms;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #f2f2f3;
+  z-index: 4;
+}
+body .stopScreen.hidden {
+  left: -1920px;
+  transition: 500ms;
+}
+body .stopScreen .text {
+  margin: 80px auto 0 auto;
+  background: #cbd2b2;
+  width: 920px;
+  height: 920px;
+  border-radius: 50%;
+  text-align: center;
+}
+body .stopScreen .text p {
+  font-size: 60px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  width: 450px;
+  padding-top: 385px;
+  line-height: 78px;
+  margin: 0 auto;
+}
+body .stopScreen .text .zekerStoppen {
+  padding-top: 385px;
+  width: 700px;
+}
+body .stopScreen .buttonWrapper {
+  width: 100%;
+  margin: 85px auto;
+  position: absolute;
+  left: -120px;
+  top: 650px;
+}
+body .stopScreen .buttonWrapper .button {
+  margin: 0 auto;
+  width: 120px;
+  height: 120px;
+  border-radius: 100%;
+  background-color: white;
+  border: 2px solid #000;
+}
+body .stopScreen .buttonWrapper .button > p {
+  text-align: center;
+  font-size: 36px;
+  font-weight: bold;
+  padding-top: 40px;
+  letter-spacing: 2px;
+  border-radius: 50%;
+  width: 105px;
+  background: #f2f2f3;
+  margin: 7.5px;
+  height: 65px;
+}
+body .stopScreen .buttonWrapper .button > p:active {
+  background: #cbd2b2;
+}
+body .stopScreen .buttonWrapper .buttonTwo {
+  margin: -125px 0 0 1125px;
+}
+body .stopScreen .buttonWrapper .buttonTwo p:active {
+  background: #cbd2b2;
+}
+body .birdContainer {
+  position: absolute;
+  top: 160px;
+  right: 60px;
+  width: 405px;
+  height: 810px;
+  opacity: 1;
+  transition: opacity 300ms 500ms;
+}
+body .birdContainer > .text {
+  text-align: center;
+  top: 559px;
+  position: absolute;
+  font-weight: 900;
+  width: 100%;
+  font-size: 40px;
+}
+body .birdContainer.hidden {
+  opacity: 0;
+  transition: opacity 300ms 500ms;
+}
+body .birdContainer .stars {
+  width: 300px;
+  height: 500px;
+  position: absolute;
+  top: 85px;
+  z-index: 1;
+  left: 50%;
+  margin-left: -150px;
+}
+body .birdContainer .stars.hidden {
+  visibility: hidden;
+}
+body .birdContainer .stars.hidden .stars-2 .st0,
+body .birdContainer .stars.hidden .stars-2 .st1,
+body .birdContainer .stars.hidden .stars-2 .st2 {
+  animation-name: none;
+  transform-origin: 50%;
+  transform: scale(1);
+}
+body .birdContainer .stars .st0,
+body .birdContainer .stars .st1,
+body .birdContainer .stars .st2 {
+  animation-duration: 1200ms;
+  animation-iteration-count: 4;
+  animation-timing-function: linear;
+}
+body .birdContainer .stars .st0:nth-child(1n),
+body .birdContainer .stars .st1:nth-child(1n),
+body .birdContainer .stars .st2:nth-child(1n) {
+  animation-delay: 450ms;
+}
+body .birdContainer .stars .st0:nth-child(2n),
+body .birdContainer .stars .st1:nth-child(2n),
+body .birdContainer .stars .st2:nth-child(2n) {
+  animation-delay: 350ms;
+}
+body .birdContainer .stars .st0:nth-child(3n),
+body .birdContainer .stars .st1:nth-child(3n),
+body .birdContainer .stars .st2:nth-child(3n) {
+  animation-delay: 500ms;
+}
+body .birdContainer .stars .st0:nth-child(4n),
+body .birdContainer .stars .st1:nth-child(4n),
+body .birdContainer .stars .st2:nth-child(4n) {
+  animation-delay: 150ms;
+}
+body .birdContainer .stars .st0:nth-child(5n),
+body .birdContainer .stars .st1:nth-child(5n),
+body .birdContainer .stars .st2:nth-child(5n) {
+  animation-delay: 100ms;
+}
+body .birdContainer .stars .st0:nth-child(6n),
+body .birdContainer .stars .st1:nth-child(6n),
+body .birdContainer .stars .st2:nth-child(6n) {
+  animation-delay: 200ms;
+}
+body .birdContainer .stars .st0 {
+  fill: #cbd2b2;
+  opacity: 0;
+}
+body .birdContainer .stars .st1 {
+  fill: #ffffff;
+}
+body .birdContainer .stars .st2 {
+  fill: #b0aa8f;
+  opacity: 0;
+}
+body .birdContainer .stars .stars-2 .st0,
+body .birdContainer .stars .stars-2 .st1,
+body .birdContainer .stars .stars-2 .st2 {
+  animation-name: twinkle2;
+  transform-origin: 50%;
+  transform: scale(1);
+}
+body .birdContainer .button {
+  margin: 0 auto;
+  width: 225px;
+  height: 225px;
+  border-radius: 100%;
+  background-color: white;
+  text-align: center;
+  margin-top: -112.5px;
+  border: 2px solid #0a080a;
+  position: absolute;
+  left: 50%;
+  margin-left: -112.5px;
+  top: 50%;
+}
+body .birdContainer .button.play div {
+  background-image: url('../assets/img/Play.png');
+  background-repeat: no-repeat;
+  background-position: 50%;
+}
+body .birdContainer .button.text > div {
+  line-height: 185px;
+  font-size: 40px;
+  font-weight: 900;
+  color: white;
+}
+body .birdContainer .button div.timer {
+  background-color: transparent;
+  width: 185px;
+  height: 185px;
+  position: absolute;
+}
+body .birdContainer .button div.timer #ct-circle-container {
+  width: 100%;
+  height: 100%;
+}
+body .birdContainer .button div.timer #ct-circle-container svg {
+  height: 100%;
+  -webkit-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+  width: 100%;
+}
+body .birdContainer .button div.timer #ct-circle-container svg circle {
+  fill: none;
+  stroke: #cbd2b2;
+  stroke-dashoffset: 0;
+  stroke-width: 50%;
+}
+body .birdContainer .button > div {
+  width: 185px;
+  height: 185px;
+  background-color: #cbd2b2;
+  border-radius: 50%;
+  top: 20px;
+  left: 20px;
+  position: relative;
+}
+body .birdContainer .button > div .pluim-1 {
+  background-image: url('../assets/img/pluim1.png');
+  width: 225px;
+  height: 225px;
+  background-size: contain;
+  position: absolute;
+  top: -20px;
+  left: -20px;
+  animation: 3s linear 2.5s shrinkFeather;
+  animation-fill-mode: forwards;
+  transform: scale(2);
+  transform-origin: bottom center;
+  z-index: 2;
+}
+body .birdContainer .button > div .pluim-2 {
+  background-image: url('../assets/img/pluim2.png');
+  width: 225px;
+  height: 225px;
+  background-size: contain;
+  position: absolute;
+  top: -20px;
+  left: -20px;
+  animation: 3s linear 2.5s shrinkFeather;
+  animation-fill-mode: forwards;
+  transform: scale(2);
+  transform-origin: bottom center;
+  z-index: 2;
+}
+body .birdContainer .button > div .pluim-3 {
+  background-image: url('../assets/img/pluim3.png');
+  width: 225px;
+  height: 225px;
+  background-size: contain;
+  position: absolute;
+  top: -20px;
+  left: -20px;
+  animation: 3s linear 2.5s shrinkFeather;
+  animation-fill-mode: forwards;
+  transform: scale(2);
+  transform-origin: bottom center;
+  z-index: 2;
+}
+body .introScreen {
+  z-index: 2;
+  width: 1390px;
+  height: 863px;
+  left: 30px;
+  top: 160px;
+  overflow: hidden;
+  background-color: #111011;
+}
+body .introScreen.kids {
+  pointer-events: none;
+  background-color: transparent;
+  width: 1920px;
+  height: 1080px;
+  transition: none;
+  left: 0;
+  top: 0;
+}
+body .introScreen.kids .title {
+  transition: none;
+}
+body .introScreen.kids .title.hidden {
+  transition: none;
+}
+body .introScreen.kids .image {
+  position: absolute;
+  width: 1920px;
+  height: 1080px;
+  left: 0px;
+  transition: none;
+  top: 0px;
+  font-size: 70px;
+  text-align: center;
+  background-image: url('../assets/img/tutorial_memory.gif');
+}
+body .introScreen.kids .image.hidden {
+  visibility: hidden;
+  transition: none;
+}
+body .introScreen .title {
+  position: relative;
+  font-family: "ZwinHelvetivaBLK";
+  height: 287.66666667px;
+  background-color: #cbd2b2;
+  font-size: 50px;
+  color: #111011;
+  line-height: 287.66666667px;
+  transition: left 500ms 300ms;
+  top: 0px;
+  left: 0px;
+}
+body .introScreen .title.hidden {
+  transition: left 500ms 300ms;
+  left: -2000px;
+}
+body .introScreen .title p {
+  margin-left: 30px;
+  display: inline-block;
+  line-height: 75px;
+  vertical-align: middle;
+  font-weight: 900;
+  width: 1200px;
+  text-transform: uppercase;
+}
+body .introScreen .titleColumn {
+  position: absolute;
+  line-height: 870px;
+  height: 870px;
+  left: 30px;
+}
+body .introScreen .titleColumn .textContainer {
+  display: inline-block;
+  line-height: initial;
+  font-size: 24px;
+  font-weight: 900;
+  letter-spacing: 0.05em;
+}
+body .introScreen .image {
+  margin-top: 15px;
+  height: 560px;
+  width: 100%;
+  background: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  position: relative;
+  transition: left 500ms 300ms;
+  top: 0px;
+  left: 0px;
+}
+body .introScreen .image.hidden {
+  transition: left 500ms 300ms;
+  left: -2000px;
+}

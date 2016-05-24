@@ -1,0 +1,32 @@
+{
+  "name": "florali-n",
+  "version": "1.0.0",
+  "description": "Floralien webapp om chrysanten te kweken",
+  "main": "js/app.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "angular-animate": "^1.5.0",
+    "gulp-concat": "^2.6.0",
+    "bootstrap-slider": "^6.0.16",
+    "gulp-minify-css": "^1.2.3",
+    "gulp-less": "^3.0.5",
+    "gulp-csslint": "^0.2.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.2",
+    "jshint-stylish": "^2.1.0",
+    "jshint": "^2.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/ocularbvba/florali-n.git"
+  },
+  "author": "Ocular",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/ocularbvba/florali-n#readme"
+}

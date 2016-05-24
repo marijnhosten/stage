@@ -1,0 +1,386 @@
+/* COLORS */
+@keyframes bounce {
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-30px);
+  }
+  60% {
+    transform: translateY(-15px);
+  }
+}
+@keyframes pinAppear {
+  0% {
+    opacity: 0;
+    margin-top: -194px;
+  }
+  100% {
+    opacity: 1;
+    margin-top: -87px;
+  }
+}
+.subjectScreen {
+  opacity: 1;
+  transition: 300ms;
+}
+.subjectScreen.hidden {
+  opacity: 0;
+  transition: 300ms;
+}
+.subjectScreen .menuWrapper {
+  position: absolute;
+  width: 1795px;
+  height: 880px;
+  left: 60px;
+  top: 140px;
+}
+.subjectScreen .menuWrapper .menuOption {
+  width: 100%;
+  height: 430px;
+  background-color: #69c2c4;
+  margin-bottom: 20px;
+}
+.subjectScreen .menuWrapper .menuOption .content {
+  width: 50%;
+  display: inline-block;
+  height: auto;
+  vertical-align: top;
+  margin-right: -5px;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  padding-left: 60px;
+}
+.subjectScreen .menuWrapper .menuOption .content .title {
+  padding: 20px;
+  font-size: 28px;
+  font-family: "ZwinHelvetivaBLK", Helvetica, sans-serif;
+  text-transform: uppercase;
+}
+.subjectScreen .menuWrapper .menuOption .content .text {
+  padding: 0 20px 20px 20px;
+  font-size: 23px;
+  line-height: 34px;
+}
+.subjectScreen .menuWrapper .menuOption .image {
+  width: 500px;
+  height: 430px;
+  display: inline-block;
+  margin-right: -5px;
+}
+.subjectScreen .menuWrapper .menuOption .arrow {
+  background: url('../assets/img/optionButton.png') no-repeat center center;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  background-size: contain;
+  position: relative;
+  top: -50%;
+  left: 9%;
+  transform: translateY(50%);
+}
+.subjectScreen .menuWrapper .menuOption .arrow:active {
+  background: url('../assets/img/optionButtonActive.png') no-repeat center center;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  background-size: contain;
+  position: relative;
+  top: -50%;
+  left: 9%;
+  transform: translateY(50%);
+}
+.subjectScreen .menuWrapper #subject0 .image {
+  background: url('../assets/img/mens_vliegen.jpg') no-repeat center center;
+  background-size: cover;
+}
+.subjectScreen .menuWrapper #subject1 .image {
+  background: url('../assets/img/roodborstje2.jpg') no-repeat center center;
+  background-size: 150%;
+}
+.accordionScreen {
+  opacity: 1;
+  transition: 300ms;
+  clear: both;
+}
+.accordionScreen.hidden {
+  opacity: 0;
+  transition: 300ms;
+}
+.accordionScreen .header {
+  width: 100%;
+  height: 75px;
+  margin: 122px auto 0 auto;
+  text-align: center;
+}
+.accordionScreen .header .accordionTitle {
+  font-family: "ZwinHelvetivaBLK";
+  font-size: 37px;
+  color: black;
+  padding-top: 10px;
+}
+.accordionScreen .accordeon {
+  opacity: 1;
+  transition: opacity 500ms 500ms;
+}
+.accordionScreen .accordeon.hidden {
+  opacity: 0;
+  transition: opacity 500ms 500ms;
+}
+.accordionScreen .accordeon .wrapper {
+  width: 1800px;
+  height: 870px;
+  position: absolute;
+  top: 140px;
+  left: 60px;
+  overflow: hidden;
+}
+.accordionScreen .accordeon .wrapper .selectedSlide {
+  width: 85%;
+}
+.accordionScreen .accordeon .wrapper .hideTitle {
+  display: none;
+}
+.accordionScreen .accordeon .wrapper .reason {
+  will-change: auto;
+  background-color: #69c2c4;
+  display: inline-block;
+  height: 100%;
+  vertical-align: top;
+  background-size: cover;
+  z-index: 1;
+  position: relative;
+  transition: width 300ms;
+  margin-right: 22px;
+}
+.accordionScreen .accordeon .wrapper .reason:last-child {
+  margin-right: 0;
+}
+.accordionScreen .accordeon .wrapper .reason.closer {
+  margin-right: 10px;
+}
+.accordionScreen .accordeon .wrapper .reason .container {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  overflow: hidden;
+}
+.accordionScreen .accordeon .wrapper .reason .container .pillarContent {
+  width: 1367px;
+  height: 870px;
+  left: 90px;
+  position: absolute;
+}
+.accordionScreen .accordeon .wrapper .reason .container .pillarContent .readMoreContainer {
+  position: absolute;
+  width: 320px;
+  height: 100px;
+  left: -650px;
+  top: 550px;
+}
+.accordionScreen .accordeon .wrapper .reason .container .pillarContent .readMoreContainer.hidden {
+  visibility: hidden;
+}
+.accordionScreen .accordeon .wrapper .reason .container .pillarContent .readMoreContainer p.readMore {
+  font-size: 20px;
+}
+.accordionScreen .accordeon .wrapper .reason .container .pillarContent .readMoreContainer p.readMore.hidden {
+  visibility: hidden;
+}
+.accordionScreen .accordeon .wrapper .reason .container .pillarContent .readMoreContainer .readMoreImg {
+  background: url('../assets/img/readMoreImg.png') no-repeat center center;
+  width: 70px;
+  height: 70px;
+  background-size: contain;
+  position: absolute;
+  top: -30px;
+  left: 110px;
+}
+.accordionScreen .accordeon .wrapper .reason .container .pillarContent .readMoreContainer .readMoreImg.hidden {
+  visibility: hidden;
+}
+.accordionScreen .accordeon .wrapper .reason .container .pillarContent .pillarSlideContainer {
+  position: absolute;
+  top: 80px;
+  left: 700px;
+  width: 440px;
+  height: 320px;
+}
+.accordionScreen .accordeon .wrapper .reason .container .pillarContent .pillarSlideContainer .pillarCounterContainer {
+  width: 100%;
+  height: 20px;
+  position: absolute;
+  top: 300px;
+  margin-top: 20px;
+}
+.accordionScreen .accordeon .wrapper .reason .container .pillarContent .pillarSlideContainer .pillarImageSlider {
+  height: 100%;
+  width: 100%;
+  vertical-align: top;
+  position: absolute;
+  overflow: hidden;
+}
+.accordionScreen .accordeon .wrapper .reason .container .pillarContent .pillarSlideContainer .pillarImage {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background-size: cover;
+  transition: left 300ms;
+}
+.accordionScreen .accordeon .wrapper .reason .container .pillarContent .pillarSlideContainer .pillarImage.right {
+  left: 100%;
+}
+.accordionScreen .accordeon .wrapper .reason .container .pillarContent .pillarSlideContainer .pillarImage.left {
+  left: -100%;
+}
+.accordionScreen .accordeon .wrapper .reason .container .pillarContent .pillarSlideContainer .pillarCounter {
+  width: auto;
+  float: right;
+}
+.accordionScreen .accordeon .wrapper .reason .container .pillarContent .pillarSlideContainer .pillarCounter .pillarTick {
+  width: 12px;
+  height: 12px;
+  background-color: lightgrey;
+  display: inline-block;
+  margin: 10px 10px 0 0;
+  border-radius: 50%;
+}
+.accordionScreen .accordeon .wrapper .reason .container .pillarContent .pillarSlideContainer .pillarCounter .pillarTick.selected {
+  background-color: #0092a9;
+}
+.accordionScreen .accordeon .wrapper .reason .container .pillarContent .pillarSlideContainer .pillarNextPic,
+.accordionScreen .accordeon .wrapper .reason .container .pillarContent .pillarSlideContainer .pillarPreviousPic {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  top: 45%;
+}
+.accordionScreen .accordeon .wrapper .reason .container .pillarContent .pillarSlideContainer .pillarNextPic.hidden,
+.accordionScreen .accordeon .wrapper .reason .container .pillarContent .pillarSlideContainer .pillarPreviousPic.hidden {
+  visibility: hidden;
+}
+.accordionScreen .accordeon .wrapper .reason .container .pillarContent .pillarSlideContainer .pillarNextPic {
+  background: url('../assets/img/rightArrow.png') no-repeat center center;
+  background-size: contain;
+  left: 410px;
+}
+.accordionScreen .accordeon .wrapper .reason .container .pillarContent .pillarSlideContainer .pillarPreviousPic {
+  background: url('../assets/img/leftArrow.png') no-repeat center center;
+  background-size: contain;
+}
+.accordionScreen .accordeon .wrapper .reason .container .pillarContent.hidden {
+  visibility: hidden;
+}
+.accordionScreen .accordeon .wrapper .reason .container .pillarContent .title {
+  height: 20px;
+  width: 42%;
+  margin-left: 40px;
+  margin-top: 80px;
+  margin-bottom: 25px;
+  font-family: ZwinHelvetivaBLK;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.accordionScreen .accordeon .wrapper .reason .container .pillarContent .scrollContainer {
+  width: 42%;
+  height: 360px;
+  overflow: hidden;
+  margin-left: 40px;
+}
+.accordionScreen .accordeon .wrapper .reason .container .pillarContent .scrollContainer .text {
+  height: 360px;
+  width: 100%;
+  font-size: 20px;
+  line-height: 30px;
+  overflow-y: auto;
+  padding-right: 15px;
+}
+.accordionScreen .accordeon .wrapper .reason .container .pillarContent .scrollContainer .text p {
+  position: relative;
+  top: 0;
+}
+.accordionScreen .accordeon .wrapper .reason .image {
+  position: absolute;
+  left: 0;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  opacity: 1;
+  object-fit: cover;
+  transition: opacity 750ms;
+  background-position: 50%;
+  z-index: 11;
+  width: 100%;
+  height: 230px;
+  text-align: left;
+  top: 0;
+}
+.accordionScreen .accordeon .wrapper .reason .image.imageHidden {
+  height: 0;
+  transition: height 300ms;
+}
+.accordionScreen .accordeon .wrapper .reason .image > p {
+  color: black;
+  font-size: 21px;
+  text-transform: uppercase;
+  margin: 35px 0 0 30px;
+  font-family: ZwinHelvetivaBLK;
+  line-height: 32px;
+}
+.accordionScreen .accordeon .wrapper .reason .verticalTitle {
+  color: black;
+  font-size: 21px;
+  text-transform: uppercase;
+  position: absolute;
+  top: 250px;
+  left: 20px;
+  max-width: 250px;
+  width: 100%;
+  line-height: 32px;
+  font-family: ZwinHelvetivaBLK;
+}
+.accordionScreen .accordeon .wrapper .reason .rotateTitle {
+  font-family: ZwinHelvetivaBLK;
+  top: 0;
+  text-align: center;
+  width: 90px;
+  max-width: 100%;
+  left: 0;
+  height: 870px;
+  position: absolute;
+  background: #69c2c4;
+}
+.accordionScreen .accordeon .wrapper .reason .rotateTitle p {
+  transform: rotate(-90deg);
+  width: 870px;
+  position: absolute;
+  margin-left: -386px;
+  top: 48%;
+}
+.accordionScreen .accordeon .wrapper .reason .optionBtn {
+  background: url('../assets/img/optionButton.png') no-repeat center center;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translateX(-50%);
+  background-size: contain;
+  z-index: 99;
+}
+.accordionScreen .accordeon .wrapper .reason .optionBtn.hidden {
+  visibility: hidden;
+}
+.accordionScreen .accordeon .wrapper .reason .optionBtn:active {
+  background: url('../assets/img/optionButtonActive.png') no-repeat center center;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 55%;
+  left: 37%;
+  background-size: contain;
+}

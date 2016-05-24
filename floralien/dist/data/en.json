@@ -1,0 +1,94 @@
+[
+  {
+    "class": ".message",
+    "text": "time remaining:"
+  },
+  {
+    "class": ".goal",
+    "text": "goal"
+  },
+  {
+    "class": ".warning",
+    "text": "warning"
+  },
+  {
+    "class": ".desc1",
+    "text": "hours of light"
+  },
+  {
+    "class": ".desc2",
+    "text": "amount of water"
+  },
+  {
+    "class": ".desc3",
+    "text": "temperature"
+  },
+  {
+    "class": ".desc4",
+    "text": "brightness"
+  },
+  {
+    "class": ".desc5",
+    "text": "fertalisement"
+  },
+  {
+    "class": ".1_1Greeting1",
+    "text": "Dear visitor,"
+  },
+  {
+    "class": ".1_1Greeting2",
+    "text": "In greenhouse cultivation the climate is controlled by a computer using sensor input. How can temperature, light, CO2  and water influence the growth and quality of ornamental plants? You can test it for yourself with the chrysanthemum, a short-day plant. Your cultivation starts early February, when the stems are 30 cm long and only bear leaves. You want to sell these chrysanthemums in the week leading up to Easter. Select your climate and see which quality you get."
+  },
+  {
+    "class": ".1_1Greeting3",
+    "text": "Good luck!"
+  },
+  {
+    "class": ".1_3Msg",
+    "text": "Afterwards you'll see an overview of your chosen values accompanied by some information."
+  },
+  {
+    "class": ".3Info1",
+    "text": "The chrysanthemum is a short-day plant, which means that it will sprout flowers if the length of day remains below 12h. If the length of day exceeds 12h the chrysanthemum will sprout leaves, not flowers."
+  },
+  {
+    "class": ".3Info2",
+    "text": "This is the quantity of water that is needed to boost stem growth from 30 cm to 80 cm. Less water will cause stress, delay the plant’s growth and fewer flowers will sprout."
+  },
+  {
+    "class": ".3Info3",
+    "text": "The ideal temperature for chrysanthemums to grow is between 18 and 21°C. Lower temperatures will slow down the growth of leaves and flowers, which will extend cultivation duration. Higher temperatures cause heat stress, which will increase in case of limited sunlight."
+  },
+  {
+    "class": ".3Info4",
+    "text": "During winter and spring there may be a lack of natural light (2-3 mol/day). The result is reduced photosynthesis, delayed growth and fewer flowers. The grower can add 3 to 4 mol of light per day in order to improve the quality in this time of the year."
+  },
+  {
+    "class": ".3Info5",
+    "text": "The concentration of CO2 in the atmosphere is about 380-400 ppm. Adding CO2 to 600-900 ppm boosts photosynthesis and improves plant quality."
+  },
+  {
+    "class": ".3UwTitle",
+    "text": "Your chrysantymum"
+  },
+  {
+    "class": ".3IdeaalTitle",
+    "text": "Ideal"
+  },
+  {
+    "class": ".1_3IdeaalTitle",
+    "text": "Ideal"
+  },
+  {
+    "class": ".1_3UwTitle",
+    "text": "Your chrysantymum"
+  },
+  {
+    "class": ".skipTutorial",
+    "text": "skip tutorial"
+  },
+  {
+    "class": ".ready",
+    "text": "ready!"
+  }
+]

@@ -1,0 +1,1322 @@
+@circleSize: 80px;
+@circleColor: #fff;
+@primaryColor: #3d4c45;
+@secondaryColor: #858886;
+@langBgColor: #000;
+@msgColor: #6f7270;
+@focusColor: #f9c943;
+@iconWidth: 50%;
+@textColor: #fff;
+
+@slidersWidth: 80%;
+@sliderHeight: 19.7%;
+
+@slidersKlein: 15%;
+
+@track-radius: 5px;
+@contrast: 5%;
+
+@rangeValueColor: #90b75f;
+@rangeValueFontSize: 1.4em;
+@rangeValueLeft: -95px;
+@rangeValueTop: -35px;
+
+@flowerImgWidth: 150px;
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  width: 100%;
+  cursor: none;
+  overflow: hidden;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+body {
+  background-color: @langBgColor;
+  -webkit-user-select: none;
+}
+
+.langMenu {
+  color: @rangeValueColor;
+  text-align: center;
+  font-size: 2.3em;
+  position: absolute;
+  top: 30%;
+  width: 100%;
+  margin: auto auto;
+  font-variant: small-caps;
+
+  h2 {
+    margin: 0 auto 40px auto;
+  }
+
+  input[type="button"] {
+    margin: 40px 40px;
+    width: 100px;
+    height: 50px;
+    color: @textColor;
+    background: @primaryColor;
+    border: 1px solid @textColor;
+    font-size: 1em;
+    cursor: none;
+
+    &:focus {
+      outline: none;
+      color: @textColor;
+      background: @focusColor;
+      cursor: none;
+    }
+  }
+
+}
+
+.greeting {
+  width: 50%;
+  z-index: 1;
+  position: absolute;
+  left: 25%;
+  top: 25%;
+
+  p {
+    font-size: 2.2em;
+    color: @textColor;
+    font-weight: lighter;
+    margin: 20px 0 0 0;
+  }
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+  white-space: nowrap;
+
+  div.endTimer {
+    width: @slidersWidth;
+    height: 100%;
+    position: absolute;
+    display: none;
+    z-index: 5;
+    opacity: 0;
+  }
+}
+
+.sliders {
+  width: @slidersWidth;
+  height: 100%;
+  color: @rangeValueColor;
+  position: absolute;
+
+  .sliderBlock {
+    width: 100%;
+    height: @sliderHeight;
+    background: @primaryColor;
+    border-top: 3px solid @langBgColor;
+    border-left: 3px solid @langBgColor;
+    font-weight: lighter;
+    letter-spacing: 1px;
+
+    .rangeValueContainer {
+      position: absolute;
+      text-align: right;
+      width: 100px;
+      left: -20px;
+      top: 10px;
+    }
+
+    div.logo {
+      position: relative;
+      width: 20%;
+      top: 20%;
+      left: 2%;
+
+      img {
+        position: absolute;
+        width: @iconWidth;
+      }
+
+      div.descAlign {
+        position: absolute;
+        top: 15%;
+        left: 46%;
+        width: 180px;
+        text-align: right;
+
+        span.description {
+          text-transform: uppercase;
+          font-size: @rangeValueFontSize * .7;
+        }
+      }
+
+    }
+
+    .slider {
+      position: relative;
+      top: 50%;
+      left: 25%;
+      width: 100%;
+      height: 100vh;
+
+      .minValueContainer {
+        text-align: right;
+        width: 50px;
+        height: 20px;
+        position: absolute;
+        left: -70px;
+      }
+
+      span.minValue, span.maxValue {
+        position: relative;
+        color: @secondaryColor;
+        top: 55px;
+      }
+
+      #ppm {
+        left: -10px;
+      }
+
+      span.maxValue {
+        left: 66%;
+      }
+
+      span.rangeValue {
+        color: @rangeValueColor;
+        left: @rangeValueLeft;
+        top: @rangeValueTop;
+        position: relative;
+        font-size: @rangeValueFontSize;
+        z-index: 2;
+
+        span.strong {
+          font-weight: bold;
+        }
+      }
+    }
+  }
+
+  .game {
+    width: 0;
+  }
+}
+
+.info {
+  width: (100% - @slidersWidth);
+  height: 100%;
+  background: @langBgColor;
+  white-space: normal;
+  position: absolute;
+  left: @slidersWidth;
+  top: 0;
+  text-align: center;
+
+  .clock {
+    color: @textColor;
+
+    .countdown {
+      //border-bottom: 1px solid rgba(255, 255, 255, .1);
+      width: 80%;
+    }
+
+    p, .countdown, .upsidedown {
+      text-align: left;
+      margin: 20px 0 -20px 35px;
+      font-variant: small-caps;
+      color: @msgColor;
+    }
+
+    .countdown, .upsidedown {
+      margin: 0 0 5px 35px;
+      font-size: 7em;
+      color: @rangeValueColor;
+      font-weight: lighter;
+    }
+
+    .upsidedown {
+      margin: -52px 0 5px 35px;
+      -webkit-transform: rotate(180deg);
+      -moz-transform: rotate(180deg);
+      -ms-transform: rotate(180deg);
+      -o-transform: rotate(180deg);
+      transform: rotate(180deg);
+
+      -webkit-transform: scale(1, -1);
+      -moz-transform: scale(1, -1);
+      -ms-transform: scale(1, -1);
+      -o-transform: scale(1, -1);
+      transform: scale(1, -1);
+
+      text-align: left;
+      opacity: .2;
+      //-webkit-clip-path: inset(65% 0px 0px 0px);
+    }
+  }
+
+  img {
+    margin: 40px auto 0 auto;
+    width: auto;
+  }
+
+  .infoText {
+    position: absolute;
+    top: 22%;
+    left: 7%;
+    background: @rangeValueColor;
+    width: 85%;
+    bottom: 20%;
+    padding: 0 0 20px 0;
+    margin: auto auto;
+    p {
+      text-align: left;
+      line-height: 1.2em;
+      margin: 0 0 0 15px;
+      color: @textColor;
+    }
+
+    p.infoTitle {
+      color: @langBgColor;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      margin: 20px 0 0 15px;
+    }
+  }
+
+  a {
+    padding: 10px;
+    border: none;
+    color: @langBgColor;
+    background: @focusColor;
+    font-size: 1em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    position: absolute;
+    top: 90%;
+    left: 40%;
+    text-decoration: none;
+
+    &:active {
+      color: @textColor;
+    }
+  }
+}
+
+@keyframes dot-anim {
+  45% {
+    opacity: 1;
+  }
+  46% {
+    box-shadow: 1 0 .2em .5em #52a8e8, 0 0 0 0 @circleColor, 0 0 10px 10px #298df4;
+  }
+  50% {
+    box-shadow: 1 0 .2em .13em #52a8e8, 0 0 0 20px @circleColor, 0 0 0 30px #298df4;
+  }
+  52% {
+    box-shadow: 1 0 .2em .13em #52a8e8, 0 0 0 40px @circleColor, 0 0 0 55px #298df4;
+  }
+  55% {
+    opacity: 1;
+    box-shadow: 1 0 .2em .13em #52a8e8, 0 0 0 60px @circleColor, 0 0 0 75px #298df4;
+  }
+  81% {
+    opacity: 0;
+    box-shadow: 1 0 .2em .25em #52a8e8, 0 0 0 90px @circleColor, 0 0 0 120px #298df4;
+  }
+}
+
+div.sliderTriangle {
+  position: absolute;
+  width: 65%;
+  display: block;
+  height: 80px;
+  top: 0;
+  left: 0;
+  div.thumb {
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    z-index: 2;
+
+    img {
+      width: 15px;
+      user-select: none;
+    }
+  }
+
+  img.blackImg {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    -webkit-clip-path: inset(0px 100% 0px 0px);
+    -webkit-user-drag: none;
+    z-index: 1;
+    bottom: 0;
+    left: 0;
+  }
+
+  img.coloredImg {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    bottom: 0;
+    opacity: .5;
+    left: -5px;
+  }
+
+  div.thumbDrag {
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    z-index: 2;
+    left: -65px;
+    top: -30%;
+    display: block;
+  }
+}
+
+.scene {
+  width: @circleSize;
+  height: @circleSize;
+  position: absolute;
+  top: 15%;
+  left: 75%;
+  z-index: 100;
+  .dot {
+    width: 1em;
+    height: 1em;
+    background-color: #fff;
+    box-shadow: 0 0 .2em .13em #fff, 0 0 0 0 #fff, 0 0 0 0 #fff;
+    opacity: 0;
+    animation: dot-anim linear 1.5s infinite;
+    border-radius: 50%;
+  }
+
+}
+
+.scene1 {
+  position: relative;
+  left: -1px;
+  top: 100px;
+}
+
+div#step3 {
+
+  div.slidersKlein, div.infoGroot, div.uwPlant, div.ideaalPlant {
+    height: 100%;
+  }
+
+  div.slidersKlein {
+    width: 15%;
+    position: absolute;
+    background: @langBgColor;
+    font-weight: lighter;
+
+    .sliderBlock {
+      width: 100%;
+      height: 19.68%;
+      background: #353A37;
+      border-top: 2px solid @langBgColor;
+      border-left: 3px solid @langBgColor;
+      border-bottom: 1px solid @langBgColor;
+
+      div.logo {
+        position: relative;
+        top: 35%;
+        left: 15%;
+
+        img {
+          width: 20%;
+          margin-top: 10px;
+        }
+
+        span.description {
+          position: absolute;
+          text-transform: uppercase;
+          font-size: @rangeValueFontSize * .6;
+          color: @textColor;
+          letter-spacing: 1px;
+          top: -40%;
+          left: 0;
+        }
+
+        span img {
+          width: 80%;
+          position: absolute;
+          left: 15%;
+          top: 0;
+        }
+
+        span.yourValue {
+
+          position: absolute;
+          top: 10%;
+          left: 30%;
+
+          color: @textColor;
+
+          .strong {
+            font-weight: bold;
+            font-size: 3em;
+          }
+
+          .unit {
+            font-weight: lighter;
+            font-size: .8em;
+          }
+        }
+      }
+    }
+
+    .end {
+      width: 0;
+    }
+
+  }
+  div.infoGroot {
+    width: 40%;
+    left: 35%;
+    position: absolute;
+    height: 100%;
+    top: 0;
+    background: darken(@primaryColor, 10%);
+    z-index: 1;
+    font-weight: lighter;
+
+      div.sliderBlock {
+        opacity: 0;
+        width: 100%;
+        height: 19.68%;
+        border-top: 2px solid @langBgColor;
+        border-bottom: 1px solid @langBgColor;
+
+        img:nth-child(1) {
+          width: 30%;
+          margin: 40px 0 0 10px;
+        }
+
+        img:nth-child(2) {
+          width: 55%;
+        }
+
+        div.textBlock {
+          position: relative;
+          left: 40%;
+          top: -25px;
+          padding-left: 10px;
+          border-left: 1px solid lighten(@focusColor, 15%);
+
+          p {
+            color: lighten(@focusColor, 15%);
+            line-height: 1.6em;
+            width: 350px;
+            white-space: normal;
+            letter-spacing: 1px;
+            font-size: .9em;
+          }
+        }
+
+        span.perfectValue {
+
+          position: relative;
+          top: 75px;
+          left: 5%;
+
+          color: @focusColor;
+
+          .strong {
+            font-weight: bold;
+            font-size: 3em;
+          }
+
+          .unit {
+            font-weight: lighter;
+            font-size: .8em;
+          }
+        }
+
+
+
+      .end {
+        width: 0;
+      }
+    }
+  }
+
+  div.uwPlant {
+    position: absolute;
+    width: 16%;
+    height: 88%;
+    left: 19%;
+    background: @langBgColor;
+
+    div.title {
+
+      position: absolute;
+      top: 4%;
+      left: 0;
+      text-align: center;
+      font-size: 1.5em;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      font-weight: normal;
+      white-space: normal;
+
+      p.uwTitle {
+        width: 210px;
+        color: @rangeValueColor;
+      }
+    }
+
+    .tutorialPlant {
+
+      position: absolute;
+      top: 31%;
+      left: -15%;
+
+      img {
+        width: 300px;
+      }
+    }
+
+    .ondergrond {
+      position: absolute;
+      top: 93%;
+
+      img {
+        width: 200px;
+      }
+    }
+  }
+
+  div.ideaalPlant {
+    width: 20%;
+    left: 75%;
+    background: @langBgColor;
+    position: absolute;
+    height: 88%;
+
+    div.title {
+      position: absolute;
+      top: 4%;
+      left: 0;
+      text-align: center;
+      font-size: 1.5em;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      font-weight: normal;
+      white-space: normal;
+
+      p.ideaalTitle {
+        width: 450px;
+        color: @rangeValueColor;
+      }
+    }
+
+    .tutorialPlant {
+
+      position: absolute;
+      left: 20%;
+      top: 31%;
+
+      img {
+        width: 300px;
+        position: relative;
+        top: -60px;
+        height: 670px;
+      }
+    }
+
+    .ondergrond {
+      position: absolute;
+      top: 93%;
+      left: 32%;
+
+      img {
+        width: 200px;
+      }
+    }
+
+    .loadingBg, .loadingFg {
+      left: 20%;
+      top: 106%;
+    }
+
+    div.loadingBg {
+      width: 142px;
+      height: 30px;
+      background: darken(@primaryColor, 10%);
+      position: absolute;
+    }
+    .loadingFg {
+      width: 100px;
+      height: 30px;
+      position: absolute;
+    }
+    .timerKlein {
+      font-size: 2.2em;
+      color: @focusColor;
+      font-weight: normal;
+      position: absolute;
+      top: 105.2%;
+      left: 65%;
+    }
+  }
+}
+
+div#step1_2 {
+  .tutorial {
+    width: 100%;
+    height: 100vh;
+    white-space: nowrap;
+    background: #232927;
+    font-weight: lighter;
+    letter-spacing: 1px;
+
+    .slidersTut {
+      width: (100% - @slidersKlein) - 8%;
+      height: 88%;
+      position: absolute;
+      top: 2%;
+      left: 4%;
+      background: @langBgColor;
+      box-shadow: 5px 5px 10px @primaryColor;
+      border-bottom: 3px solid @langBgColor;
+
+      .sliderBlock {
+        width: 90%;
+        height: @sliderHeight;
+        background: @primaryColor;
+        border-top: 3px solid @langBgColor;
+        border-left: 3px solid @langBgColor;
+        font-weight: lighter;
+
+        .rangeValueContainer {
+          position: absolute;
+          text-align: right;
+          width: 100px;
+          left: -20px;
+          top: 10px;
+        }
+
+        div.logo {
+          position: relative;
+          width: 20%;
+          top: 20%;
+          left: 2%;
+
+          img {
+            position: absolute;
+            width: @iconWidth - 10;
+          }
+
+          div.descAlign {
+            position: absolute;
+            top: 10%;
+            left: 36%;
+            width: 180px;
+            text-align: right;
+            letter-spacing: 1px;
+
+            span.description {
+              text-transform: uppercase;
+              font-size: @rangeValueFontSize * .7;
+              color: @rangeValueColor;
+            }
+          }
+
+        }
+
+        .slider {
+          position: relative;
+          top: 40%;
+          left: 25%;
+          width: 100%;
+
+          .minValueContainer {
+            text-align: right;
+            width: 50px;
+            height: 20px;
+            position: absolute;
+            left: -70px;
+          }
+
+          span.minValue, span.maxValue {
+            position: relative;
+            color: @secondaryColor;
+            top: 55px;
+          }
+
+          #ppm {
+            left: -10px;
+          }
+
+          span.maxValue {
+            left: 66%;
+          }
+
+          span.rangeValue {
+            color: @rangeValueColor;
+            left: @rangeValueLeft;
+            top: @rangeValueTop + 8;
+            position: relative;
+            font-size: @rangeValueFontSize;
+            z-index: 2;
+
+            span.strong {
+              font-weight: bold;
+            }
+          }
+        }
+      }
+    }
+    .infoTut {
+      box-shadow: 5px 5px 10px @primaryColor;
+      width: @slidersKlein + 5%;
+      height: 88%;
+      background: @langBgColor;
+      position: absolute;
+      left: 74%;
+      top: 2%;
+      border-bottom: 3px solid @langBgColor;
+
+      a {
+        padding: 10px;
+        border: none;
+        color: @langBgColor;
+        background: lighten(@focusColor, 10%);
+        font-size: 1em;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        position: absolute;
+        top: 90%;
+        left: 40%;
+        text-decoration: none;
+        font-weight: normal;
+
+        &:active {
+          color: @textColor;
+        }
+      }
+      .clock {
+        color: @textColor;
+
+        .countdown {
+          //border-bottom: 1px solid rgba(255, 255, 255, .1);
+          width: 80%;
+        }
+
+        p, .countdown, .upsidedown {
+          text-align: left;
+          margin: 20px 0 -20px 35px;
+          font-variant: small-caps;
+          color: @msgColor;
+        }
+
+        .countdown, .upsidedown {
+          margin: 0 0 5px 35px;
+          font-size: 7em;
+          color: @rangeValueColor;
+          font-weight: lighter;
+        }
+
+        .upsidedown {
+          margin: -52px 0 5px 35px;
+          -webkit-transform: rotate(180deg);
+          -moz-transform: rotate(180deg);
+          -ms-transform: rotate(180deg);
+          -o-transform: rotate(180deg);
+          transform: rotate(180deg);
+
+          -webkit-transform: scale(1, -1);
+          -moz-transform: scale(1, -1);
+          -ms-transform: scale(1, -1);
+          -o-transform: scale(1, -1);
+          transform: scale(1, -1);
+
+          text-align: left;
+          opacity: .1;
+          //-webkit-clip-path: inset(65% 0px 0px 0px);
+        }
+      }
+
+    }
+
+  }
+}
+
+div#step1_3 {
+  .tutorial {
+    width: 100%;
+    height: 100vh;
+    white-space: nowrap;
+    background: #232927;
+    font-weight: lighter;
+    letter-spacing: 1px;
+
+    div.slidersKlein, div.infoGroot, div.uwPlant, div.ideaalPlant {
+      box-shadow: 5px 5px 10px @primaryColor;
+      height: 88%;
+    }
+
+    div.slidersKlein {
+      width: 15%;
+      position: absolute;
+      top: 2%;
+      left: 5%;
+      background: @langBgColor;
+      font-weight: lighter;
+
+      .sliderBlock {
+        width: 100%;
+        height: 19.68%;
+        background: #353A37;
+        border-top: 2px solid @langBgColor;
+        border-left: 3px solid @langBgColor;
+        border-bottom: 1px solid @langBgColor;
+
+        div.logo {
+          position: relative;
+          top: 35%;
+          left: 10%;
+
+          img {
+            width: 25%;
+          }
+
+          span.description {
+            position: absolute;
+            text-transform: uppercase;
+            font-size: @rangeValueFontSize * .6;
+            color: @textColor;
+            letter-spacing: 1px;
+            top: -40%;
+            left: 5%;
+          }
+
+          span img {
+            width: 80%;
+            position: absolute;
+            left: 15%;
+            top: 0;
+          }
+        }
+      }
+
+    }
+    div.infoGroot {
+      width: 40%;
+      left: 35%;
+      top: 2%;
+      position: absolute;
+
+      div.slidersKleinInfo {
+        position: absolute;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background: darken(@primaryColor, 10%);
+        z-index: 1;
+        font-weight: lighter;
+
+        div.sliderBlock {
+
+          width: 100%;
+          height: 19.68%;
+          border-top: 2px solid @langBgColor;
+          border-bottom: 1px solid @langBgColor;
+
+          img:nth-child(1) {
+            width: 30%;
+            margin: 40px 0 0 10px;
+          }
+
+          img:nth-child(2) {
+            width: 55%;
+          }
+          p {
+            margin: 35px 0 0 25px;
+            color: @textColor;
+            line-height: 1.6em;
+            width: 500px;
+            white-space: normal;
+          }
+
+        }
+      }
+    }
+
+    div.uwPlant {
+      position: absolute;
+      width: 16%;
+      top: 2%;
+      height: 88%;
+      left: 19%;
+      background: @langBgColor;
+
+      div.title {
+
+        position: absolute;
+        top: 4%;
+        left: 0;
+        text-align: center;
+        font-size: 1.5em;
+        letter-spacing: 3px;
+        text-transform: uppercase;
+        font-weight: normal;
+        white-space: normal;
+
+        p.uwTitle {
+          width: 280px;
+          color: @rangeValueColor;
+        }
+      }
+
+      .tutorialPlant {
+
+        position: absolute;
+        left: 15%;
+        top: 40%;
+
+        img {
+          width: 200px;
+        }
+      }
+
+      .ondergrond {
+        position: absolute;
+        top: 80%;
+        left: 15%;
+
+        img {
+          width: 200px;
+        }
+      }
+    }
+
+    div.ideaalPlant {
+      width: 19%;
+      top: 2%;
+      left: 75%;
+      background: @langBgColor;
+      position: absolute;
+      height: 88%;
+
+      div.title {
+        position: absolute;
+        top: 4%;
+        left: 0;
+        text-align: center;
+        font-size: 1.5em;
+        letter-spacing: 3px;
+        text-transform: uppercase;
+        font-weight: normal;
+        white-space: normal;
+
+        p.ideaalTitle {
+          width: 350px;
+          color: @rangeValueColor;
+        }
+      }
+
+      .tutorialPlant {
+
+        position: absolute;
+        left: 15%;
+        top: 40%;
+
+        img {
+          width: 200px;
+        }
+      }
+
+      .ondergrond {
+        position: absolute;
+        top: 80%;
+        left: 15%;
+
+        img {
+          width: 200px;
+        }
+      }
+
+      .loadingBg, .loadingFg {
+        left: 20%;
+        top: 95%;
+      }
+
+      div.loadingBg {
+        width: 142px;
+        height: 30px;
+        background: darken(@primaryColor, 10%);
+        position: absolute;
+      }
+      .loadingFg {
+        width: 100px;
+        height: 30px;
+        position: absolute;
+      }
+
+      .timerKlein {
+        font-size: 2em;
+        color: @focusColor;
+        font-weight: normal;
+        position: absolute;
+        top: 94.5%;
+        left: 65%;
+      }
+    }
+
+    div#tutInfo1 {
+      position: absolute;
+      width: 550px;
+      height: 50px;
+      background: @msgColor;
+      top: 93%;
+      left: 5%;
+
+      p {
+        color: @textColor;
+        white-space: normal;
+        margin: 10px 15px 0 15px;
+        line-height: 1.2em;
+      }
+    }
+  }
+}
+
+div.introBolletjes {
+
+  width: 90px;
+  position: absolute;
+  left: 45%;
+  top: 95%;
+  z-index: 999;
+}
+
+.progressCircle {
+  width: 10px;
+  height: 10px;
+  background: @primaryColor;
+  border-radius: 50%;
+  float: left;
+  margin-left: 20px;
+}
+
+div.opacity {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 5;
+  background: #000;
+  opacity: .8;
+}
+
+div.lockScreen {
+
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  display: none;
+  z-index: 990;
+  opacity: 0;
+}
+
+div#skipTutorial  {
+  position: absolute;
+  display: block;
+  z-index: 999;
+  top: 95%;
+  left: 83%;
+  width: auto;
+  height: auto;
+
+  a {
+
+    padding: 10px;
+    border: none;
+    color: @langBgColor;
+    background: @focusColor;
+    font-size: 1em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+
+    &:active {
+      color: @textColor;
+    }
+  }
+
+}
+
+div#end {
+
+  cursor: none;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  display: none;
+
+  #endOpacity {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    opacity: .8;
+    background: @langBgColor;
+  }
+
+  #endContainer {
+
+    position: absolute;
+    z-index: 11111;
+    width: 300px;
+    left: 40%;
+    top: 40%;
+
+    input[type="button"] {
+      margin: 10px auto;
+      width: 300px;
+      height: 50px;
+      border: none;
+      font-size: 1em;
+      cursor: none;
+      text-transform: uppercase;
+      font-weight: normal;
+      letter-spacing: 1px;
+
+      &:focus {
+        outline: none;
+        cursor: none;
+      }
+
+    }
+
+    a:nth-child(2) {
+
+      input[type="button"] {
+
+        color: @langBgColor;
+        background: @focusColor;
+
+        &:focus {
+          color: @textColor;
+          background: @focusColor;
+        }
+      }
+    }
+
+    a:nth-child(1) {
+      input[type="button"] {
+
+        color: @textColor;
+        background: @secondaryColor;
+
+        &:focus {
+          color: @textColor;
+          background: @focusColor;
+        }
+      }
+    }
+  }
+}
+
+.animation {
+
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.green {
+  background-color: #90b75f;
+}
+
+.animation.ng-leave {
+  z-index: 9999;
+}
+
+.animation.ng-enter {
+  z-index: 8888;
+}
+
+/*.animation.ng-leave        {
+  -webkit-animation:slideOutLeft 0.5s both ease-in;
+  -moz-animation:slideOutLeft 0.5s both ease-in;
+  animation:slideOutLeft 0.5s both ease-in;
+}*/
+.animation.ng-enter {
+  /*-webkit-animation:slideInRight 0.5s both ease-in;
+  -moz-animation:slideInRight 0.5s both ease-in;
+  animation:slideInRight 0.5s both ease-in;*/
+  /*-webkit-animation: fadeIn 1s;*/
+  /*-o-animation: fadeIn 1s;*/
+  -webkit-animation: slideInRight .5s both ease-out;
+}
+
+.main.ng-enter {
+  -webkit-animation: fadeIn 1s;
+}
+
+/*
+@keyframes fadeOut{
+  from {opacity: 1;}
+  to {opacity: 0}
+}*/
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1
+  }
+}
+
+.hide {
+  display: none;
+}
+
+@keyframes slideInRight {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+@-moz-keyframes slideInRight {
+  from {
+    -moz-transform: translateX(100%);
+  }
+  to {
+    -moz-transform: translateX(0);
+  }
+}
+
+@-webkit-keyframes slideInRight {
+  from {
+    -webkit-transform: translateX(100%);
+  }
+  to {
+    -webkit-transform: translateX(0);
+  }
+}
+
+/*
+
+@keyframes slideOutLeft {
+  to 		{ transform: translateX(-100%); }
+}
+@-moz-keyframes slideOutLeft {
+  to 		{ -moz-transform: translateX(-100%); }
+}
+@-webkit-keyframes slideOutLeft {
+  to 		{ -webkit-transform: translateX(-100%); }
+}*/

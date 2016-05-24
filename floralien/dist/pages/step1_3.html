@@ -1,0 +1,117 @@
+<section ng-controller="progressController">
+    <div class="lockScreen" ng-click="nextStep('step2')"></div>
+    <div id="skipTutorial">
+        <a ng-click="changeView('step2', 'false')"><span class="skipTutorial"></span></a>
+    </div>
+    <div id="step1_3">
+        <div class="tutorial">
+            <div class="slidersKlein">
+                <div class="sliderBlock">
+                    <div class="logo">
+                        <img id="image1" src="./dist/images/clockDark.png" alt="Clock">
+                        <span class="description desc1"></span>
+                        <span class="perfectValue"><img src="./dist/images/blurry1.png" alt=""></span>
+                    </div>
+                </div>
+                <div class="sliderBlock">
+                    <div class="logo">
+                        <img src="./dist/images/rainDark.png" alt="Rain">
+                        <span class="description desc2"></span>
+                        <span class="perfectValue"><img src="./dist/images/blurry2.png" alt=""></span>
+                    </div>
+
+                </div>
+                <div class="sliderBlock">
+                    <div class="logo">
+                        <img src="./dist/images/tempDark.png" alt="Temp">
+                        <span class="description desc3"></span>
+                        <span class="perfectValue"><img src="./dist/images/blurry3.png" alt=""></span>
+                    </div>
+
+
+                </div>
+                <div class="sliderBlock">
+                    <div class="logo">
+                        <img src="./dist/images/sunlightDark.png" alt="Sun">
+                        <span class="description desc4"></span>
+                        <span class="perfectValue"><img src="./dist/images/blurry4.png" alt=""></span>
+                    </div>
+                </div>
+                <div class="sliderBlock">
+                    <div class="logo">
+                        <img src="./dist/images/CO2Dark.png" alt="Co2">
+                        <span class="description desc5"></span>
+                        <span class="perfectValue"><img src="./dist/images/blurry5.png" alt=""></span>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="uwPlant">
+                <div class="title">
+                    <p class="uwTitle 1_3UwTitle"></p>
+                </div>
+                <div class="tutorialPlant">
+                    <img src="./dist/images/plant_02.jpg" alt="Plant02">
+                </div>
+                <div class="ondergrond">
+                    <img src="./dist/images/ondergrond.png" alt="ondergrond">
+                </div>
+            </div>
+
+            <div class="infoGroot">
+                <div class="slidersKleinInfo">
+                    <div class="sliderBlock">
+                        <img src="./dist/images/blurry6.png" alt="blurry">
+                        <img src="./dist/images/blurry11.png" alt="blurry">
+                    </div>
+
+                    <div class="sliderBlock">
+                        <img src="./dist/images/blurry7.png" alt="blurry">
+                        <img src="./dist/images/blurry12.png" alt="blurry">
+                    </div>
+                    <div class="sliderBlock">
+                        <img src="./dist/images/blurry8.png" alt="blurry">
+                        <img src="./dist/images/blurry13.png" alt="blurry">
+                    </div>
+                    <div class="sliderBlock">
+                        <img src="./dist/images/blurry9.png" alt="blurry">
+                        <img src="./dist/images/blurry14.png" alt="blurry">
+                    </div>
+                    <div class="sliderBlock">
+                        <img src="./dist/images/blurry10.png" alt="blurry">
+                        <img src="./dist/images/blurry15.png" alt="blurry">
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="ideaalPlant">
+                <div class="title">
+                    <p class="ideaalTitle 1_3IdeaalTitle"></p>
+                </div>
+
+                <div class="tutorialPlant">
+                    <img src="./dist/images/plant_05.jpg" alt="Plant02">
+                </div>
+
+                <div class="ondergrond">
+                    <img src="./dist/images/ondergrond.png" alt="ondergrond">
+                </div>
+                <div class="loadingBg" id="loadingBg"></div>
+                <img src="./dist/images/loadingFg.png" alt="" id="loadingStep2" class="loadingFg">
+                <div class="timerKlein">00:06</div>
+            </div>
+
+            <div id="tutInfo1">
+                <p class="1_3Msg"></p>
+            </div>
+        </div>
+
+    </div>
+    <div class="introBolletjes">
+        <div class="progressCircle" id="circle1"></div>
+        <div class="progressCircle" id="circle2"></div>
+        <div class="progressCircle green" id="circle3"></div>
+    </div>    <div ng-include="'./dist/pages/end.html'"></div>
+</section>

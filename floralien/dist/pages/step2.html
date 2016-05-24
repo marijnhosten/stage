@@ -1,0 +1,165 @@
+<section>
+    <div class="lockScreen"></div>
+    <div class="container">
+        <div class="endTimer"></div>
+        <div class="sliders">
+
+            <div class="sliderBlock game">
+                <div class="logo">
+                    <img id="image1" src="./dist/images/clock.png" alt="Clock">
+
+                    <div class="descAlign">
+                        <span class="description desc1"></span>
+                    </div>
+                </div>
+
+                <div class="slider">
+                    <div class="minValueContainer">
+                        <span class="minValue">8 h</span>
+                    </div>
+
+                    <div id="slider1" class="sliderTriangle">
+                        <img id="blackImg1" class="blackImg" src="./dist/images/blackSlider.png" alt="">
+                        <img src="./dist/images/coloredSlider.png" alt="" id="coloredImg1" class="coloredImg">
+
+                        <div id="thumb1" class="thumb">
+                            <img src="./dist/images/thumb.png" alt="">
+                        </div>
+                        <div class="rangeValueContainer">
+                            <span class="rangeValue"><span id="clock" class="strong">8</span><span> h</span></span>
+                        </div>
+                        <div class="thumbDrag draggable" id="thumbDrag1"></div>
+                    </div>
+
+
+                    <span class="maxValue">16 h</span>
+                </div>
+            </div>
+            <div class="sliderBlock game">
+                <div class="logo">
+                    <img src="./dist/images/rain.png" alt="Clock">
+
+                    <div class="descAlign">
+                        <span class="description desc2"></span>
+                    </div>
+                </div>
+
+                <div class="slider">
+                    <div class="minValueContainer">
+                        <span class="minValue">5 l/m<sup>2</sup></span>
+                    </div>
+                    <div id="slider2" class="sliderTriangle">
+                        <img class="blackImg" id="blackImg2" src="./dist/images/blackSlider.png" alt="">
+                        <img src="./dist/images/coloredSlider.png" alt="" id="coloredImg2" class="coloredImg">
+
+                        <div id="thumb2" class="thumb">
+                            <img src="./dist/images/thumb.png" alt="">
+                        </div>
+                        <div class="rangeValueContainer">
+                            <span class="rangeValue"><span id="rain" class="strong">5</span><span> l/m²</span></span>
+                        </div>
+                        <div class="thumbDrag draggable" id="thumbDrag2"></div>
+                    </div>
+                    <span class="maxValue">10 l/m<sup>2</sup></span>
+                </div>
+            </div>
+            <div class="sliderBlock game">
+                <div class="logo">
+                    <img src="./dist/images/temperature.png" alt="Clock">
+
+                    <div class="descAlign">
+                        <span class="description desc3"></span>
+                    </div>
+                </div>
+
+                <div class="slider">
+                    <div class="minValueContainer">
+                        <span class="minValue">10 °C</span>
+                    </div>
+                    <div id="slider3" class="sliderTriangle">
+                        <img class="blackImg" id="blackImg3" src="./dist/images/blackSlider.png" alt="">
+                        <img src="./dist/images/coloredSlider.png" alt="" id="coloredImg3" class="coloredImg">
+
+                        <div id="thumb3" class="thumb">
+                            <img src="./dist/images/thumb.png" alt="">
+                        </div>
+                        <div class="rangeValueContainer">
+                            <span class="rangeValue"><span id="temp" class="strong">10</span><span> °C</span></span>
+                        </div>
+                        <div class="thumbDrag draggable" id="thumbDrag3"></div>
+                    </div>
+                    <span class="maxValue">30 °C</span>
+                </div>
+            </div>
+            <div class="sliderBlock game">
+                <div class="logo">
+                    <img src="./dist/images/sunlight.png" alt="Clock">
+
+                    <div class="descAlign">
+                        <span class="description desc4"></span>
+                    </div>
+                </div>
+
+                <div class="slider">
+                    <div class="minValueContainer">
+                        <span class="minValue">2 mol</span>
+                    </div>
+                    <div id="slider4" class="sliderTriangle">
+                        <img class="blackImg" id="blackImg4" src="./dist/images/blackSlider.png" alt="">
+                        <img src="./dist/images/coloredSlider.png" alt="" id="coloredImg4" class="coloredImg">
+
+                        <div id="thumb4" class="thumb">
+                            <img src="./dist/images/thumb.png" alt="">
+                        </div>
+                        <div class="rangeValueContainer">
+                            <span class="rangeValue"><span id="sun" class="strong">2</span><span> mol</span></span>
+                        </div>
+                        <div class="thumbDrag draggable" id="thumbDrag4"></div>
+                    </div>
+                    <span class="maxValue">15 mol</span>
+                </div>
+            </div>
+            <div class="sliderBlock game">
+                <div class="logo">
+                    <img src="./dist/images/CO2.png" alt="Clock">
+
+                    <div class="descAlign">
+                        <span class="description desc5"></span>
+                    </div>
+                </div>
+
+                <div class="slider">
+                    <div class="minValueContainer">
+                        <span class="minValue" id="ppm">380 ppm</span>
+                    </div>
+                    <div id="slider5" class="sliderTriangle">
+                        <img class="blackImg" id="blackImg5" src="./dist/images/blackSlider.png" alt="">
+                        <img src="./dist/images/coloredSlider.png" alt="" id="coloredImg5" class="coloredImg">
+
+                        <div id="thumb5" class="thumb">
+                            <img src="./dist/images/thumb.png" alt="">
+                        </div>
+                        <div class="rangeValueContainer">
+                            <span class="rangeValue"><span id="co2" class="strong">380</span><span> ppm</span></span>
+                        </div>
+                        <div class="thumbDrag draggable" id="thumbDrag5"></div>
+                    </div>
+                    <span class="maxValue">900 ppm</span>
+                </div>
+            </div>
+
+        </div>
+        <div class="info">
+            <div class="clock">
+                <p class="message"></p>
+
+                <div class="countdown"></div>
+                <div class="upsidedown"></div>
+            </div>
+
+            <a ng-click="changeView('step3', 'false')"><span id="tmrStop" class="ready"></span></a>
+        </div>
+    </div>
+    <div ng-include="'./dist/pages/end.html'"></div>
+</section>
+

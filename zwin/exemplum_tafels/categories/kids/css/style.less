@@ -1,0 +1,106 @@
+.kids.page{
+  width: 1340px;
+  height: 810px;
+  top: 160px;
+  left: 60px;
+
+}
+
+.kids {
+  opacity: 1;
+  transition: 500ms;
+
+  &.hidden {
+    opacity: 0;
+    transition: 500ms;
+  }
+}
+
+.birdimage{
+
+  width: 1920px;
+  height: 1080px;
+  position: fixed;
+  pointer-events: none;
+  z-index: 0;
+  top: 0;
+  left: 0;
+
+}
+#wheelOfBeaks{
+
+  width: 1920px;
+  height: 1080px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  transform-origin: 960px 570px;
+  transition: 300ms transform;
+
+}
+
+.gokbutton{
+  background-color: #ff4a4a;
+  height: 50px;
+  width: 200px;
+  color: white;
+  position: absolute;
+  right: 50px;
+  bottom: 200px;
+  text-align: center;
+  line-height: 50px;
+  font-family: arial;
+
+}
+
+.arrow{
+  width: 95px;
+  height: 95px;
+  background-image: url("../assets/img/arrow.png");
+  background-repeat: no-repeat;
+  position: absolute;
+  left: 1200px;
+  z-index: 3;
+  &:active{
+    transform: scale(0.9);
+  }
+
+
+  &.back{
+
+  }
+  &.forward{
+    transform: rotate(-90deg);
+    top: 726px;
+    &:active{
+      transform: rotate(-90deg) scale(0.9);
+    }
+  }
+}
+.angryBird{
+  background-image: url('../assets/img/fout.png');
+  width: 1920px;
+  height: 1080px;
+  position: absolute;
+  pointer-events: none;
+  margin-top: -140px;
+  z-index: 2;
+  &.hidden {
+    opacity: 0;
+    transition: 500ms;
+  }
+}
+.happyBird{
+  background-image: url('../assets/img/goed.png');
+  width: 1920px;
+  height: 1080px;
+  position: absolute;
+  pointer-events: none;
+  margin-top: -140px;
+  z-index: 2;
+  &.hidden {
+    opacity: 0;
+    transition: 500ms;
+  }
+}
